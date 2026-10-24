@@ -1,0 +1,7 @@
+department,overtime,employees,attrition_count,attrition_rate_pct
+HR,Yes,17,5,29.41
+HR,No,46,7,15.22
+R&D,Yes,271,74,27.31
+R&D,No,690,59,8.55
+Sales,Yes,128,48,37.5
+Sales,No,318,44,13.84

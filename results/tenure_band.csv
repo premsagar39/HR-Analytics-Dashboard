@@ -1,0 +1,5 @@
+tenure_band,employees,attrition_count,attrition_rate_pct
+0-1 years,215,75,34.88
+2-5 years,561,87,15.51
+6-10 years,448,55,12.28
+11+ years,246,20,8.13

@@ -1,0 +1,1471 @@
+employee_id,attrition,department,job_role,gender,age,education,education_field,overtime,years_at_company,job_satisfaction,monthly_income,employee_count,attrition_flag,age_band,tenure_band
+1,Yes,Sales,Sales Executive,Female,41,Associates Degree,Life Sciences,Yes,6,4,5993,1,1,35-44,6-10 years
+2,No,R&D,Research Scientist,Male,49,High School,Life Sciences,No,10,2,5130,1,0,45-54,6-10 years
+4,Yes,R&D,Laboratory Technician,Male,37,Associates Degree,Other,Yes,0,3,2090,1,1,35-44,0-1 years
+5,No,R&D,Research Scientist,Female,33,Master's Degree,Life Sciences,Yes,8,3,2909,1,0,25-34,6-10 years
+7,No,R&D,Laboratory Technician,Male,27,High School,Medical,No,2,2,3468,1,0,25-34,2-5 years
+8,No,R&D,Laboratory Technician,Male,32,Associates Degree,Life Sciences,No,7,4,3068,1,0,25-34,6-10 years
+10,No,R&D,Laboratory Technician,Female,59,Bachelor's Degree,Medical,Yes,1,1,2670,1,0,55+,0-1 years
+11,No,R&D,Laboratory Technician,Male,30,High School,Life Sciences,No,1,3,2693,1,0,25-34,0-1 years
+12,No,R&D,Manufacturing Director,Male,38,Bachelor's Degree,Life Sciences,No,9,3,9526,1,0,35-44,6-10 years
+13,No,R&D,Healthcare Representative,Male,36,Bachelor's Degree,Medical,No,7,3,5237,1,0,35-44,6-10 years
+14,No,R&D,Laboratory Technician,Male,35,Bachelor's Degree,Medical,No,5,2,2426,1,0,35-44,2-5 years
+15,No,R&D,Laboratory Technician,Female,29,Associates Degree,Life Sciences,Yes,9,3,4193,1,0,25-34,6-10 years
+16,No,R&D,Research Scientist,Male,31,High School,Life Sciences,No,5,3,2911,1,0,25-34,2-5 years
+18,No,R&D,Laboratory Technician,Male,34,Associates Degree,Medical,No,2,4,2661,1,0,25-34,2-5 years
+19,Yes,R&D,Laboratory Technician,Male,28,Bachelor's Degree,Life Sciences,Yes,4,3,2028,1,1,25-34,2-5 years
+20,No,R&D,Manufacturing Director,Female,29,Master's Degree,Life Sciences,No,10,1,9980,1,0,25-34,6-10 years
+21,No,R&D,Research Scientist,Male,32,Associates Degree,Life Sciences,Yes,6,2,3298,1,0,25-34,6-10 years
+22,No,R&D,Laboratory Technician,Male,22,Associates Degree,Medical,Yes,1,4,2935,1,0,Under 25,0-1 years
+23,No,Sales,Manager,Female,53,Master's Degree,Life Sciences,No,25,4,15427,1,0,45-54,11+ years
+24,No,R&D,Research Scientist,Male,38,Bachelor's Degree,Life Sciences,Yes,3,4,3944,1,0,35-44,2-5 years
+26,No,R&D,Manufacturing Director,Female,24,Associates Degree,Other,No,4,3,4011,1,0,Under 25,2-5 years
+27,Yes,Sales,Sales Representative,Male,36,Master's Degree,Life Sciences,No,5,1,3407,1,1,35-44,2-5 years
+28,No,R&D,Research Director,Female,34,Master's Degree,Life Sciences,No,12,2,11994,1,0,25-34,11+ years
+30,No,R&D,Research Scientist,Male,21,Associates Degree,Life Sciences,No,0,4,1232,1,0,Under 25,0-1 years
+31,Yes,R&D,Research Scientist,Male,34,High School,Medical,No,4,1,2960,1,1,25-34,2-5 years
+32,No,R&D,Manager,Female,53,Bachelor's Degree,Other,No,14,3,19094,1,0,45-54,11+ years
+33,Yes,R&D,Research Scientist,Female,32,High School,Life Sciences,Yes,10,1,3919,1,1,25-34,6-10 years
+35,No,Sales,Sales Executive,Male,42,Master's Degree,Marketing,No,9,2,6825,1,0,35-44,6-10 years
+36,No,R&D,Healthcare Representative,Female,44,Master's Degree,Medical,No,22,4,10248,1,0,35-44,11+ years
+38,No,Sales,Manager,Female,46,Master's Degree,Marketing,No,2,1,18947,1,0,45-54,2-5 years
+39,No,R&D,Laboratory Technician,Male,33,Bachelor's Degree,Medical,No,1,4,2496,1,0,25-34,0-1 years
+40,No,R&D,Healthcare Representative,Male,44,Master's Degree,Other,Yes,4,4,6465,1,0,35-44,2-5 years
+41,No,R&D,Laboratory Technician,Male,30,Associates Degree,Medical,No,10,3,2206,1,0,25-34,6-10 years
+42,Yes,Sales,Sales Representative,Male,39,Bachelor's Degree,Technical Degree,No,1,4,2086,1,1,35-44,0-1 years
+45,Yes,R&D,Research Scientist,Male,24,Bachelor's Degree,Medical,Yes,2,4,2293,1,1,Under 25,2-5 years
+46,No,R&D,Research Scientist,Female,43,Associates Degree,Medical,No,5,3,2645,1,0,35-44,2-5 years
+47,Yes,Sales,Sales Representative,Male,50,Associates Degree,Marketing,Yes,3,3,2683,1,1,45-54,2-5 years
+49,No,Sales,Sales Representative,Female,35,Bachelor's Degree,Marketing,No,2,4,2014,1,0,35-44,2-5 years
+51,No,R&D,Research Scientist,Female,36,Master's Degree,Life Sciences,Yes,1,1,3419,1,0,35-44,0-1 years
+52,No,Sales,Sales Executive,Female,33,Bachelor's Degree,Life Sciences,No,5,1,5376,1,0,25-34,2-5 years
+53,No,R&D,Laboratory Technician,Male,35,Associates Degree,Other,No,1,4,1951,1,0,35-44,0-1 years
+54,No,R&D,Laboratory Technician,Female,27,Master's Degree,Life Sciences,No,1,1,2341,1,0,25-34,0-1 years
+55,Yes,R&D,Laboratory Technician,Male,26,Bachelor's Degree,Life Sciences,No,1,3,2293,1,1,25-34,0-1 years
+56,No,Sales,Sales Executive,Male,27,Bachelor's Degree,Life Sciences,No,9,3,8726,1,0,25-34,6-10 years
+57,No,R&D,Laboratory Technician,Female,30,Associates Degree,Medical,No,12,4,4011,1,0,25-34,11+ years
+58,Yes,R&D,Research Director,Female,41,Bachelor's Degree,Technical Degree,No,22,3,19545,1,1,35-44,11+ years
+60,No,Sales,Sales Executive,Male,34,Master's Degree,Marketing,No,9,3,4568,1,0,25-34,6-10 years
+61,No,R&D,Research Scientist,Male,37,Associates Degree,Life Sciences,No,1,2,3022,1,0,35-44,0-1 years
+62,No,Sales,Sales Executive,Male,46,Master's Degree,Marketing,Yes,9,4,5772,1,0,45-54,6-10 years
+63,No,R&D,Laboratory Technician,Male,35,High School,Life Sciences,No,1,4,2269,1,0,35-44,0-1 years
+64,Yes,R&D,Laboratory Technician,Male,48,Associates Degree,Life Sciences,Yes,1,3,5381,1,1,45-54,0-1 years
+65,Yes,R&D,Laboratory Technician,Male,28,Master's Degree,Technical Degree,Yes,2,3,3441,1,1,25-34,2-5 years
+68,No,Sales,Sales Executive,Female,44,Doctoral Degree,Marketing,Yes,4,1,5454,1,0,35-44,2-5 years
+70,No,R&D,Healthcare Representative,Male,35,Associates Degree,Medical,Yes,4,1,9884,1,0,35-44,2-5 years
+72,No,Sales,Sales Executive,Female,26,Bachelor's Degree,Marketing,Yes,2,4,4157,1,0,25-34,2-5 years
+73,No,R&D,Research Director,Female,33,Associates Degree,Life Sciences,Yes,15,4,13458,1,0,25-34,11+ years
+74,No,Sales,Sales Executive,Male,35,Doctoral Degree,Life Sciences,No,9,1,9069,1,0,35-44,6-10 years
+75,No,R&D,Laboratory Technician,Female,35,Master's Degree,Medical,Yes,2,1,4014,1,0,35-44,2-5 years
+76,No,R&D,Laboratory Technician,Male,31,Master's Degree,Life Sciences,No,7,4,5915,1,0,25-34,6-10 years
+77,No,R&D,Manufacturing Director,Male,37,Master's Degree,Life Sciences,No,7,3,5993,1,0,35-44,6-10 years
+78,No,R&D,Manufacturing Director,Male,32,Bachelor's Degree,Medical,Yes,9,4,6162,1,0,25-34,6-10 years
+79,No,R&D,Laboratory Technician,Female,38,Doctoral Degree,Life Sciences,No,10,4,2406,1,0,35-44,6-10 years
+80,No,R&D,Research Director,Female,50,Associates Degree,Medical,Yes,27,3,18740,1,0,45-54,11+ years
+81,No,Sales,Sales Executive,Female,59,Bachelor's Degree,Life Sciences,No,21,1,7637,1,0,55+,11+ years
+83,No,R&D,Healthcare Representative,Female,36,Bachelor's Degree,Technical Degree,No,17,3,10096,1,0,35-44,11+ years
+84,No,R&D,Manager,Female,55,Bachelor's Degree,Medical,Yes,5,3,14756,1,0,55+,2-5 years
+85,No,R&D,Manufacturing Director,Male,36,Bachelor's Degree,Life Sciences,No,6,2,6499,1,0,35-44,6-10 years
+86,No,R&D,Research Scientist,Male,45,Bachelor's Degree,Life Sciences,No,1,1,9724,1,0,45-54,0-1 years
+88,No,R&D,Research Scientist,Male,35,Bachelor's Degree,Medical,No,3,1,2194,1,0,35-44,2-5 years
+90,Yes,R&D,Research Scientist,Male,36,Bachelor's Degree,Medical,Yes,1,3,3388,1,1,35-44,0-1 years
+91,No,Sales,Sales Executive,Female,59,High School,Life Sciences,No,4,3,5473,1,0,55+,2-5 years
+94,No,R&D,Research Scientist,Male,29,Bachelor's Degree,Life Sciences,No,5,2,2703,1,0,25-34,2-5 years
+95,No,R&D,Research Scientist,Male,31,Master's Degree,Medical,No,1,2,2501,1,0,25-34,0-1 years
+96,No,R&D,Research Scientist,Male,32,Bachelor's Degree,Life Sciences,No,10,2,6220,1,0,25-34,6-10 years
+97,No,R&D,Laboratory Technician,Female,36,Bachelor's Degree,Life Sciences,No,1,4,3038,1,0,35-44,0-1 years
+98,No,R&D,Manufacturing Director,Female,31,Master's Degree,Life Sciences,No,11,4,4424,1,0,25-34,11+ years
+100,No,Sales,Sales Executive,Male,35,Master's Degree,Marketing,No,15,1,4312,1,0,35-44,11+ years
+101,No,R&D,Research Director,Male,45,Master's Degree,Other,Yes,0,1,13245,1,0,45-54,0-1 years
+102,No,R&D,Research Director,Male,37,Master's Degree,Medical,No,5,3,13664,1,0,35-44,2-5 years
+103,No,HR,Human Resources,Male,46,Associates Degree,Medical,Yes,4,2,5021,1,0,45-54,2-5 years
+104,No,R&D,Laboratory Technician,Male,30,High School,Life Sciences,Yes,10,4,5126,1,0,25-34,6-10 years
+105,No,R&D,Research Scientist,Male,35,Bachelor's Degree,Medical,No,6,3,2859,1,0,35-44,6-10 years
+106,No,Sales,Sales Executive,Male,55,Associates Degree,Life Sciences,No,1,4,10239,1,0,55+,0-1 years
+107,No,R&D,Research Scientist,Female,38,Bachelor's Degree,Medical,Yes,13,4,5329,1,0,35-44,11+ years
+110,No,R&D,Manufacturing Director,Male,34,Associates Degree,Medical,No,5,2,4325,1,0,25-34,2-5 years
+112,No,R&D,Manufacturing Director,Male,56,Bachelor's Degree,Life Sciences,No,6,4,7260,1,0,55+,6-10 years
+113,No,Sales,Sales Representative,Male,23,High School,Technical Degree,No,0,1,2322,1,0,Under 25,0-1 years
+116,No,R&D,Laboratory Technician,Male,51,Master's Degree,Life Sciences,No,4,4,2075,1,0,45-54,2-5 years
+117,No,R&D,Healthcare Representative,Male,30,Bachelor's Degree,Life Sciences,No,11,4,4152,1,0,25-34,11+ years
+118,Yes,Sales,Sales Executive,Male,46,Associates Degree,Medical,No,9,4,9619,1,1,45-54,6-10 years
+119,No,R&D,Healthcare Representative,Male,40,Master's Degree,Life Sciences,No,22,2,13503,1,0,35-44,11+ years
+120,No,Sales,Sales Executive,Male,51,Master's Degree,Marketing,Yes,10,4,5441,1,0,45-54,6-10 years
+121,No,Sales,Sales Executive,Female,30,Associates Degree,Medical,Yes,11,2,5209,1,0,25-34,11+ years
+124,No,R&D,Healthcare Representative,Male,46,Bachelor's Degree,Medical,Yes,10,1,10673,1,0,45-54,6-10 years
+125,No,Sales,Sales Executive,Male,32,Master's Degree,Medical,No,11,3,5010,1,0,25-34,11+ years
+126,No,R&D,Research Director,Female,54,Master's Degree,Technical Degree,No,4,3,13549,1,0,45-54,2-5 years
+128,No,Sales,Sales Executive,Female,24,Associates Degree,Other,No,3,3,4999,1,0,Under 25,2-5 years
+129,No,Sales,Sales Executive,Male,28,Bachelor's Degree,Medical,No,5,3,4221,1,0,25-34,2-5 years
+131,No,Sales,Sales Executive,Male,58,Master's Degree,Medical,No,37,3,13872,1,0,55+,11+ years
+132,No,R&D,Laboratory Technician,Male,44,Bachelor's Degree,Medical,No,3,2,2042,1,0,35-44,2-5 years
+133,Yes,HR,Human Resources,Male,37,Master's Degree,Human Resources,Yes,3,1,2073,1,1,35-44,2-5 years
+134,No,R&D,Research Scientist,Male,32,High School,Life Sciences,No,1,1,2956,1,0,25-34,0-1 years
+137,Yes,R&D,Laboratory Technician,Female,20,Bachelor's Degree,Life Sciences,Yes,1,4,2926,1,1,Under 25,0-1 years
+138,No,R&D,Research Scientist,Female,34,Master's Degree,Other,No,16,3,4809,1,0,25-34,11+ years
+139,No,R&D,Healthcare Representative,Male,37,Associates Degree,Life Sciences,No,1,4,5163,1,0,35-44,0-1 years
+140,No,HR,Manager,Female,59,Master's Degree,Human Resources,No,3,4,18844,1,0,55+,2-5 years
+141,No,R&D,Research Director,Female,50,Bachelor's Degree,Life Sciences,Yes,8,2,18172,1,0,45-54,6-10 years
+142,Yes,Sales,Sales Executive,Male,25,Bachelor's Degree,Marketing,Yes,6,3,5744,1,1,25-34,6-10 years
+143,No,R&D,Research Scientist,Male,25,High School,Medical,No,2,4,2889,1,0,25-34,2-5 years
+144,No,R&D,Laboratory Technician,Female,22,Bachelor's Degree,Medical,No,0,4,2871,1,0,Under 25,0-1 years
+145,No,R&D,Healthcare Representative,Female,51,Master's Degree,Medical,No,13,1,7484,1,0,45-54,11+ years
+147,Yes,R&D,Laboratory Technician,Male,34,Bachelor's Degree,Life Sciences,Yes,9,3,6074,1,1,25-34,6-10 years
+148,No,HR,Manager,Female,54,Bachelor's Degree,Human Resources,Yes,5,4,17328,1,0,45-54,2-5 years
+150,No,R&D,Laboratory Technician,Male,24,High School,Life Sciences,No,5,3,2774,1,0,Under 25,2-5 years
+151,No,R&D,Research Scientist,Female,34,Master's Degree,Life Sciences,No,1,2,4505,1,0,25-34,0-1 years
+152,No,Sales,Sales Executive,Male,37,Bachelor's Degree,Life Sciences,No,5,4,7428,1,0,35-44,2-5 years
+153,No,R&D,Manager,Female,34,Bachelor's Degree,Medical,No,11,1,11631,1,0,25-34,11+ years
+154,No,Sales,Sales Executive,Female,36,Associates Degree,Technical Degree,No,9,4,9738,1,0,35-44,6-10 years
+155,No,R&D,Laboratory Technician,Female,36,Associates Degree,Life Sciences,No,1,4,2835,1,0,35-44,0-1 years
+158,No,Sales,Manager,Male,43,Associates Degree,Life Sciences,Yes,25,4,16959,1,0,35-44,11+ years
+159,No,R&D,Research Scientist,Male,30,Bachelor's Degree,Life Sciences,No,10,3,2613,1,0,25-34,6-10 years
+160,No,Sales,Sales Executive,Male,33,Associates Degree,Marketing,No,7,2,6146,1,0,25-34,6-10 years
+161,Yes,R&D,Research Scientist,Female,56,Master's Degree,Life Sciences,Yes,5,2,4963,1,1,55+,2-5 years
+162,No,R&D,Research Director,Male,51,Bachelor's Degree,Life Sciences,No,20,3,19537,1,0,45-54,11+ years
+163,Yes,Sales,Sales Executive,Male,31,Master's Degree,Life Sciences,Yes,7,3,6172,1,1,25-34,6-10 years
+164,No,R&D,Research Scientist,Female,26,Bachelor's Degree,Other,No,5,2,2368,1,0,25-34,2-5 years
+165,Yes,R&D,Healthcare Representative,Female,58,Master's Degree,Medical,No,40,4,10312,1,1,55+,11+ years
+167,Yes,Sales,Sales Representative,Male,19,High School,Marketing,Yes,0,3,1675,1,1,Under 25,0-1 years
+169,No,R&D,Laboratory Technician,Male,22,High School,Technical Degree,No,2,4,2523,1,0,Under 25,2-5 years
+170,No,R&D,Manufacturing Director,Female,49,Master's Degree,Medical,No,15,1,6567,1,0,45-54,11+ years
+171,No,R&D,Research Scientist,Female,43,Bachelor's Degree,Medical,No,3,3,4739,1,0,35-44,2-5 years
+174,No,Sales,Sales Executive,Female,50,Bachelor's Degree,Marketing,No,2,4,9208,1,0,45-54,2-5 years
+175,Yes,Sales,Sales Executive,Female,31,Bachelor's Degree,Life Sciences,Yes,2,3,4559,1,1,25-34,2-5 years
+176,No,Sales,Sales Executive,Male,41,High School,Life Sciences,Yes,9,3,8189,1,0,35-44,6-10 years
+177,No,HR,Human Resources,Female,26,High School,Life Sciences,No,8,3,2942,1,0,25-34,6-10 years
+178,No,R&D,Manufacturing Director,Male,36,Associates Degree,Medical,No,3,2,4941,1,0,35-44,2-5 years
+179,Yes,R&D,Manufacturing Director,Male,51,Master's Degree,Life Sciences,No,4,4,10650,1,1,45-54,2-5 years
+182,No,Sales,Sales Executive,Female,39,Master's Degree,Life Sciences,No,15,3,5902,1,0,35-44,11+ years
+183,No,Sales,Sales Executive,Male,25,Bachelor's Degree,Life Sciences,No,2,3,8639,1,0,25-34,2-5 years
+184,No,HR,Human Resources,Male,30,Bachelor's Degree,Human Resources,Yes,11,4,6347,1,0,25-34,11+ years
+190,Yes,R&D,Laboratory Technician,Female,32,Bachelor's Degree,Medical,No,5,1,4200,1,1,25-34,2-5 years
+192,No,R&D,Research Scientist,Male,45,Bachelor's Degree,Medical,No,6,4,3452,1,0,45-54,6-10 years
+193,No,R&D,Research Scientist,Female,38,Doctoral Degree,Technical Degree,Yes,3,3,4317,1,0,35-44,2-5 years
+194,No,R&D,Research Scientist,Female,30,Bachelor's Degree,Life Sciences,No,5,3,2632,1,0,25-34,2-5 years
+195,No,Sales,Sales Executive,Male,32,Associates Degree,Medical,No,8,4,4668,1,0,25-34,6-10 years
+197,No,R&D,Research Scientist,Female,30,Bachelor's Degree,Technical Degree,No,3,1,3204,1,0,25-34,2-5 years
+198,No,R&D,Laboratory Technician,Male,30,High School,Medical,No,5,4,2720,1,0,25-34,2-5 years
+199,No,R&D,Manager,Male,41,Bachelor's Degree,Life Sciences,No,7,1,17181,1,0,35-44,6-10 years
+200,No,R&D,Laboratory Technician,Male,41,Master's Degree,Life Sciences,No,5,1,2238,1,0,35-44,2-5 years
+201,No,R&D,Laboratory Technician,Female,19,High School,Medical,No,1,2,1483,1,0,Under 25,0-1 years
+202,No,R&D,Research Scientist,Female,40,Bachelor's Degree,Medical,No,20,2,5605,1,0,35-44,11+ years
+204,No,Sales,Sales Executive,Male,35,Doctoral Degree,Marketing,No,10,2,7295,1,0,35-44,6-10 years
+205,No,Sales,Sales Representative,Male,53,Associates Degree,Marketing,Yes,7,3,2306,1,0,45-54,6-10 years
+206,No,R&D,Laboratory Technician,Male,45,Bachelor's Degree,Life Sciences,No,17,2,2348,1,0,45-54,11+ years
+207,No,Sales,Sales Executive,Female,32,Bachelor's Degree,Marketing,No,9,4,8998,1,0,25-34,6-10 years
+208,No,R&D,Manufacturing Director,Male,29,High School,Technical Degree,No,10,3,4319,1,0,25-34,6-10 years
+211,No,R&D,Manufacturing Director,Male,51,Master's Degree,Medical,No,1,3,6132,1,0,45-54,0-1 years
+214,No,R&D,Research Scientist,Female,58,Bachelor's Degree,Medical,Yes,1,2,3346,1,0,55+,0-1 years
+215,No,Sales,Sales Executive,Male,40,Master's Degree,Marketing,No,12,4,10855,1,0,35-44,11+ years
+216,No,Sales,Sales Representative,Female,34,Master's Degree,Marketing,No,4,3,2231,1,0,25-34,2-5 years
+217,No,R&D,Research Scientist,Male,22,High School,Medical,No,2,4,2323,1,0,Under 25,2-5 years
+218,No,R&D,Research Scientist,Male,27,Bachelor's Degree,Medical,No,2,2,2024,1,0,25-34,2-5 years
+221,No,R&D,Research Scientist,Male,28,Bachelor's Degree,Medical,No,5,4,2713,1,0,25-34,2-5 years
+223,No,R&D,Healthcare Representative,Male,57,Associates Degree,Life Sciences,Yes,5,4,9439,1,0,55+,2-5 years
+224,No,R&D,Research Scientist,Male,27,Bachelor's Degree,Medical,Yes,1,3,2566,1,0,25-34,0-1 years
+226,No,R&D,Manager,Female,50,Bachelor's Degree,Life Sciences,No,5,2,19926,1,0,45-54,2-5 years
+227,No,R&D,Research Scientist,Male,41,Bachelor's Degree,Life Sciences,No,9,3,2451,1,0,35-44,6-10 years
+228,No,Sales,Sales Executive,Female,30,Bachelor's Degree,Life Sciences,No,10,4,9419,1,0,25-34,6-10 years
+230,No,Sales,Sales Executive,Female,38,Master's Degree,Life Sciences,No,8,4,8686,1,0,35-44,6-10 years
+231,No,R&D,Research Scientist,Male,32,Doctoral Degree,Life Sciences,No,5,3,3038,1,0,25-34,2-5 years
+233,No,R&D,Research Scientist,Male,27,Bachelor's Degree,Technical Degree,Yes,5,2,3058,1,0,25-34,2-5 years
+235,Yes,Sales,Sales Representative,Female,19,High School,Technical Degree,No,0,1,2325,1,1,Under 25,0-1 years
+238,No,R&D,Laboratory Technician,Male,36,Associates Degree,Medical,No,8,2,2088,1,0,35-44,6-10 years
+239,No,R&D,Laboratory Technician,Male,30,Bachelor's Degree,Medical,No,12,1,3072,1,0,25-34,11+ years
+240,No,Sales,Sales Executive,Female,45,Associates Degree,Life Sciences,Yes,5,1,5006,1,0,45-54,2-5 years
+241,No,R&D,Research Scientist,Female,56,Bachelor's Degree,Life Sciences,Yes,2,1,4257,1,0,55+,2-5 years
+242,No,R&D,Research Scientist,Male,33,Bachelor's Degree,Life Sciences,No,3,4,2500,1,0,25-34,2-5 years
+243,Yes,R&D,Laboratory Technician,Male,19,Bachelor's Degree,Life Sciences,No,1,4,1102,1,1,Under 25,0-1 years
+244,No,Sales,Sales Executive,Female,46,Associates Degree,Marketing,No,24,1,10453,1,0,45-54,11+ years
+245,No,R&D,Laboratory Technician,Female,38,Associates Degree,Life Sciences,No,2,4,2288,1,0,35-44,2-5 years
+246,No,R&D,Research Scientist,Female,31,High School,Medical,Yes,4,4,3929,1,0,25-34,2-5 years
+247,No,R&D,Research Scientist,Female,34,Associates Degree,Medical,No,3,2,2311,1,0,25-34,2-5 years
+248,Yes,Sales,Sales Representative,Female,41,Associates Degree,Marketing,Yes,4,2,3140,1,1,35-44,2-5 years
+249,No,R&D,Laboratory Technician,Male,50,Bachelor's Degree,Medical,No,3,3,3690,1,0,45-54,2-5 years
+250,No,R&D,Manufacturing Director,Female,53,Associates Degree,Medical,No,4,1,4450,1,0,45-54,2-5 years
+252,No,R&D,Research Scientist,Female,33,Bachelor's Degree,Medical,No,8,2,2756,1,0,25-34,6-10 years
+253,No,R&D,Manager,Female,40,High School,Medical,No,20,3,19033,1,0,35-44,11+ years
+254,No,R&D,Research Director,Male,55,Master's Degree,Medical,No,24,2,18722,1,0,55+,11+ years
+256,No,R&D,Manufacturing Director,Male,34,High School,Life Sciences,No,10,3,9547,1,0,25-34,6-10 years
+258,No,R&D,Healthcare Representative,Female,51,Bachelor's Degree,Medical,No,7,2,13734,1,0,45-54,6-10 years
+259,No,R&D,Manager,Male,52,Master's Degree,Life Sciences,No,33,3,19999,1,0,45-54,11+ years
+260,No,R&D,Research Scientist,Female,27,Bachelor's Degree,Medical,No,7,2,2279,1,0,25-34,6-10 years
+261,Yes,R&D,Manufacturing Director,Male,35,Associates Degree,Life Sciences,Yes,1,3,5916,1,1,35-44,0-1 years
+262,No,R&D,Research Scientist,Male,43,Bachelor's Degree,Medical,No,5,4,2089,1,0,35-44,2-5 years
+264,No,R&D,Manager,Male,45,Associates Degree,Medical,No,20,4,16792,1,0,45-54,11+ years
+267,No,R&D,Research Scientist,Male,37,Bachelor's Degree,Life Sciences,Yes,8,1,3564,1,0,35-44,6-10 years
+269,No,R&D,Laboratory Technician,Female,35,Bachelor's Degree,Medical,No,6,2,4425,1,0,35-44,6-10 years
+270,No,R&D,Manufacturing Director,Female,42,Associates Degree,Medical,No,5,3,5265,1,0,35-44,2-5 years
+271,No,R&D,Manufacturing Director,Male,38,Master's Degree,Life Sciences,No,1,3,6553,1,0,35-44,0-1 years
+273,No,R&D,Manufacturing Director,Male,38,Bachelor's Degree,Technical Degree,No,7,4,6261,1,0,35-44,6-10 years
+274,No,R&D,Manufacturing Director,Male,27,High School,Technical Degree,No,2,1,4298,1,0,25-34,2-5 years
+275,No,R&D,Manufacturing Director,Male,49,Master's Degree,Life Sciences,Yes,7,4,6804,1,0,45-54,6-10 years
+277,No,R&D,Research Scientist,Male,34,Master's Degree,Medical,Yes,5,3,3815,1,0,25-34,2-5 years
+281,No,R&D,Laboratory Technician,Male,40,Associates Degree,Medical,Yes,7,4,2741,1,0,35-44,6-10 years
+282,Yes,R&D,Healthcare Representative,Male,38,High School,Medical,Yes,1,1,6673,1,1,35-44,0-1 years
+283,Yes,Sales,Sales Executive,Female,29,Bachelor's Degree,Marketing,No,10,4,7639,1,1,25-34,6-10 years
+284,No,R&D,Research Scientist,Male,22,Bachelor's Degree,Life Sciences,Yes,4,2,2328,1,0,Under 25,2-5 years
+286,No,R&D,Laboratory Technician,Female,36,High School,Medical,No,8,4,2153,1,0,35-44,6-10 years
+287,No,R&D,Healthcare Representative,Male,40,Doctoral Degree,Life Sciences,No,3,4,4876,1,0,35-44,2-5 years
+288,No,R&D,Healthcare Representative,Male,46,Master's Degree,Medical,No,4,1,9396,1,0,45-54,2-5 years
+291,Yes,Sales,Sales Executive,Male,32,Master's Degree,Medical,No,14,4,10400,1,1,25-34,11+ years
+292,No,R&D,Manufacturing Director,Male,30,High School,Life Sciences,No,11,3,8474,1,0,25-34,11+ years
+293,No,Sales,Sales Executive,Female,27,Bachelor's Degree,Life Sciences,No,7,3,9981,1,0,25-34,6-10 years
+296,No,R&D,Research Director,Male,51,Master's Degree,Life Sciences,No,10,2,12490,1,0,45-54,6-10 years
+297,Yes,R&D,Research Scientist,Female,30,Bachelor's Degree,Technical Degree,Yes,5,1,2657,1,1,25-34,2-5 years
+298,No,Sales,Manager,Female,41,Bachelor's Degree,Life Sciences,Yes,1,4,13591,1,0,35-44,0-1 years
+299,Yes,Sales,Sales Executive,Female,30,Master's Degree,Marketing,No,6,1,6696,1,1,25-34,6-10 years
+300,Yes,R&D,Research Scientist,Male,29,Bachelor's Degree,Technical Degree,No,6,3,2058,1,1,25-34,6-10 years
+302,No,Sales,Sales Executive,Female,45,Bachelor's Degree,Medical,No,19,4,8865,1,0,45-54,11+ years
+303,No,Sales,Sales Executive,Female,54,Bachelor's Degree,Marketing,No,6,1,5940,1,0,45-54,6-10 years
+304,No,R&D,Laboratory Technician,Male,36,Associates Degree,Life Sciences,No,13,2,5914,1,0,35-44,11+ years
+305,No,R&D,Research Scientist,Female,33,Master's Degree,Medical,No,3,2,2622,1,0,25-34,2-5 years
+306,No,R&D,Research Director,Male,37,Bachelor's Degree,Other,Yes,10,4,12185,1,0,35-44,6-10 years
+307,No,Sales,Sales Executive,Male,38,Bachelor's Degree,Life Sciences,No,16,3,10609,1,0,35-44,11+ years
+308,No,R&D,Manufacturing Director,Male,31,Master's Degree,Medical,No,5,3,4345,1,0,25-34,2-5 years
+309,No,R&D,Research Scientist,Male,59,Bachelor's Degree,Life Sciences,No,1,4,2177,1,0,55+,0-1 years
+311,No,Sales,Sales Representative,Male,37,Master's Degree,Marketing,No,9,4,2793,1,0,35-44,6-10 years
+312,No,Sales,Sales Executive,Female,29,High School,Medical,No,11,4,7918,1,0,25-34,11+ years
+314,No,Sales,Sales Executive,Female,35,Bachelor's Degree,Marketing,No,10,3,8789,1,0,35-44,6-10 years
+315,Yes,R&D,Research Scientist,Male,29,High School,Medical,Yes,4,4,2389,1,1,25-34,2-5 years
+316,No,R&D,Laboratory Technician,Female,52,Bachelor's Degree,Life Sciences,No,2,4,3212,1,0,45-54,2-5 years
+319,No,R&D,Manager,Male,42,Associates Degree,Technical Degree,No,22,4,19232,1,0,35-44,11+ years
+321,No,HR,Human Resources,Male,59,Associates Degree,Medical,No,2,3,2267,1,0,55+,2-5 years
+323,No,Sales,Manager,Female,50,Master's Degree,Medical,No,7,4,19517,1,0,45-54,6-10 years
+325,Yes,R&D,Laboratory Technician,Male,33,Bachelor's Degree,Medical,Yes,5,4,2436,1,1,25-34,2-5 years
+327,No,Sales,Manager,Female,43,Bachelor's Degree,Marketing,Yes,17,4,16064,1,0,35-44,11+ years
+328,Yes,R&D,Laboratory Technician,Female,33,Associates Degree,Life Sciences,No,9,1,2707,1,1,25-34,6-10 years
+329,No,Sales,Manager,Male,52,Master's Degree,Life Sciences,Yes,33,3,19068,1,0,45-54,11+ years
+330,No,Sales,Sales Representative,Female,32,Associates Degree,Life Sciences,No,4,2,3931,1,0,25-34,2-5 years
+331,Yes,R&D,Laboratory Technician,Male,32,Bachelor's Degree,Life Sciences,Yes,3,3,3730,1,1,25-34,2-5 years
+332,No,R&D,Laboratory Technician,Female,39,Master's Degree,Medical,No,3,3,2232,1,0,35-44,2-5 years
+333,No,Sales,Sales Executive,Male,32,Master's Degree,Marketing,No,3,4,4465,1,0,25-34,2-5 years
+334,No,R&D,Research Scientist,Male,41,Associates Degree,Life Sciences,No,1,1,3072,1,0,35-44,0-1 years
+335,No,R&D,Research Scientist,Male,40,Associates Degree,Technical Degree,No,9,4,3319,1,0,35-44,6-10 years
+336,No,R&D,Manager,Male,45,Bachelor's Degree,Other,No,24,4,19202,1,0,45-54,11+ years
+337,No,R&D,Research Director,Male,31,Master's Degree,Medical,No,2,3,13675,1,0,25-34,2-5 years
+338,No,R&D,Research Scientist,Female,33,Master's Degree,Life Sciences,No,2,4,2911,1,0,25-34,2-5 years
+339,No,R&D,Manufacturing Director,Male,34,Master's Degree,Life Sciences,No,11,1,5957,1,0,25-34,11+ years
+340,No,R&D,Research Scientist,Female,37,Associates Degree,Medical,No,3,1,3920,1,0,35-44,2-5 years
+341,No,R&D,Manufacturing Director,Male,45,Master's Degree,Life Sciences,No,3,3,6434,1,0,45-54,2-5 years
+342,Yes,R&D,Manufacturing Director,Male,37,Bachelor's Degree,Medical,No,1,3,10048,1,1,35-44,0-1 years
+343,No,R&D,Healthcare Representative,Female,39,Master's Degree,Technical Degree,No,19,3,10938,1,0,35-44,11+ years
+346,No,R&D,Research Scientist,Male,29,Bachelor's Degree,Life Sciences,No,6,4,2340,1,0,25-34,6-10 years
+347,No,R&D,Research Scientist,Female,42,Associates Degree,Life Sciences,Yes,3,1,6545,1,0,35-44,2-5 years
+349,No,Sales,Sales Executive,Male,29,Associates Degree,Marketing,No,3,4,6931,1,0,25-34,2-5 years
+350,No,R&D,Manufacturing Director,Female,25,Bachelor's Degree,Life Sciences,No,4,3,4898,1,0,25-34,2-5 years
+351,No,R&D,Laboratory Technician,Female,42,Bachelor's Degree,Medical,Yes,9,1,2593,1,0,35-44,6-10 years
+352,No,R&D,Research Director,Male,40,Associates Degree,Medical,No,21,3,19436,1,0,35-44,11+ years
+353,No,R&D,Research Scientist,Male,51,Bachelor's Degree,Life Sciences,No,1,4,2723,1,0,45-54,0-1 years
+355,Yes,R&D,Laboratory Technician,Male,31,Associates Degree,Medical,No,5,2,3479,1,1,25-34,2-5 years
+359,No,R&D,Laboratory Technician,Male,32,Bachelor's Degree,Life Sciences,No,5,2,2794,1,0,25-34,2-5 years
+361,No,Sales,Sales Executive,Male,38,Associates Degree,Life Sciences,No,8,4,5249,1,0,35-44,6-10 years
+362,No,R&D,Laboratory Technician,Male,32,High School,Technical Degree,No,6,1,2176,1,0,25-34,6-10 years
+363,No,Sales,Manager,Female,46,Bachelor's Degree,Technical Degree,Yes,7,2,16872,1,0,45-54,6-10 years
+364,Yes,R&D,Laboratory Technician,Male,28,Master's Degree,Life Sciences,No,0,3,3485,1,1,25-34,0-1 years
+366,No,Sales,Sales Executive,Male,29,Bachelor's Degree,Medical,No,0,2,6644,1,0,25-34,0-1 years
+367,No,R&D,Healthcare Representative,Male,31,Bachelor's Degree,Medical,No,9,4,5582,1,0,25-34,6-10 years
+369,No,R&D,Healthcare Representative,Male,25,Associates Degree,Life Sciences,No,6,1,4000,1,0,25-34,6-10 years
+372,No,R&D,Healthcare Representative,Male,45,Associates Degree,Medical,Yes,20,4,13496,1,0,45-54,11+ years
+373,No,R&D,Laboratory Technician,Male,36,Bachelor's Degree,Life Sciences,No,15,4,3210,1,0,35-44,11+ years
+374,No,R&D,Manager,Male,55,Bachelor's Degree,Medical,Yes,36,1,19045,1,0,55+,11+ years
+376,Yes,R&D,Manager,Male,47,Master's Degree,Life Sciences,Yes,10,2,11849,1,1,45-54,6-10 years
+377,No,R&D,Research Scientist,Male,28,Bachelor's Degree,Medical,No,5,4,2070,1,0,25-34,2-5 years
+378,No,Sales,Sales Executive,Male,37,Master's Degree,Medical,No,5,4,6502,1,0,35-44,2-5 years
+379,No,R&D,Research Scientist,Male,21,Associates Degree,Medical,No,3,3,3230,1,0,Under 25,2-5 years
+380,No,R&D,Research Director,Female,37,Master's Degree,Medical,Yes,5,4,13603,1,0,35-44,2-5 years
+381,No,R&D,Manager,Female,35,Bachelor's Degree,Life Sciences,No,7,2,11996,1,0,35-44,6-10 years
+382,No,Sales,Sales Executive,Female,38,Associates Degree,Medical,Yes,8,1,5605,1,0,35-44,6-10 years
+384,No,R&D,Manufacturing Director,Female,26,Bachelor's Degree,Life Sciences,No,6,2,6397,1,0,25-34,6-10 years
+385,No,R&D,Research Director,Male,50,High School,Life Sciences,No,10,2,19144,1,0,45-54,6-10 years
+386,No,R&D,Research Director,Male,53,Master's Degree,Medical,Yes,5,3,17584,1,0,45-54,2-5 years
+387,No,Sales,Sales Executive,Male,42,High School,Life Sciences,No,20,3,4907,1,0,35-44,11+ years
+388,No,Sales,Sales Executive,Male,29,Associates Degree,Life Sciences,No,10,4,4554,1,0,25-34,6-10 years
+389,No,R&D,Laboratory Technician,Male,55,Associates Degree,Technical Degree,Yes,10,4,5415,1,0,55+,6-10 years
+390,No,R&D,Healthcare Representative,Male,26,Associates Degree,Medical,Yes,5,1,4741,1,0,25-34,2-5 years
+391,No,R&D,Research Scientist,Female,37,Bachelor's Degree,Life Sciences,No,17,4,2115,1,0,35-44,11+ years
+392,Yes,R&D,Laboratory Technician,Male,44,Bachelor's Degree,Life Sciences,Yes,1,3,3161,1,1,35-44,0-1 years
+393,No,R&D,Healthcare Representative,Male,38,Master's Degree,Life Sciences,No,2,4,5745,1,0,35-44,2-5 years
+394,Yes,R&D,Laboratory Technician,Male,26,Master's Degree,Medical,Yes,3,2,2373,1,1,25-34,2-5 years
+395,No,R&D,Research Scientist,Female,28,Associates Degree,Life Sciences,No,5,4,3310,1,0,25-34,2-5 years
+396,No,R&D,Research Director,Female,49,Master's Degree,Life Sciences,Yes,3,1,18665,1,0,45-54,2-5 years
+397,No,R&D,Research Scientist,Male,36,Bachelor's Degree,Technical Degree,No,8,2,4485,1,0,35-44,6-10 years
+399,No,Sales,Sales Representative,Female,31,Bachelor's Degree,Marketing,No,2,2,2789,1,0,25-34,2-5 years
+401,Yes,Sales,Sales Executive,Male,26,Master's Degree,Marketing,Yes,8,4,5828,1,1,25-34,6-10 years
+403,No,R&D,Research Scientist,Male,37,Bachelor's Degree,Medical,Yes,4,4,2326,1,0,35-44,2-5 years
+404,No,Sales,Sales Executive,Female,42,Bachelor's Degree,Marketing,No,20,2,13525,1,0,35-44,11+ years
+405,Yes,R&D,Laboratory Technician,Male,18,Bachelor's Degree,Life Sciences,No,0,3,1420,1,1,Under 25,0-1 years
+406,No,Sales,Sales Executive,Male,35,Bachelor's Degree,Marketing,No,11,2,8020,1,0,35-44,11+ years
+407,No,R&D,Laboratory Technician,Male,36,Master's Degree,Life Sciences,No,1,4,3688,1,0,35-44,0-1 years
+408,No,R&D,Manufacturing Director,Male,51,Bachelor's Degree,Medical,No,4,2,5482,1,0,45-54,2-5 years
+410,No,Sales,Manager,Male,41,Master's Degree,Life Sciences,No,22,2,16015,1,0,35-44,11+ years
+411,No,Sales,Sales Representative,Female,18,Bachelor's Degree,Medical,No,0,3,1200,1,0,Under 25,0-1 years
+412,No,R&D,Healthcare Representative,Male,28,Associates Degree,Medical,No,8,1,5661,1,0,25-34,6-10 years
+416,No,Sales,Sales Executive,Male,31,Bachelor's Degree,Technical Degree,No,8,4,6929,1,0,25-34,6-10 years
+417,No,R&D,Healthcare Representative,Male,39,Bachelor's Degree,Medical,No,18,4,9613,1,0,35-44,11+ years
+419,No,R&D,Laboratory Technician,Female,36,Master's Degree,Life Sciences,No,9,2,5674,1,0,35-44,6-10 years
+420,No,Sales,Sales Executive,Male,32,Bachelor's Degree,Life Sciences,No,13,3,5484,1,0,25-34,11+ years
+421,No,R&D,Research Director,Female,38,Associates Degree,Life Sciences,No,10,2,12061,1,0,35-44,6-10 years
+422,No,R&D,Healthcare Representative,Male,58,Master's Degree,Life Sciences,Yes,5,3,5660,1,0,55+,2-5 years
+423,No,R&D,Research Scientist,Male,31,Master's Degree,Technical Degree,Yes,5,4,4821,1,0,25-34,2-5 years
+424,No,HR,Human Resources,Male,31,Bachelor's Degree,Human Resources,No,2,1,6410,1,0,25-34,2-5 years
+425,No,R&D,Laboratory Technician,Male,45,Bachelor's Degree,Life Sciences,No,24,1,5210,1,0,45-54,11+ years
+426,No,R&D,Research Scientist,Male,31,Master's Degree,Life Sciences,Yes,2,4,2695,1,0,25-34,2-5 years
+428,No,R&D,Manager,Female,33,Master's Degree,Life Sciences,No,10,2,11878,1,0,25-34,6-10 years
+429,No,R&D,Manager,Male,39,High School,Medical,Yes,21,1,17068,1,0,35-44,11+ years
+430,No,R&D,Laboratory Technician,Female,43,Master's Degree,Life Sciences,No,8,4,2455,1,0,35-44,6-10 years
+431,No,R&D,Healthcare Representative,Female,49,Associates Degree,Technical Degree,Yes,7,3,13964,1,0,45-54,6-10 years
+433,Yes,R&D,Research Scientist,Male,52,Master's Degree,Medical,No,8,2,4941,1,1,45-54,6-10 years
+434,No,R&D,Research Scientist,Female,27,Bachelor's Degree,Life Sciences,Yes,4,2,2478,1,0,25-34,2-5 years
+436,No,Sales,Sales Executive,Female,32,Associates Degree,Technical Degree,Yes,13,2,5228,1,0,25-34,11+ years
+437,No,Sales,Sales Executive,Male,27,Bachelor's Degree,Life Sciences,Yes,5,3,4478,1,0,25-34,2-5 years
+438,No,Sales,Sales Executive,Male,31,Bachelor's Degree,Marketing,No,7,4,7547,1,0,25-34,6-10 years
+439,No,R&D,Research Scientist,Female,32,Master's Degree,Medical,No,7,4,5055,1,0,25-34,6-10 years
+440,Yes,R&D,Research Scientist,Male,28,Master's Degree,Medical,Yes,3,4,3464,1,1,25-34,2-5 years
+441,No,R&D,Research Scientist,Female,30,Associates Degree,Medical,No,10,4,5775,1,0,25-34,6-10 years
+442,No,R&D,Manufacturing Director,Female,31,Associates Degree,Life Sciences,No,10,3,8943,1,0,25-34,6-10 years
+444,No,R&D,Manager,Male,39,Associates Degree,Medical,No,21,4,19272,1,0,35-44,11+ years
+445,Yes,Sales,Sales Executive,Female,39,Associates Degree,Medical,Yes,1,3,5238,1,1,35-44,0-1 years
+446,No,Sales,Sales Executive,Male,33,Bachelor's Degree,Marketing,No,7,4,4682,1,0,25-34,6-10 years
+447,No,R&D,Research Director,Male,47,Doctoral Degree,Life Sciences,No,3,3,18300,1,0,45-54,2-5 years
+448,No,R&D,Laboratory Technician,Female,43,Master's Degree,Life Sciences,No,9,3,5257,1,0,35-44,6-10 years
+449,No,Sales,Sales Executive,Male,27,High School,Marketing,Yes,5,2,6349,1,0,25-34,2-5 years
+450,No,R&D,Research Scientist,Female,54,Master's Degree,Life Sciences,No,4,3,4869,1,0,45-54,2-5 years
+451,No,R&D,Healthcare Representative,Female,43,Bachelor's Degree,Life Sciences,No,1,1,9985,1,0,35-44,0-1 years
+452,No,R&D,Research Scientist,Male,45,Master's Degree,Other,No,10,4,3697,1,0,45-54,6-10 years
+453,No,Sales,Sales Executive,Male,40,Associates Degree,Medical,Yes,4,4,7457,1,0,35-44,2-5 years
+454,Yes,R&D,Laboratory Technician,Male,29,Master's Degree,Other,Yes,7,1,2119,1,1,25-34,6-10 years
+455,No,R&D,Laboratory Technician,Male,29,Doctoral Degree,Other,No,3,4,3983,1,0,25-34,2-5 years
+456,No,Sales,Sales Executive,Female,30,Bachelor's Degree,Marketing,No,10,3,6118,1,0,25-34,6-10 years
+458,No,Sales,Sales Executive,Female,27,Master's Degree,Marketing,No,8,2,6214,1,0,25-34,6-10 years
+460,No,R&D,Manufacturing Director,Male,37,Associates Degree,Medical,No,6,4,6347,1,0,35-44,6-10 years
+461,No,R&D,Research Director,Male,38,Associates Degree,Life Sciences,Yes,11,4,11510,1,0,35-44,11+ years
+462,No,R&D,Manufacturing Director,Female,31,Master's Degree,Medical,Yes,11,4,7143,1,0,25-34,11+ years
+463,No,Sales,Sales Executive,Female,29,High School,Marketing,Yes,7,2,8268,1,0,25-34,6-10 years
+464,No,R&D,Manufacturing Director,Male,35,Master's Degree,Technical Degree,No,16,2,8095,1,0,35-44,11+ years
+465,No,R&D,Research Scientist,Male,23,High School,Life Sciences,No,4,4,2904,1,0,Under 25,2-5 years
+466,No,R&D,Manufacturing Director,Male,41,Bachelor's Degree,Medical,Yes,5,2,6032,1,0,35-44,2-5 years
+467,No,Sales,Sales Representative,Male,47,High School,Medical,No,0,3,2976,1,0,45-54,0-1 years
+468,No,R&D,Research Director,Female,42,Doctoral Degree,Life Sciences,No,1,4,15992,1,0,35-44,0-1 years
+469,No,Sales,Sales Executive,Male,29,Bachelor's Degree,Life Sciences,No,4,3,4649,1,0,25-34,2-5 years
+470,No,HR,Human Resources,Male,42,High School,Technical Degree,Yes,3,3,2696,1,0,35-44,2-5 years
+471,No,R&D,Laboratory Technician,Female,32,Bachelor's Degree,Medical,No,8,2,2370,1,0,25-34,6-10 years
+473,No,Sales,Manager,Female,48,High School,Medical,No,0,3,12504,1,0,45-54,0-1 years
+474,No,R&D,Research Scientist,Male,37,Bachelor's Degree,Medical,Yes,7,1,5974,1,0,35-44,6-10 years
+475,No,Sales,Sales Executive,Female,30,Associates Degree,Technical Degree,Yes,2,3,4736,1,0,25-34,2-5 years
+476,No,Sales,Sales Executive,Male,26,Bachelor's Degree,Life Sciences,No,8,3,5296,1,0,25-34,6-10 years
+477,No,R&D,Healthcare Representative,Male,42,Master's Degree,Other,No,1,4,6781,1,0,35-44,0-1 years
+478,Yes,Sales,Sales Representative,Female,21,High School,Technical Degree,Yes,3,2,2174,1,1,Under 25,2-5 years
+479,No,Sales,Sales Executive,Female,36,Doctoral Degree,Medical,No,1,4,6653,1,0,35-44,0-1 years
+481,No,Sales,Sales Executive,Male,36,Master's Degree,Medical,No,13,4,9699,1,0,35-44,11+ years
+482,No,R&D,Healthcare Representative,Male,57,Master's Degree,Medical,No,3,3,6755,1,0,55+,2-5 years
+483,No,R&D,Laboratory Technician,Female,40,Master's Degree,Life Sciences,Yes,7,3,2213,1,0,35-44,6-10 years
+484,No,Sales,Sales Representative,Male,21,Associates Degree,Medical,No,3,4,2610,1,0,Under 25,2-5 years
+485,Yes,Sales,Sales Representative,Female,33,Bachelor's Degree,Marketing,Yes,1,3,2851,1,1,25-34,0-1 years
+486,No,R&D,Laboratory Technician,Female,37,Bachelor's Degree,Medical,No,5,1,3452,1,0,35-44,2-5 years
+487,No,R&D,Manufacturing Director,Female,46,Master's Degree,Medical,No,1,3,5258,1,0,45-54,0-1 years
+488,Yes,Sales,Sales Executive,Male,41,Bachelor's Degree,Marketing,No,8,2,9355,1,1,35-44,6-10 years
+491,No,R&D,Healthcare Representative,Male,50,Bachelor's Degree,Technical Degree,No,4,4,10496,1,0,45-54,2-5 years
+492,Yes,Sales,Sales Executive,Male,40,Associates Degree,Marketing,Yes,6,3,6380,1,1,35-44,6-10 years
+493,No,R&D,Research Scientist,Male,31,Master's Degree,Life Sciences,Yes,2,2,2657,1,0,25-34,2-5 years
+494,Yes,Sales,Sales Representative,Female,21,Bachelor's Degree,Life Sciences,No,1,2,2716,1,1,Under 25,0-1 years
+495,No,R&D,Research Scientist,Male,29,Bachelor's Degree,Life Sciences,No,3,4,2201,1,0,25-34,2-5 years
+496,No,R&D,Healthcare Representative,Male,35,Master's Degree,Life Sciences,No,1,2,6540,1,0,35-44,0-1 years
+497,No,R&D,Laboratory Technician,Male,27,Associates Degree,Medical,No,5,2,3816,1,0,25-34,2-5 years
+498,No,Sales,Sales Executive,Male,28,Master's Degree,Life Sciences,No,7,4,5253,1,0,25-34,6-10 years
+499,No,R&D,Healthcare Representative,Male,49,Bachelor's Degree,Other,No,5,3,10965,1,0,45-54,2-5 years
+500,No,Sales,Sales Executive,Female,51,Associates Degree,Life Sciences,No,7,4,4936,1,0,45-54,6-10 years
+501,No,R&D,Research Scientist,Female,36,Bachelor's Degree,Life Sciences,No,2,3,2543,1,0,35-44,2-5 years
+502,Yes,Sales,Sales Executive,Male,34,Bachelor's Degree,Marketing,Yes,5,4,5304,1,1,25-34,2-5 years
+505,No,R&D,Manager,Female,55,Bachelor's Degree,Life Sciences,Yes,5,4,16659,1,0,55+,2-5 years
+507,No,Sales,Sales Executive,Female,24,Master's Degree,Marketing,Yes,5,3,4260,1,0,Under 25,2-5 years
+508,No,Sales,Sales Representative,Male,30,High School,Technical Degree,No,1,2,2476,1,0,25-34,0-1 years
+510,Yes,R&D,Research Scientist,Male,26,High School,Technical Degree,No,6,1,3102,1,1,25-34,6-10 years
+511,No,R&D,Research Scientist,Female,22,Bachelor's Degree,Medical,No,2,2,2244,1,0,Under 25,2-5 years
+513,No,Sales,Sales Executive,Male,36,Associates Degree,Medical,No,10,3,7596,1,0,35-44,6-10 years
+514,Yes,R&D,Research Scientist,Male,30,Bachelor's Degree,Technical Degree,Yes,1,4,2285,1,1,25-34,0-1 years
+515,No,R&D,Laboratory Technician,Female,37,Bachelor's Degree,Life Sciences,No,18,1,3034,1,0,35-44,11+ years
+516,No,Sales,Sales Executive,Female,40,Associates Degree,Marketing,No,5,2,5715,1,0,35-44,2-5 years
+517,No,R&D,Laboratory Technician,Female,42,Master's Degree,Life Sciences,No,5,1,2576,1,0,35-44,2-5 years
+518,No,R&D,Manufacturing Director,Male,37,Master's Degree,Life Sciences,Yes,1,2,4197,1,0,35-44,0-1 years
+520,No,R&D,Research Director,Male,43,Bachelor's Degree,Life Sciences,No,25,2,14336,1,0,35-44,11+ years
+521,No,R&D,Laboratory Technician,Female,40,Bachelor's Degree,Medical,No,1,3,3448,1,0,35-44,0-1 years
+522,No,R&D,Research Director,Male,54,Associates Degree,Medical,No,4,1,19406,1,0,45-54,2-5 years
+523,No,Sales,Sales Executive,Female,34,Master's Degree,Marketing,No,3,3,6538,1,0,25-34,2-5 years
+524,No,R&D,Manufacturing Director,Female,31,Associates Degree,Medical,No,13,1,4306,1,0,25-34,11+ years
+525,No,R&D,Laboratory Technician,Male,43,Bachelor's Degree,Medical,No,3,4,2258,1,0,35-44,2-5 years
+526,No,R&D,Healthcare Representative,Female,43,Master's Degree,Other,Yes,5,3,4522,1,0,35-44,2-5 years
+527,No,Sales,Sales Executive,Female,25,Associates Degree,Life Sciences,Yes,5,4,4487,1,0,25-34,2-5 years
+529,No,R&D,Research Scientist,Female,37,Doctoral Degree,Medical,Yes,13,3,4449,1,0,35-44,11+ years
+530,No,R&D,Laboratory Technician,Male,31,Associates Degree,Life Sciences,No,4,1,2218,1,0,25-34,2-5 years
+531,No,R&D,Manager,Male,39,High School,Life Sciences,Yes,21,3,19197,1,0,35-44,11+ years
+532,No,Sales,Sales Executive,Female,56,Bachelor's Degree,Life Sciences,No,7,1,13212,1,0,55+,6-10 years
+533,No,Sales,Sales Executive,Female,30,Bachelor's Degree,Technical Degree,No,5,3,6577,1,0,25-34,2-5 years
+534,No,Sales,Sales Executive,Male,41,Bachelor's Degree,Marketing,No,10,1,8392,1,0,35-44,6-10 years
+536,No,R&D,Laboratory Technician,Male,28,Associates Degree,Medical,No,10,1,4558,1,0,25-34,6-10 years
+538,Yes,R&D,Laboratory Technician,Male,25,Bachelor's Degree,Medical,No,2,1,4031,1,1,25-34,2-5 years
+543,No,R&D,Manufacturing Director,Male,52,Bachelor's Degree,Medical,Yes,5,3,7969,1,0,45-54,2-5 years
+544,No,R&D,Research Scientist,Male,45,Associates Degree,Life Sciences,No,2,4,2654,1,0,45-54,2-5 years
+546,No,R&D,Manager,Female,52,Associates Degree,Life Sciences,No,5,4,16555,1,0,45-54,2-5 years
+547,No,R&D,Research Scientist,Female,42,Associates Degree,Life Sciences,No,5,3,4556,1,0,35-44,2-5 years
+548,No,R&D,Manufacturing Director,Female,30,Bachelor's Degree,Life Sciences,No,5,4,6091,1,0,25-34,2-5 years
+549,No,R&D,Manager,Female,60,Bachelor's Degree,Life Sciences,No,29,1,19566,1,0,55+,11+ years
+550,No,R&D,Manufacturing Director,Female,46,Bachelor's Degree,Medical,No,10,3,4810,1,0,45-54,6-10 years
+551,No,R&D,Healthcare Representative,Female,42,Master's Degree,Technical Degree,No,6,4,4523,1,0,35-44,6-10 years
+554,Yes,Sales,Sales Representative,Female,24,High School,Technical Degree,Yes,5,2,3202,1,1,Under 25,2-5 years
+555,Yes,Sales,Sales Representative,Female,34,Associates Degree,Marketing,No,2,3,2351,1,1,25-34,2-5 years
+556,No,R&D,Laboratory Technician,Male,38,Associates Degree,Life Sciences,Yes,1,4,1702,1,0,35-44,0-1 years
+558,No,Sales,Manager,Female,40,Master's Degree,Life Sciences,No,20,3,18041,1,0,35-44,11+ years
+560,No,R&D,Research Scientist,Female,26,Bachelor's Degree,Life Sciences,No,3,4,2886,1,0,25-34,2-5 years
+562,No,R&D,Laboratory Technician,Male,30,Bachelor's Degree,Life Sciences,No,5,4,2097,1,0,25-34,2-5 years
+564,No,R&D,Research Director,Male,29,Master's Degree,Medical,No,10,3,11935,1,0,25-34,6-10 years
+565,Yes,R&D,Research Scientist,Female,29,Doctoral Degree,Technical Degree,No,2,2,2546,1,1,25-34,2-5 years
+566,Yes,HR,Human Resources,Male,19,Associates Degree,Technical Degree,No,1,4,2564,1,1,Under 25,0-1 years
+567,No,Sales,Sales Executive,Female,30,Master's Degree,Other,No,9,1,8412,1,0,25-34,6-10 years
+568,No,Sales,Manager,Male,57,Bachelor's Degree,Marketing,No,1,4,14118,1,0,55+,0-1 years
+569,No,R&D,Manager,Male,50,Master's Degree,Life Sciences,No,27,3,17046,1,0,45-54,11+ years
+571,No,R&D,Laboratory Technician,Female,30,Bachelor's Degree,Medical,No,11,4,2564,1,0,25-34,11+ years
+573,No,Sales,Sales Executive,Female,60,Bachelor's Degree,Marketing,No,18,1,10266,1,0,55+,11+ years
+574,No,R&D,Manufacturing Director,Female,47,Associates Degree,Medical,No,5,4,5070,1,0,45-54,2-5 years
+575,No,R&D,Research Director,Male,46,Bachelor's Degree,Life Sciences,No,3,3,17861,1,0,45-54,2-5 years
+577,No,R&D,Laboratory Technician,Male,35,Bachelor's Degree,Life Sciences,No,5,3,4230,1,0,35-44,2-5 years
+578,No,R&D,Laboratory Technician,Female,54,Master's Degree,Life Sciences,No,1,3,3780,1,0,45-54,0-1 years
+579,No,R&D,Research Scientist,Male,34,Master's Degree,Life Sciences,No,7,3,2768,1,0,25-34,6-10 years
+580,No,Sales,Sales Executive,Female,46,Bachelor's Degree,Marketing,Yes,3,4,9071,1,0,45-54,2-5 years
+581,No,R&D,Manufacturing Director,Male,31,High School,Life Sciences,No,13,2,10648,1,0,25-34,11+ years
+582,Yes,R&D,Manager,Male,33,High School,Medical,Yes,7,3,13610,1,1,25-34,6-10 years
+584,Yes,R&D,Laboratory Technician,Male,33,High School,Medical,No,4,4,3408,1,1,25-34,2-5 years
+585,No,Sales,Sales Representative,Male,30,High School,Marketing,No,3,2,2983,1,0,25-34,2-5 years
+586,No,R&D,Healthcare Representative,Male,35,Bachelor's Degree,Life Sciences,Yes,8,3,7632,1,0,35-44,6-10 years
+587,Yes,R&D,Healthcare Representative,Male,31,Bachelor's Degree,Life Sciences,No,1,3,9824,1,1,25-34,0-1 years
+590,Yes,HR,Human Resources,Female,34,Bachelor's Degree,Human Resources,Yes,3,1,9950,1,1,25-34,2-5 years
+591,No,R&D,Laboratory Technician,Male,42,Associates Degree,Other,No,2,3,2093,1,0,35-44,2-5 years
+592,No,Sales,Sales Executive,Male,36,Master's Degree,Medical,No,10,4,9980,1,0,35-44,6-10 years
+593,Yes,R&D,Laboratory Technician,Male,22,High School,Technical Degree,No,2,3,3894,1,1,Under 25,2-5 years
+595,No,Sales,Sales Executive,Female,48,Doctoral Degree,Marketing,No,9,4,4051,1,0,45-54,6-10 years
+597,No,Sales,Manager,Female,55,Doctoral Degree,Life Sciences,No,10,2,16835,1,0,55+,6-10 years
+599,No,Sales,Sales Executive,Male,41,Associates Degree,Life Sciences,No,14,4,6230,1,0,35-44,11+ years
+600,No,Sales,Sales Executive,Male,35,Bachelor's Degree,Marketing,No,11,3,4717,1,0,35-44,11+ years
+601,No,R&D,Manufacturing Director,Female,40,Bachelor's Degree,Life Sciences,No,20,3,13237,1,0,35-44,11+ years
+602,No,R&D,Laboratory Technician,Female,39,High School,Life Sciences,No,8,3,3755,1,0,35-44,6-10 years
+604,No,Sales,Sales Executive,Male,31,High School,Life Sciences,Yes,6,4,6582,1,0,25-34,6-10 years
+605,No,R&D,Manufacturing Director,Male,42,Bachelor's Degree,Medical,Yes,10,1,7406,1,0,35-44,6-10 years
+606,No,Sales,Sales Executive,Male,45,Bachelor's Degree,Other,No,8,2,4805,1,0,45-54,6-10 years
+608,Yes,HR,Human Resources,Female,26,Master's Degree,Life Sciences,Yes,7,3,2741,1,1,25-34,6-10 years
+611,No,R&D,Manufacturing Director,Male,29,Bachelor's Degree,Technical Degree,No,3,4,4262,1,0,25-34,2-5 years
+612,No,R&D,Research Director,Female,33,Doctoral Degree,Medical,No,6,3,16184,1,0,25-34,6-10 years
+613,No,Sales,Manager,Male,31,Bachelor's Degree,Life Sciences,No,5,4,11557,1,0,25-34,2-5 years
+614,Yes,Sales,Sales Representative,Male,18,Bachelor's Degree,Marketing,Yes,0,2,1878,1,1,Under 25,0-1 years
+615,No,Sales,Sales Executive,Male,40,Bachelor's Degree,Other,No,1,1,10932,1,0,35-44,0-1 years
+616,No,R&D,Healthcare Representative,Female,41,Master's Degree,Other,Yes,8,3,6811,1,0,35-44,6-10 years
+618,No,Sales,Sales Executive,Male,26,Associates Degree,Medical,No,0,3,4306,1,0,25-34,0-1 years
+620,No,Sales,Sales Executive,Female,35,Bachelor's Degree,Medical,No,5,3,4859,1,0,35-44,2-5 years
+621,No,Sales,Sales Executive,Male,34,Master's Degree,Life Sciences,No,10,4,5337,1,0,25-34,6-10 years
+622,Yes,R&D,Laboratory Technician,Male,26,Bachelor's Degree,Technical Degree,Yes,1,4,2340,1,1,25-34,0-1 years
+623,No,R&D,Manufacturing Director,Female,37,Bachelor's Degree,Technical Degree,No,6,4,7491,1,0,35-44,6-10 years
+624,No,R&D,Healthcare Representative,Female,46,High School,Medical,No,2,3,10527,1,0,45-54,2-5 years
+625,No,Sales,Manager,Female,41,Doctoral Degree,Life Sciences,No,18,1,16595,1,0,35-44,11+ years
+626,No,Sales,Sales Executive,Male,37,Master's Degree,Medical,No,9,2,8834,1,0,35-44,6-10 years
+630,No,R&D,Research Scientist,Male,52,Associates Degree,Technical Degree,Yes,10,1,5577,1,0,45-54,6-10 years
+631,Yes,Sales,Sales Executive,Male,32,Master's Degree,Other,No,4,3,4707,1,1,25-34,2-5 years
+632,No,Sales,Sales Representative,Male,24,Bachelor's Degree,Medical,No,2,4,2400,1,0,Under 25,2-5 years
+634,No,R&D,Healthcare Representative,Female,38,Bachelor's Degree,Medical,No,1,3,9824,1,0,35-44,0-1 years
+635,No,R&D,Manufacturing Director,Female,37,Master's Degree,Life Sciences,No,6,2,6447,1,0,35-44,6-10 years
+638,No,R&D,Research Director,Male,49,Master's Degree,Life Sciences,Yes,31,3,19502,1,0,45-54,11+ years
+639,No,R&D,Research Scientist,Male,24,Bachelor's Degree,Medical,Yes,6,4,2725,1,0,Under 25,6-10 years
+641,No,Sales,Sales Executive,Male,26,Associates Degree,Marketing,No,5,2,6272,1,0,25-34,2-5 years
+643,No,R&D,Laboratory Technician,Male,24,Associates Degree,Other,No,1,2,2127,1,0,Under 25,0-1 years
+644,No,HR,Manager,Male,50,Bachelor's Degree,Medical,No,32,2,18200,1,0,45-54,11+ years
+645,No,Sales,Sales Representative,Male,25,High School,Medical,No,7,3,2096,1,0,25-34,6-10 years
+647,Yes,R&D,Laboratory Technician,Female,24,Bachelor's Degree,Life Sciences,Yes,6,3,2886,1,1,Under 25,6-10 years
+648,Yes,Sales,Sales Representative,Male,30,Master's Degree,Life Sciences,No,1,1,2033,1,1,25-34,0-1 years
+649,No,R&D,Research Scientist,Male,34,Associates Degree,Life Sciences,Yes,6,4,3622,1,0,25-34,6-10 years
+650,Yes,Sales,Sales Executive,Male,31,Master's Degree,Medical,No,3,1,4233,1,1,25-34,2-5 years
+652,No,R&D,Laboratory Technician,Male,35,Associates Degree,Other,No,3,4,3681,1,0,35-44,2-5 years
+653,No,Sales,Sales Executive,Male,31,Master's Degree,Medical,No,7,4,5460,1,0,25-34,6-10 years
+655,No,R&D,Research Scientist,Female,27,Master's Degree,Medical,No,5,3,2187,1,0,25-34,2-5 years
+656,No,Sales,Sales Executive,Male,37,Bachelor's Degree,Marketing,Yes,3,3,9602,1,0,35-44,2-5 years
+657,No,R&D,Research Scientist,Female,20,Bachelor's Degree,Life Sciences,No,1,2,2836,1,0,Under 25,0-1 years
+659,No,R&D,Healthcare Representative,Female,42,Master's Degree,Life Sciences,No,10,4,4089,1,0,35-44,6-10 years
+661,No,R&D,Research Director,Male,43,Master's Degree,Other,Yes,1,4,16627,1,0,35-44,0-1 years
+662,No,R&D,Research Scientist,Female,38,High School,Life Sciences,No,0,1,2619,1,0,35-44,0-1 years
+663,No,R&D,Laboratory Technician,Male,43,Doctoral Degree,Medical,Yes,8,3,5679,1,0,35-44,6-10 years
+664,No,R&D,Manager,Female,48,Master's Degree,Life Sciences,No,3,1,15402,1,0,45-54,2-5 years
+665,No,HR,Human Resources,Female,44,Master's Degree,Life Sciences,No,2,3,5985,1,0,35-44,2-5 years
+666,No,Sales,Sales Representative,Female,34,Bachelor's Degree,Technical Degree,Yes,8,3,2579,1,0,25-34,6-10 years
+667,Yes,Sales,Sales Representative,Male,27,High School,Marketing,No,4,1,3041,1,1,25-34,2-5 years
+669,No,Sales,Sales Representative,Male,21,High School,Technical Degree,No,3,3,3447,1,0,Under 25,2-5 years
+671,No,R&D,Manager,Male,44,Master's Degree,Other,Yes,2,4,19513,1,0,35-44,2-5 years
+675,No,R&D,Research Scientist,Male,22,High School,Medical,No,2,3,2773,1,0,Under 25,2-5 years
+677,No,Sales,Sales Executive,Male,33,Master's Degree,Marketing,No,5,3,7104,1,0,25-34,2-5 years
+679,No,R&D,Research Scientist,Female,32,Master's Degree,Life Sciences,Yes,6,4,6322,1,0,25-34,6-10 years
+680,No,R&D,Research Scientist,Female,30,Bachelor's Degree,Medical,No,1,3,2083,1,0,25-34,0-1 years
+682,No,Sales,Sales Executive,Female,53,High School,Medical,No,14,1,8381,1,0,45-54,11+ years
+683,No,R&D,Research Scientist,Male,34,Doctoral Degree,Life Sciences,No,10,4,2691,1,0,25-34,6-10 years
+684,Yes,Sales,Sales Executive,Female,45,Master's Degree,Life Sciences,No,1,1,4286,1,1,45-54,0-1 years
+686,No,R&D,Laboratory Technician,Female,26,Bachelor's Degree,Life Sciences,Yes,3,4,2659,1,0,25-34,2-5 years
+689,No,R&D,Manufacturing Director,Male,37,Bachelor's Degree,Other,No,10,3,9434,1,0,35-44,6-10 years
+690,No,Sales,Sales Executive,Female,29,Associates Degree,Medical,No,6,3,5561,1,0,25-34,6-10 years
+691,No,R&D,Research Scientist,Male,35,Master's Degree,Life Sciences,No,17,4,6646,1,0,35-44,11+ years
+692,No,R&D,Healthcare Representative,Male,33,Bachelor's Degree,Life Sciences,No,13,4,7725,1,0,25-34,11+ years
+698,No,HR,Human Resources,Male,54,Master's Degree,Medical,No,9,2,10725,1,0,45-54,6-10 years
+699,No,R&D,Manufacturing Director,Male,36,Associates Degree,Medical,Yes,3,2,8847,1,0,35-44,2-5 years
+700,No,R&D,Research Scientist,Male,27,Master's Degree,Medical,No,4,4,2045,1,0,25-34,2-5 years
+701,Yes,R&D,Research Scientist,Male,20,High School,Medical,Yes,1,3,1009,1,1,Under 25,0-1 years
+702,Yes,R&D,Research Scientist,Male,33,Bachelor's Degree,Life Sciences,Yes,10,1,3348,1,1,25-34,6-10 years
+704,No,R&D,Laboratory Technician,Male,35,Bachelor's Degree,Life Sciences,No,1,3,1281,1,0,35-44,0-1 years
+705,No,R&D,Research Scientist,Male,23,Bachelor's Degree,Medical,No,3,1,2819,1,0,Under 25,2-5 years
+707,No,Sales,Sales Executive,Male,25,Bachelor's Degree,Life Sciences,No,3,2,4851,1,0,25-34,2-5 years
+709,No,Sales,Sales Executive,Female,38,Master's Degree,Marketing,No,7,4,4028,1,0,35-44,6-10 years
+710,No,R&D,Research Scientist,Male,29,Master's Degree,Life Sciences,No,10,4,2720,1,0,25-34,6-10 years
+712,No,Sales,Sales Executive,Male,48,High School,Marketing,No,2,2,8120,1,0,45-54,2-5 years
+714,No,Sales,Sales Executive,Female,27,High School,Medical,Yes,6,4,4647,1,0,25-34,6-10 years
+715,No,R&D,Research Scientist,Male,37,Associates Degree,Life Sciences,No,1,4,4680,1,0,35-44,0-1 years
+716,No,R&D,Laboratory Technician,Male,50,High School,Medical,Yes,20,3,3221,1,0,45-54,11+ years
+717,No,R&D,Healthcare Representative,Female,34,Bachelor's Degree,Medical,No,8,2,8621,1,0,25-34,6-10 years
+720,Yes,Sales,Sales Executive,Female,24,Associates Degree,Life Sciences,No,2,3,4577,1,1,Under 25,2-5 years
+721,No,R&D,Healthcare Representative,Female,39,Master's Degree,Technical Degree,No,20,3,4553,1,0,35-44,11+ years
+722,No,Sales,Sales Executive,Male,32,Bachelor's Degree,Marketing,No,10,4,5396,1,0,25-34,6-10 years
+723,Yes,Sales,Sales Executive,Male,50,Associates Degree,Technical Degree,Yes,4,3,6796,1,1,45-54,2-5 years
+724,No,R&D,Healthcare Representative,Female,38,Master's Degree,Life Sciences,No,9,4,7625,1,0,35-44,6-10 years
+725,No,R&D,Manufacturing Director,Female,27,Associates Degree,Life Sciences,No,9,1,7412,1,0,25-34,6-10 years
+727,No,R&D,Research Director,Female,32,Associates Degree,Life Sciences,No,7,4,11159,1,0,25-34,6-10 years
+728,No,Sales,Sales Executive,Male,47,Master's Degree,Marketing,No,7,1,4960,1,0,45-54,6-10 years
+729,No,Sales,Sales Executive,Male,40,Master's Degree,Life Sciences,Yes,18,1,10475,1,0,35-44,11+ years
+730,No,R&D,Research Director,Male,53,Bachelor's Degree,Life Sciences,No,5,3,14814,1,0,45-54,2-5 years
+731,No,HR,Manager,Male,41,Master's Degree,Human Resources,No,21,4,19141,1,0,35-44,11+ years
+732,No,Sales,Sales Executive,Male,60,Master's Degree,Marketing,No,2,1,5405,1,0,55+,2-5 years
+733,No,R&D,Manufacturing Director,Male,27,Associates Degree,Life Sciences,No,9,1,8793,1,0,25-34,6-10 years
+734,No,HR,Manager,Male,41,Bachelor's Degree,Human Resources,No,22,3,19189,1,0,35-44,11+ years
+738,No,Sales,Sales Representative,Male,50,Master's Degree,Marketing,No,2,2,3875,1,0,45-54,2-5 years
+741,Yes,R&D,Research Scientist,Female,28,Associates Degree,Life Sciences,Yes,7,2,2216,1,1,25-34,6-10 years
+742,No,R&D,Research Director,Female,36,Bachelor's Degree,Life Sciences,No,8,1,11713,1,0,35-44,6-10 years
+743,No,R&D,Manufacturing Director,Female,38,Bachelor's Degree,Life Sciences,Yes,1,3,7861,1,0,35-44,0-1 years
+744,No,R&D,Laboratory Technician,Male,44,Bachelor's Degree,Medical,No,5,3,3708,1,0,35-44,2-5 years
+746,No,Sales,Sales Executive,Female,47,Bachelor's Degree,Medical,Yes,22,3,13770,1,0,45-54,11+ years
+747,No,Sales,Sales Executive,Male,30,Doctoral Degree,Marketing,No,8,4,5304,1,0,25-34,6-10 years
+749,No,Sales,Sales Representative,Male,29,Bachelor's Degree,Life Sciences,No,1,3,2642,1,0,25-34,0-1 years
+752,Yes,R&D,Research Scientist,Male,42,Bachelor's Degree,Medical,Yes,2,3,2759,1,1,35-44,2-5 years
+754,No,Sales,Sales Executive,Male,43,Bachelor's Degree,Life Sciences,No,2,4,6804,1,0,35-44,2-5 years
+757,No,R&D,Healthcare Representative,Female,34,Associates Degree,Medical,No,5,3,6142,1,0,25-34,2-5 years
+758,No,R&D,Laboratory Technician,Male,23,High School,Medical,No,4,1,2500,1,0,Under 25,2-5 years
+760,No,HR,Human Resources,Female,39,Bachelor's Degree,Human Resources,No,8,2,6389,1,0,35-44,6-10 years
+762,No,R&D,Healthcare Representative,Male,56,Bachelor's Degree,Medical,No,10,4,11103,1,0,55+,6-10 years
+763,No,R&D,Research Scientist,Female,40,High School,Medical,Yes,4,4,2342,1,0,35-44,2-5 years
+764,No,R&D,Healthcare Representative,Female,27,Bachelor's Degree,Medical,No,7,1,6811,1,0,25-34,6-10 years
+766,No,Sales,Sales Representative,Male,29,Bachelor's Degree,Marketing,No,2,2,2297,1,0,25-34,2-5 years
+769,No,R&D,Laboratory Technician,Male,53,Bachelor's Degree,Life Sciences,No,2,4,2450,1,0,45-54,2-5 years
+771,No,R&D,Healthcare Representative,Female,35,Master's Degree,Life Sciences,No,1,1,5093,1,0,35-44,0-1 years
+772,No,R&D,Laboratory Technician,Male,32,Master's Degree,Life Sciences,No,10,4,5309,1,0,25-34,6-10 years
+773,No,R&D,Research Scientist,Male,38,Doctoral Degree,Medical,Yes,1,3,3057,1,0,35-44,0-1 years
+775,No,R&D,Manufacturing Director,Female,34,Doctoral Degree,Life Sciences,No,0,1,5121,1,0,25-34,0-1 years
+776,No,Sales,Manager,Male,52,Master's Degree,Marketing,No,34,1,16856,1,0,45-54,11+ years
+780,Yes,R&D,Research Scientist,Male,33,Master's Degree,Other,Yes,10,4,2686,1,1,25-34,6-10 years
+781,No,Sales,Sales Executive,Female,25,High School,Medical,No,6,4,6180,1,0,25-34,6-10 years
+783,No,Sales,Sales Representative,Male,45,Associates Degree,Technical Degree,No,8,3,6632,1,0,45-54,6-10 years
+784,No,R&D,Research Scientist,Male,23,High School,Medical,No,2,3,3505,1,0,Under 25,2-5 years
+785,Yes,Sales,Sales Executive,Female,47,Associates Degree,Life Sciences,Yes,5,3,6397,1,1,45-54,2-5 years
+786,No,Sales,Sales Executive,Male,34,Bachelor's Degree,Other,No,6,4,6274,1,0,25-34,6-10 years
+787,Yes,R&D,Manager,Male,55,Bachelor's Degree,Medical,Yes,5,1,19859,1,1,55+,2-5 years
+789,No,Sales,Sales Executive,Male,36,Master's Degree,Life Sciences,No,10,1,7587,1,0,35-44,6-10 years
+791,No,R&D,Research Scientist,Male,52,Master's Degree,Medical,No,4,4,4258,1,0,45-54,2-5 years
+792,No,R&D,Laboratory Technician,Female,26,Associates Degree,Life Sciences,No,2,4,4364,1,0,25-34,2-5 years
+793,No,R&D,Healthcare Representative,Female,29,Bachelor's Degree,Medical,No,8,3,4335,1,0,25-34,6-10 years
+796,Yes,Sales,Sales Executive,Male,26,Bachelor's Degree,Technical Degree,No,4,1,5326,1,1,25-34,2-5 years
+797,No,R&D,Research Scientist,Female,34,Master's Degree,Life Sciences,No,4,4,3280,1,0,25-34,2-5 years
+799,No,R&D,Manufacturing Director,Female,54,Master's Degree,Medical,Yes,5,1,5485,1,0,45-54,2-5 years
+800,No,Sales,Sales Executive,Male,27,High School,Marketing,No,4,4,4342,1,0,25-34,2-5 years
+802,No,R&D,Research Scientist,Female,37,High School,Life Sciences,Yes,5,1,2782,1,0,35-44,2-5 years
+803,No,R&D,Manufacturing Director,Female,38,Master's Degree,Life Sciences,Yes,15,1,5980,1,0,35-44,11+ years
+804,No,R&D,Research Scientist,Female,34,Master's Degree,Medical,No,6,1,4381,1,0,25-34,6-10 years
+805,No,Sales,Sales Representative,Female,35,Master's Degree,Life Sciences,No,3,4,2572,1,0,35-44,2-5 years
+806,No,R&D,Laboratory Technician,Male,30,Bachelor's Degree,Life Sciences,No,2,3,3833,1,0,25-34,2-5 years
+807,No,R&D,Healthcare Representative,Female,40,Associates Degree,Medical,No,8,2,4244,1,0,35-44,6-10 years
+808,No,Sales,Sales Executive,Female,34,Associates Degree,Life Sciences,No,3,1,6500,1,0,25-34,2-5 years
+809,No,R&D,Manager,Male,42,Bachelor's Degree,Life Sciences,No,24,4,18430,1,0,35-44,11+ years
+811,Yes,R&D,Laboratory Technician,Male,23,Bachelor's Degree,Life Sciences,Yes,0,1,1601,1,1,Under 25,0-1 years
+812,No,R&D,Laboratory Technician,Male,24,Bachelor's Degree,Life Sciences,No,1,2,2694,1,0,Under 25,0-1 years
+813,No,R&D,Laboratory Technician,Female,52,Master's Degree,Life Sciences,No,5,3,3149,1,0,45-54,2-5 years
+815,No,R&D,Research Director,Male,50,Bachelor's Degree,Medical,No,4,3,17639,1,0,45-54,2-5 years
+816,Yes,R&D,Laboratory Technician,Female,29,Associates Degree,Life Sciences,Yes,1,1,2319,1,1,25-34,0-1 years
+817,No,R&D,Research Director,Male,33,Bachelor's Degree,Medical,No,13,3,11691,1,0,25-34,11+ years
+819,Yes,Sales,Sales Executive,Female,33,Bachelor's Degree,Marketing,No,3,1,5324,1,1,25-34,2-5 years
+820,No,R&D,Manager,Female,47,Associates Degree,Other,Yes,26,4,16752,1,0,45-54,11+ years
+823,No,R&D,Manufacturing Director,Female,36,Bachelor's Degree,Other,No,9,2,5228,1,0,35-44,6-10 years
+824,No,R&D,Research Scientist,Male,29,Associates Degree,Life Sciences,No,10,3,2700,1,0,25-34,6-10 years
+825,Yes,R&D,Research Director,Male,58,Master's Degree,Life Sciences,Yes,31,2,19246,1,1,55+,11+ years
+826,No,R&D,Research Scientist,Female,35,Master's Degree,Life Sciences,No,2,3,2506,1,0,35-44,2-5 years
+827,No,R&D,Manufacturing Director,Female,42,Associates Degree,Life Sciences,Yes,4,4,6062,1,0,35-44,2-5 years
+828,Yes,R&D,Research Scientist,Male,28,Master's Degree,Medical,No,2,3,4382,1,1,25-34,2-5 years
+829,No,HR,Human Resources,Male,36,Bachelor's Degree,Human Resources,No,5,2,2143,1,0,35-44,2-5 years
+830,No,R&D,Manufacturing Director,Female,32,Bachelor's Degree,Life Sciences,No,14,3,6162,1,0,25-34,11+ years
+832,No,R&D,Laboratory Technician,Male,40,Master's Degree,Medical,No,1,3,5094,1,0,35-44,0-1 years
+833,No,R&D,Manufacturing Director,Female,30,Bachelor's Degree,Medical,Yes,0,4,6877,1,0,25-34,0-1 years
+834,No,R&D,Research Scientist,Female,45,Bachelor's Degree,Life Sciences,No,1,3,2274,1,0,45-54,0-1 years
+836,No,R&D,Manufacturing Director,Male,42,Bachelor's Degree,Life Sciences,No,9,2,4434,1,0,35-44,6-10 years
+837,No,R&D,Healthcare Representative,Male,38,Bachelor's Degree,Life Sciences,No,4,1,6288,1,0,35-44,2-5 years
+838,No,R&D,Research Scientist,Female,34,Master's Degree,Life Sciences,No,5,4,2553,1,0,25-34,2-5 years
+840,Yes,Sales,Sales Executive,Female,49,Bachelor's Degree,Marketing,No,9,4,7654,1,1,45-54,6-10 years
+842,Yes,Sales,Sales Executive,Male,55,High School,Medical,No,9,4,5160,1,1,55+,6-10 years
+843,No,R&D,Research Director,Male,43,Associates Degree,Life Sciences,No,4,1,17159,1,0,35-44,2-5 years
+844,No,R&D,Research Director,Male,27,High School,Technical Degree,Yes,9,4,12808,1,0,25-34,6-10 years
+845,No,R&D,Manufacturing Director,Male,35,Bachelor's Degree,Other,No,8,3,10221,1,0,35-44,6-10 years
+846,No,Sales,Sales Executive,Female,28,Master's Degree,Marketing,Yes,8,2,4779,1,0,25-34,6-10 years
+847,No,HR,Human Resources,Male,34,Associates Degree,Human Resources,No,3,4,3737,1,0,25-34,2-5 years
+848,Yes,R&D,Research Scientist,Female,26,Associates Degree,Medical,Yes,8,3,2366,1,1,25-34,6-10 years
+850,No,R&D,Research Scientist,Male,27,Bachelor's Degree,Medical,No,0,4,1706,1,0,25-34,0-1 years
+851,No,Sales,Manager,Female,51,Master's Degree,Marketing,No,20,3,16307,1,0,45-54,11+ years
+852,No,R&D,Healthcare Representative,Male,44,Bachelor's Degree,Medical,No,5,2,5933,1,0,35-44,2-5 years
+854,No,R&D,Research Scientist,Male,25,High School,Medical,No,4,1,3424,1,0,25-34,2-5 years
+855,No,Sales,Sales Executive,Male,33,Bachelor's Degree,Medical,No,9,1,4037,1,0,25-34,6-10 years
+856,No,R&D,Research Scientist,Female,35,High School,Medical,No,6,1,2559,1,0,35-44,6-10 years
+857,No,Sales,Sales Executive,Male,36,Associates Degree,Life Sciences,Yes,18,4,6201,1,0,35-44,11+ years
+859,No,Sales,Sales Executive,Male,32,Master's Degree,Life Sciences,No,5,4,4403,1,0,25-34,2-5 years
+861,No,R&D,Research Scientist,Male,30,Master's Degree,Life Sciences,No,5,4,3761,1,0,25-34,2-5 years
+862,No,Sales,Sales Executive,Female,53,Associates Degree,Marketing,Yes,5,4,10934,1,0,45-54,2-5 years
+864,No,Sales,Sales Executive,Male,45,Bachelor's Degree,Marketing,Yes,5,1,10761,1,0,45-54,2-5 years
+865,No,R&D,Research Scientist,Female,32,Associates Degree,Medical,No,5,3,5175,1,0,25-34,2-5 years
+867,No,R&D,Manufacturing Director,Female,52,Master's Degree,Medical,No,9,4,13826,1,0,45-54,6-10 years
+868,No,Sales,Sales Executive,Male,37,Master's Degree,Marketing,No,1,3,6334,1,0,35-44,0-1 years
+869,No,HR,Human Resources,Male,28,Associates Degree,Medical,No,5,4,4936,1,0,25-34,2-5 years
+872,No,R&D,Manufacturing Director,Male,22,Associates Degree,Life Sciences,No,2,4,4775,1,0,Under 25,2-5 years
+874,No,R&D,Laboratory Technician,Male,44,Master's Degree,Life Sciences,Yes,3,4,2818,1,0,35-44,2-5 years
+875,No,R&D,Research Scientist,Male,42,High School,Medical,Yes,2,4,2515,1,0,35-44,2-5 years
+878,No,HR,Human Resources,Male,36,Bachelor's Degree,Life Sciences,No,5,1,2342,1,0,35-44,2-5 years
+879,No,Sales,Sales Executive,Male,25,High School,Other,Yes,5,1,4194,1,0,25-34,2-5 years
+880,No,R&D,Manufacturing Director,Female,35,Bachelor's Degree,Life Sciences,Yes,17,3,10685,1,0,35-44,11+ years
+881,Yes,R&D,Research Scientist,Female,35,Master's Degree,Life Sciences,Yes,10,2,2022,1,1,35-44,6-10 years
+882,No,R&D,Laboratory Technician,Male,32,Bachelor's Degree,Life Sciences,No,3,4,2314,1,0,25-34,2-5 years
+885,No,Sales,Sales Executive,Male,25,High School,Marketing,No,5,1,4256,1,0,25-34,2-5 years
+887,No,R&D,Research Scientist,Female,49,Bachelor's Degree,Technical Degree,No,4,1,3580,1,0,45-54,2-5 years
+888,No,R&D,Laboratory Technician,Male,24,High School,Life Sciences,No,5,4,3162,1,0,Under 25,2-5 years
+889,No,Sales,Sales Executive,Male,32,Associates Degree,Life Sciences,No,10,2,6524,1,0,25-34,6-10 years
+893,No,Sales,Sales Representative,Male,38,Bachelor's Degree,Marketing,No,2,2,2899,1,0,35-44,2-5 years
+894,No,R&D,Laboratory Technician,Female,42,Bachelor's Degree,Life Sciences,Yes,5,4,5231,1,0,35-44,2-5 years
+895,No,R&D,Research Scientist,Male,31,Master's Degree,Life Sciences,Yes,6,4,2356,1,0,25-34,6-10 years
+896,Yes,Sales,Sales Representative,Female,29,Bachelor's Degree,Medical,Yes,3,3,2800,1,1,25-34,2-5 years
+897,No,Sales,Sales Executive,Male,53,Bachelor's Degree,Marketing,No,2,4,11836,1,0,45-54,2-5 years
+899,No,R&D,Manufacturing Director,Male,35,Bachelor's Degree,Technical Degree,No,13,2,10903,1,0,35-44,11+ years
+900,No,Sales,Sales Representative,Female,37,Associates Degree,Medical,No,5,4,2973,1,0,35-44,2-5 years
+901,No,R&D,Research Director,Female,53,Master's Degree,Life Sciences,No,12,4,14275,1,0,45-54,11+ years
+902,No,R&D,Healthcare Representative,Female,43,Bachelor's Degree,Life Sciences,No,5,4,5562,1,0,35-44,2-5 years
+903,No,Sales,Sales Executive,Female,47,Associates Degree,Marketing,Yes,7,4,4537,1,0,45-54,6-10 years
+904,No,Sales,Sales Executive,Male,37,Associates Degree,Medical,Yes,10,2,7642,1,0,35-44,6-10 years
+905,No,R&D,Manager,Male,50,Master's Degree,Life Sciences,No,31,1,17924,1,0,45-54,11+ years
+909,No,HR,Human Resources,Female,39,Bachelor's Degree,Life Sciences,No,5,4,5204,1,0,35-44,2-5 years
+910,No,HR,Human Resources,Male,33,Associates Degree,Human Resources,Yes,4,2,2277,1,0,25-34,2-5 years
+911,Yes,R&D,Laboratory Technician,Male,32,Master's Degree,Life Sciences,Yes,1,4,2795,1,1,25-34,0-1 years
+912,No,R&D,Laboratory Technician,Female,29,High School,Medical,No,4,4,2532,1,0,25-34,2-5 years
+913,No,R&D,Research Scientist,Male,44,Associates Degree,Life Sciences,Yes,8,1,2559,1,0,35-44,6-10 years
+916,No,Sales,Sales Executive,Male,28,Master's Degree,Medical,No,4,4,4908,1,0,25-34,2-5 years
+918,Yes,R&D,Laboratory Technician,Male,58,High School,Life Sciences,Yes,1,4,2380,1,1,55+,0-1 years
+920,No,R&D,Manufacturing Director,Female,43,Bachelor's Degree,Life Sciences,No,1,2,4765,1,0,35-44,0-1 years
+922,Yes,Sales,Sales Representative,Female,20,Bachelor's Degree,Medical,No,2,3,2044,1,1,Under 25,2-5 years
+923,Yes,R&D,Research Scientist,Female,21,High School,Other,No,1,4,2693,1,1,Under 25,0-1 years
+924,No,R&D,Healthcare Representative,Male,36,High School,Life Sciences,Yes,16,4,6586,1,0,35-44,11+ years
+925,No,Sales,Sales Representative,Female,47,Master's Degree,Life Sciences,Yes,3,4,3294,1,0,45-54,2-5 years
+926,Yes,R&D,Manufacturing Director,Female,22,High School,Life Sciences,Yes,3,3,4171,1,1,Under 25,2-5 years
+927,Yes,R&D,Laboratory Technician,Female,41,Master's Degree,Life Sciences,Yes,7,4,2778,1,1,35-44,6-10 years
+930,No,R&D,Research Scientist,Female,28,Bachelor's Degree,Medical,No,2,3,2377,1,0,25-34,2-5 years
+932,Yes,R&D,Laboratory Technician,Male,39,Bachelor's Degree,Medical,Yes,2,1,2404,1,1,35-44,2-5 years
+933,No,R&D,Research Scientist,Female,27,Bachelor's Degree,Life Sciences,No,1,3,2318,1,0,25-34,0-1 years
+934,No,R&D,Laboratory Technician,Male,34,Bachelor's Degree,Life Sciences,No,1,2,2008,1,0,25-34,0-1 years
+936,No,Sales,Sales Executive,Female,42,Associates Degree,Medical,No,5,3,6244,1,0,35-44,2-5 years
+939,No,R&D,Research Scientist,Male,33,Master's Degree,Other,Yes,3,1,2799,1,0,25-34,2-5 years
+940,No,R&D,Healthcare Representative,Female,58,Bachelor's Degree,Technical Degree,Yes,6,2,10552,1,0,55+,6-10 years
+941,No,Sales,Sales Representative,Male,31,Master's Degree,Life Sciences,No,7,3,2329,1,0,25-34,6-10 years
+942,No,R&D,Healthcare Representative,Female,35,High School,Life Sciences,Yes,10,4,4014,1,0,35-44,6-10 years
+944,No,R&D,Laboratory Technician,Female,49,Associates Degree,Other,No,26,2,7403,1,0,45-54,11+ years
+945,No,R&D,Research Scientist,Male,48,Master's Degree,Medical,No,0,3,2259,1,0,45-54,0-1 years
+947,No,Sales,Sales Executive,Female,31,Associates Degree,Marketing,No,9,3,6932,1,0,25-34,6-10 years
+949,No,R&D,Research Scientist,Male,36,Master's Degree,Other,No,6,4,4678,1,0,35-44,6-10 years
+950,No,R&D,Research Director,Female,38,Bachelor's Degree,Technical Degree,No,15,1,13582,1,0,35-44,11+ years
+951,No,R&D,Laboratory Technician,Female,32,Bachelor's Degree,Life Sciences,No,3,2,2332,1,0,25-34,2-5 years
+952,Yes,Sales,Sales Representative,Male,25,Associates Degree,Marketing,Yes,1,2,2413,1,1,25-34,0-1 years
+954,No,Sales,Sales Executive,Male,40,Master's Degree,Marketing,No,1,2,9705,1,0,35-44,0-1 years
+956,No,Sales,Sales Executive,Male,26,Bachelor's Degree,Medical,No,7,1,4294,1,0,25-34,6-10 years
+957,No,R&D,Laboratory Technician,Male,41,Bachelor's Degree,Medical,Yes,18,1,4721,1,0,35-44,11+ years
+958,No,R&D,Laboratory Technician,Male,36,Master's Degree,Medical,No,11,3,2519,1,0,35-44,11+ years
+959,Yes,Sales,Sales Representative,Male,19,Bachelor's Degree,Other,Yes,1,2,2121,1,1,Under 25,0-1 years
+960,Yes,R&D,Laboratory Technician,Male,20,Bachelor's Degree,Technical Degree,No,1,1,2973,1,1,Under 25,0-1 years
+961,No,R&D,Healthcare Representative,Female,31,Bachelor's Degree,Medical,Yes,9,4,5855,1,0,25-34,6-10 years
+964,No,R&D,Research Scientist,Male,40,Master's Degree,Medical,Yes,1,2,3617,1,0,35-44,0-1 years
+966,No,R&D,Manufacturing Director,Female,32,Master's Degree,Medical,No,8,1,6725,1,0,25-34,6-10 years
+967,Yes,Sales,Sales Executive,Male,36,High School,Life Sciences,Yes,16,4,10325,1,1,35-44,11+ years
+969,No,R&D,Healthcare Representative,Female,33,Bachelor's Degree,Life Sciences,No,5,4,6949,1,0,25-34,2-5 years
+970,Yes,Sales,Sales Executive,Male,37,Master's Degree,Life Sciences,No,14,3,10609,1,1,35-44,11+ years
+972,No,R&D,Laboratory Technician,Male,45,Associates Degree,Life Sciences,No,9,2,4447,1,0,45-54,6-10 years
+974,No,Sales,Sales Representative,Female,29,Bachelor's Degree,Technical Degree,No,3,4,2157,1,0,25-34,2-5 years
+975,No,Sales,Sales Executive,Female,35,Bachelor's Degree,Medical,No,5,3,4601,1,0,35-44,2-5 years
+976,No,R&D,Manager,Male,52,Associates Degree,Life Sciences,No,9,4,17099,1,0,45-54,6-10 years
+977,Yes,R&D,Research Scientist,Male,58,Bachelor's Degree,Technical Degree,No,1,3,2479,1,1,55+,0-1 years
+981,No,Sales,Manager,Male,53,Associates Degree,Medical,No,17,3,14852,1,0,45-54,11+ years
+982,No,Sales,Sales Executive,Male,30,Associates Degree,Other,No,8,3,7264,1,0,25-34,6-10 years
+983,No,Sales,Sales Executive,Female,38,Bachelor's Degree,Technical Degree,Yes,5,4,5666,1,0,35-44,2-5 years
+984,No,Sales,Sales Executive,Male,35,Master's Degree,Life Sciences,No,10,4,7823,1,0,35-44,6-10 years
+985,No,Sales,Sales Executive,Male,39,Doctoral Degree,Life Sciences,No,8,3,7880,1,0,35-44,6-10 years
+986,Yes,Sales,Sales Executive,Female,40,Bachelor's Degree,Life Sciences,Yes,1,2,13194,1,1,35-44,0-1 years
+987,No,R&D,Manufacturing Director,Male,47,Master's Degree,Medical,Yes,19,3,5067,1,0,45-54,11+ years
+990,No,Sales,Sales Executive,Male,36,Master's Degree,Technical Degree,No,7,4,5079,1,0,35-44,6-10 years
+991,Yes,R&D,Research Scientist,Male,31,Associates Degree,Medical,Yes,3,1,2321,1,1,25-34,2-5 years
+992,No,Sales,Manager,Male,33,Bachelor's Degree,Life Sciences,No,10,3,17444,1,0,25-34,6-10 years
+994,Yes,R&D,Research Scientist,Female,29,Bachelor's Degree,Life Sciences,Yes,0,1,2404,1,1,25-34,0-1 years
+995,No,R&D,Research Scientist,Female,33,High School,Life Sciences,No,3,4,3452,1,0,25-34,2-5 years
+996,No,R&D,Laboratory Technician,Female,45,Master's Degree,Medical,No,5,4,2270,1,0,45-54,2-5 years
+997,No,R&D,Research Director,Male,50,Associates Degree,Medical,No,5,4,17399,1,0,45-54,2-5 years
+998,No,R&D,Healthcare Representative,Female,33,Master's Degree,Other,Yes,6,2,5488,1,0,25-34,6-10 years
+999,No,R&D,Research Director,Male,41,Bachelor's Degree,Medical,No,18,3,19419,1,0,35-44,11+ years
+1001,No,R&D,Laboratory Technician,Female,27,Master's Degree,Technical Degree,No,2,2,2811,1,0,25-34,2-5 years
+1002,No,R&D,Laboratory Technician,Male,45,Associates Degree,Life Sciences,Yes,9,1,3633,1,0,45-54,6-10 years
+1003,No,Sales,Sales Executive,Female,47,Associates Degree,Life Sciences,Yes,9,4,4163,1,0,45-54,6-10 years
+1004,Yes,R&D,Research Scientist,Female,30,Bachelor's Degree,Life Sciences,Yes,5,3,2132,1,1,25-34,2-5 years
+1005,No,R&D,Manufacturing Director,Male,50,Bachelor's Degree,Life Sciences,Yes,12,3,13973,1,0,45-54,11+ years
+1006,No,R&D,Research Scientist,Male,38,High School,Medical,No,2,3,2684,1,0,35-44,2-5 years
+1007,No,R&D,Manufacturing Director,Male,46,Associates Degree,Medical,No,8,3,10845,1,0,45-54,6-10 years
+1009,No,R&D,Manufacturing Director,Female,24,High School,Medical,No,4,3,4377,1,0,Under 25,2-5 years
+1010,Yes,R&D,Laboratory Technician,Male,35,Master's Degree,Other,Yes,4,2,3743,1,1,35-44,2-5 years
+1011,No,R&D,Manufacturing Director,Female,31,High School,Life Sciences,No,4,1,4148,1,0,25-34,2-5 years
+1012,No,R&D,Research Scientist,Male,18,Associates Degree,Life Sciences,No,0,4,1051,1,0,Under 25,0-1 years
+1013,No,R&D,Manufacturing Director,Female,54,Bachelor's Degree,Technical Degree,No,10,3,10739,1,0,45-54,6-10 years
+1014,No,R&D,Healthcare Representative,Female,35,Master's Degree,Medical,Yes,16,3,10388,1,0,35-44,11+ years
+1015,No,R&D,Research Director,Female,30,Associates Degree,Life Sciences,Yes,8,1,11416,1,0,25-34,6-10 years
+1016,Yes,R&D,Research Scientist,Female,20,Bachelor's Degree,Medical,Yes,1,1,2600,1,1,Under 25,0-1 years
+1017,Yes,R&D,Laboratory Technician,Female,30,Bachelor's Degree,Medical,No,3,2,2422,1,1,25-34,2-5 years
+1018,No,R&D,Manufacturing Director,Male,26,Associates Degree,Medical,No,8,4,5472,1,0,25-34,6-10 years
+1019,No,R&D,Laboratory Technician,Male,22,High School,Life Sciences,No,4,1,2451,1,0,Under 25,2-5 years
+1022,No,R&D,Healthcare Representative,Male,48,Bachelor's Degree,Life Sciences,No,2,3,4240,1,0,45-54,2-5 years
+1024,No,R&D,Healthcare Representative,Male,48,Master's Degree,Life Sciences,No,15,3,10999,1,0,45-54,11+ years
+1025,No,R&D,Manufacturing Director,Female,41,Associates Degree,Medical,No,2,3,5003,1,0,35-44,2-5 years
+1026,No,R&D,Manufacturing Director,Female,39,High School,Life Sciences,No,21,4,12742,1,0,35-44,11+ years
+1027,No,R&D,Manufacturing Director,Female,27,Master's Degree,Life Sciences,No,3,4,4227,1,0,25-34,2-5 years
+1028,No,R&D,Laboratory Technician,Male,35,Bachelor's Degree,Other,No,3,4,3917,1,0,35-44,2-5 years
+1029,No,Sales,Manager,Male,42,Associates Degree,Marketing,No,1,3,18303,1,0,35-44,0-1 years
+1030,No,R&D,Laboratory Technician,Male,50,Bachelor's Degree,Life Sciences,No,1,4,2380,1,0,45-54,0-1 years
+1032,No,R&D,Manufacturing Director,Female,59,Bachelor's Degree,Life Sciences,Yes,5,4,13726,1,0,55+,2-5 years
+1033,Yes,R&D,Healthcare Representative,Female,37,Associates Degree,Medical,No,1,2,4777,1,1,35-44,0-1 years
+1034,No,R&D,Healthcare Representative,Male,55,Master's Degree,Medical,Yes,8,2,6385,1,0,55+,6-10 years
+1035,No,R&D,Research Director,Female,41,High School,Life Sciences,No,21,3,19973,1,0,35-44,11+ years
+1036,No,Sales,Sales Executive,Male,38,Master's Degree,Life Sciences,Yes,1,4,6861,1,0,35-44,0-1 years
+1037,Yes,Sales,Sales Executive,Male,26,Associates Degree,Medical,No,2,1,4969,1,1,25-34,2-5 years
+1038,Yes,Sales,Manager,Female,52,High School,Marketing,No,32,4,19845,1,1,45-54,11+ years
+1039,No,Sales,Sales Executive,Female,44,Bachelor's Degree,Medical,Yes,12,4,13320,1,0,35-44,11+ years
+1040,No,Sales,Sales Executive,Female,50,Bachelor's Degree,Life Sciences,No,18,3,6347,1,0,45-54,11+ years
+1042,Yes,R&D,Laboratory Technician,Female,36,Master's Degree,Life Sciences,No,17,1,2743,1,1,35-44,11+ years
+1043,No,R&D,Manufacturing Director,Female,39,Bachelor's Degree,Medical,Yes,21,1,10880,1,0,35-44,11+ years
+1044,No,Sales,Sales Representative,Female,33,High School,Life Sciences,No,2,4,2342,1,0,25-34,2-5 years
+1045,No,Sales,Manager,Female,45,Associates Degree,Life Sciences,No,9,4,17650,1,0,45-54,6-10 years
+1046,No,R&D,Laboratory Technician,Female,32,Master's Degree,Medical,No,8,3,4025,1,0,25-34,6-10 years
+1047,No,Sales,Sales Executive,Male,34,Master's Degree,Marketing,No,15,4,9725,1,0,25-34,11+ years
+1048,No,Sales,Manager,Male,59,Associates Degree,Technical Degree,Yes,6,4,11904,1,0,55+,6-10 years
+1049,No,HR,Human Resources,Male,45,Master's Degree,Medical,No,6,2,2177,1,0,45-54,6-10 years
+1050,No,Sales,Sales Executive,Female,53,Bachelor's Degree,Marketing,No,15,2,7525,1,0,45-54,11+ years
+1052,Yes,R&D,Laboratory Technician,Male,36,Bachelor's Degree,Other,No,1,3,4834,1,1,35-44,0-1 years
+1053,Yes,R&D,Research Scientist,Male,26,Bachelor's Degree,Life Sciences,Yes,3,1,2042,1,1,25-34,2-5 years
+1055,No,Sales,Sales Representative,Female,34,Master's Degree,Life Sciences,Yes,1,3,2220,1,0,25-34,0-1 years
+1056,No,Sales,Sales Representative,Male,28,High School,Medical,No,1,2,1052,1,0,25-34,0-1 years
+1060,No,R&D,Research Scientist,Male,38,Master's Degree,Other,No,2,3,2821,1,0,35-44,2-5 years
+1061,No,R&D,Research Director,Male,50,Master's Degree,Medical,Yes,8,3,19237,1,0,45-54,6-10 years
+1062,No,R&D,Healthcare Representative,Female,37,Bachelor's Degree,Other,No,4,2,4107,1,0,35-44,2-5 years
+1066,No,Sales,Sales Executive,Male,40,Bachelor's Degree,Marketing,No,7,1,8396,1,0,35-44,6-10 years
+1068,No,R&D,Research Scientist,Female,26,High School,Medical,No,5,3,2007,1,0,25-34,2-5 years
+1069,No,R&D,Research Director,Male,46,Master's Degree,Medical,No,2,4,19627,1,0,45-54,2-5 years
+1070,No,Sales,Sales Executive,Female,54,Master's Degree,Life Sciences,No,9,3,10686,1,0,45-54,6-10 years
+1071,No,R&D,Research Scientist,Female,56,Bachelor's Degree,Medical,No,5,3,2942,1,0,55+,2-5 years
+1073,No,R&D,Manufacturing Director,Female,36,Doctoral Degree,Medical,No,14,4,8858,1,0,35-44,11+ years
+1074,No,R&D,Manager,Male,55,High School,Medical,No,9,1,16756,1,0,55+,6-10 years
+1076,No,Sales,Sales Executive,Male,43,Bachelor's Degree,Medical,No,1,4,10798,1,0,35-44,0-1 years
+1077,Yes,Sales,Sales Representative,Female,20,Bachelor's Degree,Marketing,Yes,2,4,2323,1,1,Under 25,2-5 years
+1079,Yes,R&D,Laboratory Technician,Female,21,Bachelor's Degree,Life Sciences,No,1,1,1416,1,1,Under 25,0-1 years
+1080,No,R&D,Research Scientist,Female,46,Master's Degree,Life Sciences,Yes,16,1,4615,1,0,45-54,11+ years
+1081,Yes,R&D,Research Scientist,Male,51,Master's Degree,Life Sciences,Yes,10,3,2461,1,1,45-54,6-10 years
+1082,Yes,R&D,Healthcare Representative,Male,28,Associates Degree,Technical Degree,No,10,1,8722,1,1,25-34,6-10 years
+1083,No,R&D,Laboratory Technician,Male,26,Associates Degree,Medical,No,5,1,3955,1,0,25-34,2-5 years
+1084,No,R&D,Manufacturing Director,Male,30,Bachelor's Degree,Other,No,6,1,9957,1,0,25-34,6-10 years
+1085,No,R&D,Research Scientist,Female,41,Associates Degree,Technical Degree,No,10,3,3376,1,0,35-44,6-10 years
+1088,No,R&D,Healthcare Representative,Female,38,High School,Life Sciences,No,19,3,8823,1,0,35-44,11+ years
+1092,No,R&D,Healthcare Representative,Male,40,Master's Degree,Technical Degree,No,11,4,10322,1,0,35-44,11+ years
+1094,No,R&D,Laboratory Technician,Male,27,Doctoral Degree,Life Sciences,No,3,3,4621,1,0,25-34,2-5 years
+1096,No,R&D,Manufacturing Director,Male,55,High School,Life Sciences,No,3,2,10976,1,0,55+,2-5 years
+1097,No,R&D,Research Scientist,Female,28,Bachelor's Degree,Other,No,8,3,3660,1,0,25-34,6-10 years
+1098,Yes,HR,Human Resources,Male,44,Associates Degree,Medical,No,20,1,10482,1,1,35-44,11+ years
+1099,No,R&D,Healthcare Representative,Male,33,Bachelor's Degree,Life Sciences,No,3,4,7119,1,0,25-34,2-5 years
+1100,Yes,Sales,Sales Executive,Male,35,Bachelor's Degree,Technical Degree,Yes,8,1,9582,1,1,35-44,6-10 years
+1101,Yes,R&D,Research Scientist,Female,33,Master's Degree,Medical,No,13,3,4508,1,1,25-34,11+ years
+1102,No,R&D,Laboratory Technician,Male,28,Associates Degree,Life Sciences,No,4,3,2207,1,0,25-34,2-5 years
+1103,No,R&D,Healthcare Representative,Male,34,High School,Life Sciences,No,6,4,7756,1,0,25-34,6-10 years
+1105,No,Sales,Sales Executive,Female,37,Master's Degree,Life Sciences,Yes,1,4,6694,1,0,35-44,0-1 years
+1106,Yes,R&D,Laboratory Technician,Male,25,High School,Technical Degree,Yes,7,4,3691,1,1,25-34,6-10 years
+1107,Yes,R&D,Laboratory Technician,Male,26,Bachelor's Degree,Medical,No,1,3,2377,1,1,25-34,0-1 years
+1108,Yes,R&D,Research Scientist,Male,33,Bachelor's Degree,Medical,Yes,2,2,2313,1,1,25-34,2-5 years
+1109,No,R&D,Manager,Male,42,Associates Degree,Medical,No,22,1,17665,1,0,35-44,11+ years
+1111,Yes,R&D,Laboratory Technician,Male,28,Bachelor's Degree,Medical,No,1,2,2596,1,1,25-34,0-1 years
+1113,Yes,Sales,Sales Executive,Male,50,Master's Degree,Other,Yes,0,3,4728,1,1,45-54,0-1 years
+1114,No,Sales,Sales Executive,Female,33,Bachelor's Degree,Life Sciences,No,3,2,4302,1,0,25-34,2-5 years
+1115,No,R&D,Research Scientist,Male,34,Master's Degree,Life Sciences,No,0,4,2979,1,0,25-34,0-1 years
+1116,No,R&D,Manager,Male,48,Master's Degree,Medical,No,5,4,16885,1,0,45-54,2-5 years
+1117,No,Sales,Sales Executive,Female,45,Master's Degree,Life Sciences,No,15,3,5593,1,0,45-54,11+ years
+1118,No,R&D,Healthcare Representative,Male,52,Master's Degree,Life Sciences,No,8,2,10445,1,0,45-54,6-10 years
+1119,No,Sales,Sales Executive,Male,38,Master's Degree,Marketing,Yes,8,3,8740,1,0,35-44,6-10 years
+1120,No,R&D,Research Scientist,Female,29,Master's Degree,Life Sciences,No,7,4,2514,1,0,25-34,6-10 years
+1121,No,R&D,Manufacturing Director,Female,28,Bachelor's Degree,Medical,No,9,2,7655,1,0,25-34,6-10 years
+1124,No,Sales,Manager,Male,46,High School,Marketing,No,12,3,17465,1,0,45-54,11+ years
+1125,No,Sales,Sales Executive,Male,38,Associates Degree,Marketing,No,1,2,7351,1,0,35-44,0-1 years
+1126,No,R&D,Manufacturing Director,Female,43,Bachelor's Degree,Life Sciences,No,8,1,10820,1,0,35-44,6-10 years
+1127,Yes,R&D,Healthcare Representative,Male,39,Bachelor's Degree,Life Sciences,No,18,4,12169,1,1,35-44,11+ years
+1128,No,R&D,Research Director,Male,40,Bachelor's Degree,Medical,No,20,3,19626,1,0,35-44,11+ years
+1131,No,R&D,Research Scientist,Female,21,High School,Technical Degree,Yes,2,2,2070,1,0,Under 25,2-5 years
+1132,No,R&D,Laboratory Technician,Male,39,Bachelor's Degree,Life Sciences,No,5,2,6782,1,0,35-44,2-5 years
+1133,No,R&D,Manufacturing Director,Male,36,Master's Degree,Life Sciences,No,11,4,7779,1,0,35-44,11+ years
+1135,No,Sales,Sales Representative,Male,31,Bachelor's Degree,Life Sciences,No,2,4,2791,1,0,25-34,2-5 years
+1136,No,R&D,Research Scientist,Male,28,High School,Life Sciences,No,5,2,3201,1,0,25-34,2-5 years
+1137,No,Sales,Sales Executive,Male,35,Associates Degree,Marketing,No,5,4,4968,1,0,35-44,2-5 years
+1138,No,Sales,Sales Executive,Male,49,Master's Degree,Technical Degree,No,9,2,13120,1,0,45-54,6-10 years
+1140,No,R&D,Manufacturing Director,Male,34,Associates Degree,Life Sciences,No,3,3,4033,1,0,25-34,2-5 years
+1143,No,R&D,Research Scientist,Female,29,Bachelor's Degree,Life Sciences,No,7,2,3291,1,0,25-34,6-10 years
+1148,No,R&D,Laboratory Technician,Male,42,Bachelor's Degree,Medical,No,1,4,4272,1,0,35-44,0-1 years
+1150,No,R&D,Manufacturing Director,Male,29,High School,Medical,Yes,10,4,5056,1,0,25-34,6-10 years
+1152,No,HR,Human Resources,Male,38,Bachelor's Degree,Human Resources,No,7,3,2844,1,0,35-44,6-10 years
+1154,No,R&D,Research Scientist,Male,28,Bachelor's Degree,Life Sciences,Yes,3,3,2703,1,0,25-34,2-5 years
+1156,Yes,R&D,Laboratory Technician,Male,18,High School,Medical,No,0,3,1904,1,1,Under 25,0-1 years
+1157,Yes,Sales,Sales Executive,Female,33,Master's Degree,Marketing,Yes,5,1,8224,1,1,25-34,2-5 years
+1158,No,R&D,Laboratory Technician,Male,41,Master's Degree,Life Sciences,Yes,1,4,4766,1,0,35-44,0-1 years
+1160,Yes,R&D,Laboratory Technician,Male,31,Bachelor's Degree,Medical,No,2,3,2610,1,1,25-34,2-5 years
+1161,No,R&D,Healthcare Representative,Female,37,Associates Degree,Medical,No,6,4,5731,1,0,35-44,6-10 years
+1162,No,R&D,Research Scientist,Male,27,Bachelor's Degree,Life Sciences,No,4,3,2539,1,0,25-34,2-5 years
+1163,No,Sales,Sales Executive,Female,34,High School,Life Sciences,No,6,3,5714,1,0,25-34,6-10 years
+1164,No,HR,Human Resources,Male,35,Master's Degree,Technical Degree,No,5,3,4323,1,0,35-44,2-5 years
+1165,Yes,Sales,Sales Executive,Female,29,High School,Life Sciences,No,11,1,7336,1,1,25-34,11+ years
+1166,No,R&D,Research Director,Female,40,Master's Degree,Medical,No,18,3,13499,1,0,35-44,11+ years
+1167,Yes,Sales,Sales Executive,Male,42,Bachelor's Degree,Life Sciences,Yes,21,1,13758,1,1,35-44,11+ years
+1171,No,Sales,Sales Executive,Male,42,Master's Degree,Marketing,No,6,1,5155,1,0,35-44,6-10 years
+1172,No,R&D,Laboratory Technician,Male,35,Master's Degree,Medical,No,8,3,2258,1,0,35-44,6-10 years
+1173,No,R&D,Laboratory Technician,Male,24,Bachelor's Degree,Medical,No,4,2,3597,1,0,Under 25,2-5 years
+1175,Yes,R&D,Laboratory Technician,Female,28,High School,Life Sciences,Yes,1,4,2515,1,1,25-34,0-1 years
+1177,No,R&D,Laboratory Technician,Male,26,Master's Degree,Medical,No,8,4,4420,1,0,25-34,6-10 years
+1179,No,Sales,Sales Executive,Male,30,Bachelor's Degree,Marketing,No,10,3,6578,1,0,25-34,6-10 years
+1180,No,R&D,Research Scientist,Female,40,Associates Degree,Medical,Yes,1,4,4422,1,0,35-44,0-1 years
+1182,No,R&D,Manufacturing Director,Male,35,Bachelor's Degree,Life Sciences,No,7,2,10274,1,0,35-44,6-10 years
+1184,No,R&D,Healthcare Representative,Male,34,Bachelor's Degree,Medical,No,13,1,5343,1,0,25-34,11+ years
+1185,No,R&D,Laboratory Technician,Male,35,Master's Degree,Other,No,2,4,2376,1,0,35-44,2-5 years
+1188,Yes,Sales,Sales Executive,Female,43,Bachelor's Degree,Marketing,No,4,3,5346,1,1,35-44,2-5 years
+1190,No,Sales,Sales Representative,Female,32,High School,Life Sciences,No,1,1,2827,1,0,25-34,0-1 years
+1191,No,R&D,Manager,Female,56,Master's Degree,Technical Degree,No,5,1,19943,1,0,55+,2-5 years
+1192,No,R&D,Laboratory Technician,Female,29,High School,Medical,No,10,4,3131,1,0,25-34,6-10 years
+1193,No,R&D,Research Scientist,Male,19,Associates Degree,Life Sciences,No,1,1,2552,1,0,Under 25,0-1 years
+1195,No,R&D,Research Scientist,Female,45,Bachelor's Degree,Medical,Yes,3,3,4477,1,0,45-54,2-5 years
+1196,No,R&D,Manufacturing Director,Female,37,Bachelor's Degree,Life Sciences,No,14,4,6474,1,0,35-44,11+ years
+1198,No,R&D,Laboratory Technician,Male,20,Bachelor's Degree,Life Sciences,No,2,3,3033,1,0,Under 25,2-5 years
+1200,Yes,R&D,Research Scientist,Male,44,Master's Degree,Life Sciences,Yes,6,3,2936,1,1,35-44,6-10 years
+1201,No,R&D,Manager,Female,53,Associates Degree,Medical,No,7,3,18606,1,0,45-54,6-10 years
+1202,No,R&D,Research Scientist,Female,29,High School,Life Sciences,Yes,5,4,2168,1,0,25-34,2-5 years
+1203,Yes,R&D,Research Scientist,Male,22,Master's Degree,Life Sciences,Yes,0,4,2853,1,1,Under 25,0-1 years
+1204,No,Sales,Manager,Female,46,Bachelor's Degree,Marketing,No,26,1,17048,1,0,45-54,11+ years
+1206,No,R&D,Research Scientist,Male,44,Bachelor's Degree,Life Sciences,No,0,3,2290,1,0,35-44,0-1 years
+1207,No,HR,Human Resources,Male,33,Bachelor's Degree,Human Resources,No,5,3,3600,1,0,25-34,2-5 years
+1210,Yes,R&D,Research Scientist,Male,41,Associates Degree,Life Sciences,No,1,1,2107,1,1,35-44,0-1 years
+1211,No,Sales,Sales Executive,Male,30,Master's Degree,Life Sciences,No,4,1,4115,1,0,25-34,2-5 years
+1212,No,Sales,Sales Executive,Male,40,Master's Degree,Medical,No,0,2,4327,1,0,35-44,0-1 years
+1215,No,R&D,Manager,Female,50,Bachelor's Degree,Medical,No,2,1,17856,1,0,45-54,2-5 years
+1216,No,R&D,Laboratory Technician,Male,28,Master's Degree,Medical,No,6,1,3196,1,0,25-34,6-10 years
+1217,No,R&D,Research Director,Male,46,Associates Degree,Life Sciences,No,4,2,19081,1,0,45-54,2-5 years
+1218,No,Sales,Sales Executive,Male,35,Master's Degree,Life Sciences,Yes,7,1,8966,1,0,35-44,6-10 years
+1219,Yes,R&D,Laboratory Technician,Female,24,Associates Degree,Life Sciences,No,1,2,2210,1,1,Under 25,0-1 years
+1220,No,Sales,Sales Executive,Female,33,Bachelor's Degree,Medical,No,10,3,4539,1,0,25-34,6-10 years
+1221,No,R&D,Laboratory Technician,Male,36,Master's Degree,Life Sciences,No,7,3,2741,1,0,35-44,6-10 years
+1224,No,R&D,Laboratory Technician,Male,30,Master's Degree,Life Sciences,No,10,3,3491,1,0,25-34,6-10 years
+1225,No,R&D,Research Scientist,Male,44,Master's Degree,Other,No,20,4,4541,1,0,35-44,11+ years
+1226,No,Sales,Sales Representative,Male,20,Bachelor's Degree,Marketing,No,2,4,2678,1,0,Under 25,2-5 years
+1228,No,R&D,Manufacturing Director,Male,46,Master's Degree,Technical Degree,No,6,4,7379,1,0,45-54,6-10 years
+1231,No,HR,Human Resources,Male,42,Doctoral Degree,Medical,No,4,1,6272,1,0,35-44,2-5 years
+1233,No,Sales,Sales Executive,Male,60,Master's Degree,Marketing,Yes,11,4,5220,1,0,55+,11+ years
+1234,No,R&D,Laboratory Technician,Female,32,Bachelor's Degree,Other,No,2,2,2743,1,0,25-34,2-5 years
+1235,No,R&D,Research Scientist,Female,32,Associates Degree,Life Sciences,Yes,8,3,4998,1,0,25-34,6-10 years
+1237,No,R&D,Manufacturing Director,Female,36,Bachelor's Degree,Technical Degree,Yes,7,1,10252,1,0,35-44,6-10 years
+1238,No,R&D,Research Scientist,Male,33,Bachelor's Degree,Medical,No,14,4,2781,1,0,25-34,11+ years
+1239,No,Sales,Sales Executive,Female,40,Bachelor's Degree,Technical Degree,No,5,2,6852,1,0,35-44,2-5 years
+1240,No,Sales,Sales Executive,Male,25,Master's Degree,Life Sciences,No,4,4,4950,1,0,25-34,2-5 years
+1241,No,R&D,Research Scientist,Male,30,Bachelor's Degree,Medical,Yes,11,2,3579,1,0,25-34,11+ years
+1242,No,R&D,Research Director,Female,42,Doctoral Degree,Medical,Yes,1,1,13191,1,0,35-44,0-1 years
+1243,No,Sales,Sales Executive,Female,35,Associates Degree,Marketing,Yes,13,4,10377,1,0,35-44,11+ years
+1244,No,R&D,Research Scientist,Male,27,Bachelor's Degree,Life Sciences,Yes,9,1,2235,1,0,25-34,6-10 years
+1245,No,R&D,Manufacturing Director,Female,54,Master's Degree,Life Sciences,No,5,3,10502,1,0,45-54,2-5 years
+1246,No,R&D,Research Scientist,Female,44,High School,Life Sciences,No,10,4,2011,1,0,35-44,6-10 years
+1248,Yes,R&D,Research Scientist,Female,19,Bachelor's Degree,Medical,Yes,1,2,1859,1,1,Under 25,0-1 years
+1249,No,R&D,Research Scientist,Female,29,Bachelor's Degree,Life Sciences,No,3,4,3760,1,0,25-34,2-5 years
+1250,No,R&D,Research Director,Male,54,Bachelor's Degree,Life Sciences,No,10,4,17779,1,0,45-54,6-10 years
+1251,No,R&D,Healthcare Representative,Male,31,Associates Degree,Medical,Yes,6,1,6833,1,0,25-34,6-10 years
+1252,No,R&D,Healthcare Representative,Female,31,Bachelor's Degree,Medical,No,10,1,6812,1,0,25-34,6-10 years
+1254,No,Sales,Sales Executive,Female,59,Bachelor's Degree,Life Sciences,No,6,4,5171,1,0,55+,6-10 years
+1255,No,R&D,Research Director,Male,43,Bachelor's Degree,Life Sciences,No,8,4,19740,1,0,35-44,6-10 years
+1256,No,R&D,Manager,Male,49,Associates Degree,Medical,No,1,3,18711,1,0,45-54,0-1 years
+1257,No,R&D,Research Scientist,Male,36,Bachelor's Degree,Technical Degree,No,11,2,3692,1,0,35-44,11+ years
+1258,No,R&D,Laboratory Technician,Male,48,Associates Degree,Technical Degree,No,1,2,2559,1,0,45-54,0-1 years
+1259,No,R&D,Research Scientist,Male,27,Associates Degree,Life Sciences,No,5,3,2517,1,0,25-34,2-5 years
+1260,No,R&D,Healthcare Representative,Male,29,Bachelor's Degree,Life Sciences,Yes,6,4,6623,1,0,25-34,6-10 years
+1263,No,R&D,Research Director,Male,48,Bachelor's Degree,Life Sciences,No,1,4,18265,1,0,45-54,0-1 years
+1264,No,R&D,Research Director,Female,29,Bachelor's Degree,Life Sciences,No,7,4,16124,1,0,25-34,6-10 years
+1265,No,R&D,Research Scientist,Female,34,Bachelor's Degree,Technical Degree,No,1,3,2585,1,0,25-34,0-1 years
+1267,No,Sales,Manager,Male,44,Bachelor's Degree,Marketing,No,22,2,18213,1,0,35-44,11+ years
+1268,No,Sales,Sales Executive,Male,33,Doctoral Degree,Marketing,Yes,9,3,8380,1,0,25-34,6-10 years
+1269,No,R&D,Research Scientist,Female,19,Bachelor's Degree,Life Sciences,Yes,1,4,2994,1,0,Under 25,0-1 years
+1270,No,R&D,Research Scientist,Male,23,Associates Degree,Life Sciences,No,1,3,1223,1,0,Under 25,0-1 years
+1273,Yes,Sales,Sales Representative,Male,25,High School,Life Sciences,Yes,1,4,1118,1,1,25-34,0-1 years
+1275,No,R&D,Research Scientist,Male,26,Associates Degree,Life Sciences,Yes,8,4,2875,1,0,25-34,6-10 years
+1277,Yes,Sales,Manager,Female,45,Bachelor's Degree,Marketing,Yes,24,2,18824,1,1,45-54,11+ years
+1278,No,R&D,Healthcare Representative,Male,55,High School,Medical,Yes,33,2,13577,1,0,55+,11+ years
+1279,Yes,R&D,Laboratory Technician,Female,21,Associates Degree,Life Sciences,No,2,3,2625,1,1,Under 25,2-5 years
+1280,No,Sales,Manager,Female,46,Associates Degree,Marketing,No,11,2,18789,1,0,45-54,11+ years
+1281,No,Sales,Sales Executive,Female,34,Bachelor's Degree,Marketing,Yes,3,1,4538,1,0,25-34,2-5 years
+1282,No,Sales,Manager,Male,51,Bachelor's Degree,Life Sciences,Yes,29,2,19847,1,0,45-54,11+ years
+1283,No,R&D,Manufacturing Director,Male,59,Master's Degree,Medical,No,9,4,10512,1,0,55+,6-10 years
+1285,No,R&D,Laboratory Technician,Female,34,Bachelor's Degree,Medical,No,11,2,4444,1,0,25-34,11+ years
+1286,No,R&D,Laboratory Technician,Male,28,Master's Degree,Medical,Yes,4,3,2154,1,0,25-34,2-5 years
+1288,No,R&D,Manager,Male,44,Associates Degree,Life Sciences,No,25,1,19190,1,0,35-44,11+ years
+1289,No,HR,Human Resources,Male,34,Bachelor's Degree,Life Sciences,No,10,2,4490,1,0,25-34,6-10 years
+1291,No,R&D,Research Scientist,Male,35,High School,Life Sciences,Yes,3,3,3506,1,0,35-44,2-5 years
+1292,No,R&D,Research Scientist,Female,42,Master's Degree,Medical,Yes,1,2,2372,1,0,35-44,0-1 years
+1293,No,Sales,Sales Executive,Female,43,Master's Degree,Marketing,No,21,4,10231,1,0,35-44,11+ years
+1294,No,R&D,Manufacturing Director,Female,36,Master's Degree,Life Sciences,Yes,16,2,5410,1,0,35-44,11+ years
+1295,Yes,R&D,Healthcare Representative,Female,44,Bachelor's Degree,Medical,No,10,4,7978,1,1,35-44,6-10 years
+1296,No,R&D,Laboratory Technician,Male,28,Bachelor's Degree,Life Sciences,Yes,2,4,3867,1,0,25-34,2-5 years
+1297,No,R&D,Laboratory Technician,Female,51,Associates Degree,Medical,No,7,3,2838,1,0,45-54,6-10 years
+1298,No,R&D,Manufacturing Director,Female,30,Associates Degree,Medical,Yes,8,3,4695,1,0,25-34,6-10 years
+1299,Yes,R&D,Laboratory Technician,Female,29,Bachelor's Degree,Technical Degree,Yes,7,3,3339,1,1,25-34,6-10 years
+1301,No,R&D,Research Scientist,Male,28,Bachelor's Degree,Technical Degree,No,3,1,2080,1,0,25-34,2-5 years
+1303,No,R&D,Research Scientist,Female,25,Bachelor's Degree,Medical,No,2,2,2096,1,0,25-34,2-5 years
+1304,No,Sales,Sales Executive,Male,32,Bachelor's Degree,Medical,No,10,4,6209,1,0,25-34,6-10 years
+1306,No,R&D,Manager,Female,45,Bachelor's Degree,Medical,No,0,2,18061,1,0,45-54,0-1 years
+1307,No,R&D,Manager,Female,39,Master's Degree,Medical,Yes,19,2,17123,1,0,35-44,11+ years
+1308,No,R&D,Research Scientist,Male,58,Master's Degree,Life Sciences,No,2,3,2372,1,0,55+,2-5 years
+1309,Yes,R&D,Laboratory Technician,Male,32,Associates Degree,Life Sciences,No,10,3,4883,1,1,25-34,6-10 years
+1310,Yes,R&D,Research Scientist,Male,39,Bachelor's Degree,Medical,No,5,1,3904,1,1,35-44,2-5 years
+1311,No,R&D,Laboratory Technician,Female,30,Bachelor's Degree,Technical Degree,No,9,4,4627,1,0,25-34,6-10 years
+1312,No,R&D,Healthcare Representative,Female,36,Master's Degree,Technical Degree,No,7,3,7094,1,0,35-44,6-10 years
+1314,No,HR,Human Resources,Female,46,Associates Degree,Life Sciences,No,7,1,3423,1,0,45-54,6-10 years
+1315,No,R&D,Laboratory Technician,Female,28,Bachelor's Degree,Life Sciences,No,9,4,6674,1,0,25-34,6-10 years
+1317,No,R&D,Research Director,Female,50,Bachelor's Degree,Life Sciences,Yes,3,1,16880,1,0,45-54,2-5 years
+1318,Yes,Sales,Sales Executive,Male,40,Master's Degree,Marketing,Yes,5,2,9094,1,1,35-44,2-5 years
+1319,Yes,Sales,Sales Executive,Male,52,Bachelor's Degree,Life Sciences,Yes,8,2,8446,1,1,45-54,6-10 years
+1321,No,R&D,Manager,Female,30,Master's Degree,Medical,Yes,9,1,11916,1,0,25-34,6-10 years
+1322,No,R&D,Manufacturing Director,Male,39,Associates Degree,Life Sciences,No,8,3,4534,1,0,35-44,6-10 years
+1324,No,Sales,Sales Executive,Female,31,Master's Degree,Life Sciences,Yes,10,3,9852,1,0,25-34,6-10 years
+1329,No,Sales,Sales Executive,Male,41,Associates Degree,Medical,No,19,2,6151,1,0,35-44,11+ years
+1331,Yes,Sales,Sales Representative,Female,31,Bachelor's Degree,Life Sciences,Yes,3,2,2302,1,1,25-34,2-5 years
+1333,Yes,R&D,Laboratory Technician,Male,44,Bachelor's Degree,Life Sciences,No,3,1,2362,1,1,35-44,2-5 years
+1334,No,R&D,Manager,Male,42,High School,Life Sciences,Yes,20,3,17861,1,0,35-44,11+ years
+1336,No,R&D,Manager,Female,55,Associates Degree,Medical,No,19,3,19187,1,0,55+,11+ years
+1338,No,HR,Manager,Male,56,Master's Degree,Life Sciences,No,7,2,19717,1,0,55+,6-10 years
+1340,No,R&D,Research Scientist,Male,40,Associates Degree,Life Sciences,No,4,3,3544,1,0,35-44,2-5 years
+1344,No,R&D,Healthcare Representative,Male,34,Bachelor's Degree,Life Sciences,No,9,4,8500,1,0,25-34,6-10 years
+1346,No,R&D,Research Scientist,Male,40,Bachelor's Degree,Life Sciences,No,9,4,4661,1,0,35-44,6-10 years
+1349,No,Sales,Sales Executive,Female,41,Bachelor's Degree,Marketing,No,9,1,4103,1,0,35-44,6-10 years
+1350,No,R&D,Research Scientist,Male,35,Master's Degree,Life Sciences,Yes,9,3,4249,1,0,35-44,6-10 years
+1352,No,HR,Manager,Male,51,Bachelor's Degree,Life Sciences,Yes,33,2,14026,1,0,45-54,11+ years
+1355,No,Sales,Sales Executive,Female,38,Associates Degree,Life Sciences,No,7,1,6893,1,0,35-44,6-10 years
+1356,No,Sales,Sales Executive,Female,34,Associates Degree,Medical,No,10,1,6125,1,0,25-34,6-10 years
+1358,No,R&D,Laboratory Technician,Male,25,High School,Medical,No,3,4,3669,1,0,25-34,2-5 years
+1360,Yes,R&D,Manufacturing Director,Female,58,Master's Degree,Medical,Yes,10,1,10008,1,1,55+,6-10 years
+1361,No,R&D,Laboratory Technician,Male,40,Master's Degree,Life Sciences,No,4,2,2387,1,0,35-44,2-5 years
+1362,No,Sales,Sales Executive,Female,36,Bachelor's Degree,Marketing,No,15,1,4639,1,0,35-44,11+ years
+1363,No,R&D,Manufacturing Director,Male,48,Bachelor's Degree,Life Sciences,No,10,4,7898,1,0,45-54,6-10 years
+1364,No,Sales,Sales Representative,Female,27,Bachelor's Degree,Medical,No,1,4,2534,1,0,25-34,0-1 years
+1367,No,R&D,Manufacturing Director,Female,51,Associates Degree,Technical Degree,No,5,2,13142,1,0,45-54,2-5 years
+1368,No,R&D,Laboratory Technician,Female,18,Bachelor's Degree,Life Sciences,No,0,4,1611,1,0,Under 25,0-1 years
+1369,No,R&D,Laboratory Technician,Female,35,Bachelor's Degree,Medical,No,9,4,5363,1,0,35-44,6-10 years
+1371,No,Sales,Sales Executive,Male,27,High School,Life Sciences,No,6,4,5071,1,0,25-34,6-10 years
+1372,Yes,Sales,Sales Executive,Male,55,Master's Degree,Marketing,Yes,19,3,13695,1,1,55+,11+ years
+1373,No,R&D,Manufacturing Director,Male,56,Bachelor's Degree,Life Sciences,Yes,19,2,13402,1,0,55+,11+ years
+1374,No,R&D,Research Scientist,Female,34,High School,Technical Degree,No,5,3,2029,1,0,25-34,2-5 years
+1375,No,R&D,Healthcare Representative,Female,40,High School,Medical,No,12,3,6377,1,0,35-44,11+ years
+1377,No,R&D,Laboratory Technician,Male,34,Bachelor's Degree,Medical,No,8,3,5429,1,0,25-34,6-10 years
+1379,Yes,Sales,Sales Representative,Female,31,Bachelor's Degree,Life Sciences,No,1,4,2785,1,1,25-34,0-1 years
+1380,Yes,Sales,Sales Executive,Female,35,Master's Degree,Marketing,Yes,4,3,4614,1,1,35-44,2-5 years
+1382,No,R&D,Research Scientist,Male,38,Bachelor's Degree,Life Sciences,No,4,3,2610,1,0,35-44,2-5 years
+1383,No,R&D,Healthcare Representative,Female,34,Master's Degree,Technical Degree,No,14,4,6687,1,0,25-34,11+ years
+1387,No,Sales,Sales Executive,Male,28,Bachelor's Degree,Life Sciences,No,5,1,4724,1,0,25-34,2-5 years
+1389,Yes,R&D,Manufacturing Director,Male,31,Master's Degree,Medical,Yes,10,3,6179,1,1,25-34,6-10 years
+1390,No,Sales,Sales Executive,Male,39,Master's Degree,Life Sciences,Yes,5,4,6120,1,0,35-44,2-5 years
+1391,No,Sales,Sales Executive,Male,51,Bachelor's Degree,Marketing,No,4,2,10596,1,0,45-54,2-5 years
+1392,No,R&D,Research Scientist,Female,41,Bachelor's Degree,Life Sciences,Yes,6,4,5467,1,0,35-44,6-10 years
+1394,No,R&D,Research Scientist,Male,37,High School,Life Sciences,Yes,6,3,2996,1,0,35-44,6-10 years
+1395,No,Sales,Sales Executive,Male,33,High School,Life Sciences,No,5,4,9998,1,0,25-34,2-5 years
+1396,No,Sales,Sales Executive,Male,32,High School,Marketing,Yes,3,2,4078,1,0,25-34,2-5 years
+1397,No,R&D,Healthcare Representative,Male,39,Associates Degree,Life Sciences,No,6,3,10920,1,0,35-44,6-10 years
+1399,No,Sales,Sales Executive,Male,25,High School,Life Sciences,No,3,3,6232,1,0,25-34,2-5 years
+1401,No,R&D,Manufacturing Director,Female,52,Associates Degree,Medical,Yes,5,3,13247,1,0,45-54,2-5 years
+1402,No,R&D,Research Scientist,Female,43,Bachelor's Degree,Medical,Yes,20,3,4081,1,0,35-44,11+ years
+1403,No,Sales,Sales Executive,Female,27,Bachelor's Degree,Marketing,Yes,6,4,5769,1,0,25-34,6-10 years
+1405,Yes,R&D,Research Scientist,Female,27,Master's Degree,Life Sciences,Yes,8,3,2394,1,1,25-34,6-10 years
+1407,No,R&D,Research Scientist,Male,26,High School,Medical,No,4,4,3904,1,0,25-34,2-5 years
+1408,No,HR,Manager,Female,42,Bachelor's Degree,Human Resources,No,20,1,16799,1,0,35-44,11+ years
+1955,No,R&D,Healthcare Representative,Female,32,Master's Degree,Medical,No,5,4,6667,1,0,25-34,2-5 years
+1662,No,R&D,Manufacturing Director,Female,36,Master's Degree,Medical,No,3,3,4374,1,0,35-44,2-5 years
+1630,No,R&D,Healthcare Representative,Female,35,Master's Degree,Life Sciences,No,14,3,4148,1,0,35-44,11+ years
+2000,No,R&D,Research Director,Female,47,High School,Medical,No,13,2,11957,1,0,45-54,11+ years
+1839,No,R&D,Research Scientist,Female,18,Bachelor's Degree,Medical,No,0,3,1514,1,0,Under 25,0-1 years
+1929,No,Sales,Sales Executive,Female,39,Master's Degree,Life Sciences,No,3,3,5736,1,0,35-44,2-5 years
+1495,No,Sales,Sales Representative,Female,24,Associates Degree,Life Sciences,No,1,2,2033,1,0,Under 25,0-1 years
+1756,No,Sales,Sales Executive,Female,33,Bachelor's Degree,Marketing,No,11,2,5147,1,0,25-34,11+ years
+1900,No,R&D,Manager,Female,48,Bachelor's Degree,Medical,No,22,4,17174,1,0,45-54,11+ years
+2025,No,R&D,Manufacturing Director,Female,36,Associates Degree,Life Sciences,No,4,2,5131,1,0,35-44,2-5 years
+1760,No,R&D,Laboratory Technician,Female,38,Associates Degree,Medical,No,6,2,2468,1,0,35-44,6-10 years
+1870,No,R&D,Research Scientist,Female,27,Bachelor's Degree,Life Sciences,No,7,1,4774,1,0,25-34,6-10 years
+1985,No,R&D,Laboratory Technician,Female,40,Bachelor's Degree,Technical Degree,No,10,3,6323,1,0,35-44,6-10 years
+1513,No,R&D,Laboratory Technician,Female,29,High School,Life Sciences,No,3,2,3180,1,0,25-34,2-5 years
+1633,No,R&D,Manufacturing Director,Female,39,Bachelor's Degree,Medical,No,9,3,5042,1,0,35-44,6-10 years
+1480,No,R&D,Laboratory Technician,Female,42,Associates Degree,Medical,No,12,4,3673,1,0,35-44,11+ years
+1745,No,R&D,Research Scientist,Female,30,Master's Degree,Technical Degree,No,9,1,4968,1,0,25-34,6-10 years
+1481,No,Sales,Sales Executive,Female,44,Doctoral Degree,Marketing,No,1,3,4768,1,0,35-44,0-1 years
+1833,No,Sales,Sales Executive,Female,31,Master's Degree,Marketing,No,3,1,9637,1,0,25-34,2-5 years
+1987,No,HR,Human Resources,Female,25,Bachelor's Degree,Human Resources,No,2,2,2187,1,0,25-34,2-5 years
+1625,No,HR,Manager,Female,47,Master's Degree,Life Sciences,No,5,3,19658,1,0,45-54,2-5 years
+1461,No,HR,Human Resources,Female,31,Associates Degree,Medical,No,3,2,2109,1,0,25-34,2-5 years
+1916,No,R&D,Laboratory Technician,Female,31,Bachelor's Degree,Medical,No,2,3,3978,1,0,25-34,2-5 years
+1829,No,R&D,Healthcare Representative,Female,40,Bachelor's Degree,Life Sciences,No,7,1,4448,1,0,35-44,6-10 years
+1822,No,R&D,Healthcare Representative,Female,40,Bachelor's Degree,Life Sciences,No,5,4,6513,1,0,35-44,2-5 years
+1762,No,R&D,Research Scientist,Female,29,Bachelor's Degree,Technical Degree,No,1,1,2109,1,0,25-34,0-1 years
+1658,No,R&D,Research Scientist,Female,34,Bachelor's Degree,Life Sciences,No,11,2,5433,1,0,25-34,11+ years
+1635,No,R&D,Manufacturing Director,Female,45,Associates Degree,Other,No,10,4,5770,1,0,45-54,6-10 years
+1656,No,R&D,Research Director,Female,50,Doctoral Degree,Life Sciences,No,14,1,13269,1,0,45-54,11+ years
+1502,No,R&D,Laboratory Technician,Female,33,Master's Degree,Medical,No,5,2,3838,1,0,25-34,2-5 years
+1866,No,R&D,Manager,Female,43,Bachelor's Degree,Medical,No,16,3,19392,1,0,35-44,11+ years
+1786,No,R&D,Manager,Female,51,Bachelor's Degree,Technical Degree,No,2,3,13116,1,0,45-54,2-5 years
+1701,No,R&D,Research Scientist,Female,34,Bachelor's Degree,Life Sciences,No,10,4,2929,1,0,25-34,6-10 years
+1647,No,R&D,Research Scientist,Female,27,Bachelor's Degree,Medical,No,3,3,3517,1,0,25-34,2-5 years
+1409,No,R&D,Laboratory Technician,Female,52,Master's Degree,Other,No,5,1,2950,1,0,45-54,2-5 years
+2015,No,R&D,Research Director,Female,38,Bachelor's Degree,Medical,No,18,3,13206,1,0,35-44,11+ years
+1640,No,R&D,Research Scientist,Female,37,Bachelor's Degree,Medical,No,8,2,3936,1,0,35-44,6-10 years
+1544,No,R&D,Healthcare Representative,Female,29,High School,Other,No,7,1,9715,1,0,25-34,6-10 years
+2052,No,R&D,Research Scientist,Female,35,Master's Degree,Life Sciences,No,4,4,2977,1,0,35-44,2-5 years
+1802,No,R&D,Laboratory Technician,Female,40,Associates Degree,Life Sciences,No,4,1,3377,1,0,35-44,2-5 years
+1617,No,R&D,Laboratory Technician,Female,49,Master's Degree,Life Sciences,No,9,1,3211,1,0,45-54,6-10 years
+1576,No,R&D,Research Scientist,Female,48,Master's Degree,Other,No,8,1,2367,1,0,45-54,6-10 years
+1447,No,R&D,Laboratory Technician,Female,34,Bachelor's Degree,Life Sciences,No,5,2,3294,1,0,25-34,2-5 years
+1555,No,R&D,Research Scientist,Female,32,Associates Degree,Life Sciences,No,7,2,5878,1,0,25-34,6-10 years
+1782,No,R&D,Laboratory Technician,Female,38,Associates Degree,Other,No,5,3,3702,1,0,35-44,2-5 years
+1687,No,R&D,Laboratory Technician,Female,38,Associates Degree,Medical,No,0,3,3306,1,0,35-44,0-1 years
+1709,No,R&D,Laboratory Technician,Female,29,Master's Degree,Medical,No,5,3,2974,1,0,25-34,2-5 years
+1830,No,R&D,Research Scientist,Female,54,Master's Degree,Medical,No,7,4,6854,1,0,45-54,6-10 years
+1628,No,R&D,Manufacturing Director,Female,40,Bachelor's Degree,Life Sciences,No,18,3,10435,1,0,35-44,11+ years
+1655,No,R&D,Research Director,Female,49,Master's Degree,Other,No,4,2,16413,1,0,45-54,2-5 years
+1969,No,R&D,Research Scientist,Female,54,Associates Degree,Life Sciences,No,4,3,2897,1,0,45-54,2-5 years
+1443,No,R&D,Research Director,Female,47,Master's Degree,Medical,No,20,3,17169,1,0,45-54,11+ years
+1888,No,R&D,Manufacturing Director,Female,45,Associates Degree,Life Sciences,No,9,4,5906,1,0,45-54,6-10 years
+1651,No,R&D,Healthcare Representative,Female,36,Master's Degree,Life Sciences,No,3,1,8008,1,0,35-44,2-5 years
+1607,No,R&D,Research Scientist,Female,32,Master's Degree,Other,No,3,4,3312,1,0,25-34,2-5 years
+2051,No,R&D,Research Scientist,Female,40,Master's Degree,Medical,No,5,3,2001,1,0,35-44,2-5 years
+1430,No,R&D,Research Director,Female,31,Doctoral Degree,Life Sciences,No,3,2,16422,1,0,25-34,2-5 years
+1411,No,R&D,Laboratory Technician,Female,37,Bachelor's Degree,Medical,No,3,3,3629,1,0,35-44,2-5 years
+1816,No,R&D,Manufacturing Director,Female,30,Bachelor's Degree,Medical,No,7,3,9667,1,0,25-34,6-10 years
+1525,No,R&D,Manufacturing Director,Female,39,Bachelor's Degree,Life Sciences,No,2,2,8376,1,0,35-44,2-5 years
+1856,No,R&D,Laboratory Technician,Female,47,Master's Degree,Life Sciences,No,2,3,2105,1,0,45-54,2-5 years
+2010,No,R&D,Laboratory Technician,Female,32,Master's Degree,Life Sciences,No,6,2,2837,1,0,25-34,6-10 years
+1735,No,R&D,Laboratory Technician,Female,23,High School,Medical,No,3,2,3295,1,0,Under 25,2-5 years
+1751,No,R&D,Research Scientist,Female,27,Bachelor's Degree,Medical,No,6,4,3445,1,0,25-34,6-10 years
+2054,No,R&D,Research Scientist,Female,29,Master's Degree,Medical,No,5,1,3785,1,0,25-34,2-5 years
+1529,No,R&D,Healthcare Representative,Female,35,Bachelor's Degree,Life Sciences,No,11,2,8606,1,0,35-44,11+ years
+1719,No,R&D,Research Director,Female,45,Associates Degree,Technical Degree,No,21,2,16704,1,0,45-54,11+ years
+1422,No,R&D,Research Director,Female,54,Bachelor's Degree,Medical,No,20,4,17328,1,0,45-54,11+ years
+1863,No,Sales,Sales Executive,Female,46,Bachelor's Degree,Technical Degree,No,19,1,13225,1,0,45-54,11+ years
+1557,No,Sales,Sales Executive,Female,48,Master's Degree,Life Sciences,No,8,3,6439,1,0,45-54,6-10 years
+1428,No,Sales,Sales Executive,Female,30,Master's Degree,Marketing,No,3,1,4779,1,0,25-34,2-5 years
+1676,No,Sales,Manager,Female,47,Master's Degree,Life Sciences,No,3,2,15972,1,0,45-54,2-5 years
+2041,No,Sales,Sales Executive,Female,38,Associates Degree,Life Sciences,No,10,4,5343,1,0,35-44,6-10 years
+2045,No,Sales,Sales Executive,Female,36,Master's Degree,Marketing,No,6,4,6652,1,0,35-44,6-10 years
+2056,No,Sales,Sales Executive,Female,39,High School,Marketing,No,20,4,12031,1,0,35-44,11+ years
+1986,No,Sales,Sales Executive,Female,40,Associates Degree,Marketing,No,11,2,5677,1,0,35-44,11+ years
+1875,No,Sales,Sales Representative,Female,28,Bachelor's Degree,Medical,No,1,2,2856,1,0,25-34,0-1 years
+1527,No,Sales,Manager,Female,46,Bachelor's Degree,Life Sciences,No,13,2,16606,1,0,45-54,11+ years
+1935,No,Sales,Sales Executive,Female,56,Doctoral Degree,Marketing,No,0,1,5380,1,0,55+,0-1 years
+1598,No,Sales,Sales Executive,Female,40,Associates Degree,Life Sciences,No,5,1,4639,1,0,35-44,2-5 years
+1784,No,Sales,Sales Executive,Female,31,Master's Degree,Marketing,No,12,4,5468,1,0,25-34,11+ years
+2024,No,Sales,Sales Executive,Female,36,Bachelor's Degree,Medical,No,9,4,7644,1,0,35-44,6-10 years
+1673,No,Sales,Sales Executive,Female,31,Master's Degree,Life Sciences,No,10,4,5476,1,0,25-34,6-10 years
+1436,No,Sales,Sales Executive,Female,36,Master's Degree,Marketing,No,3,1,5647,1,0,35-44,2-5 years
+2016,No,Sales,Sales Executive,Female,32,Master's Degree,Marketing,No,14,4,10422,1,0,25-34,11+ years
+1898,No,Sales,Sales Executive,Female,27,Associates Degree,Medical,No,8,3,6500,1,0,25-34,6-10 years
+1583,No,Sales,Sales Executive,Female,38,Bachelor's Degree,Life Sciences,No,3,2,4198,1,0,35-44,2-5 years
+1585,No,Sales,Sales Executive,Female,36,Master's Degree,Life Sciences,No,1,3,6815,1,0,35-44,0-1 years
+1657,No,Sales,Sales Representative,Female,20,Bachelor's Degree,Medical,No,2,3,2783,1,0,Under 25,2-5 years
+1710,No,Sales,Sales Representative,Female,36,Master's Degree,Life Sciences,No,13,4,4502,1,0,35-44,11+ years
+1779,No,Sales,Sales Executive,Female,34,Associates Degree,Life Sciences,No,2,4,6029,1,0,25-34,2-5 years
+2060,No,Sales,Sales Representative,Female,26,Bachelor's Degree,Other,No,4,3,2966,1,0,25-34,2-5 years
+2046,No,Sales,Sales Executive,Female,45,Bachelor's Degree,Life Sciences,No,5,3,4850,1,0,45-54,2-5 years
+1757,No,Sales,Sales Executive,Female,49,Master's Degree,Marketing,No,5,4,4507,1,0,45-54,2-5 years
+1858,No,HR,Human Resources,Male,28,Associates Degree,Life Sciences,No,3,4,2706,1,0,25-34,2-5 years
+1805,No,HR,Human Resources,Male,38,Bachelor's Degree,Human Resources,No,11,2,2592,1,0,35-44,11+ years
+1722,No,HR,Human Resources,Male,41,Bachelor's Degree,Human Resources,No,3,2,6430,1,0,35-44,2-5 years
+1804,No,R&D,Manufacturing Director,Male,35,Associates Degree,Medical,No,7,4,5762,1,0,35-44,6-10 years
+1468,No,R&D,Research Director,Male,40,High School,Medical,No,9,2,13757,1,0,35-44,6-10 years
+1482,No,R&D,Research Scientist,Male,30,Bachelor's Degree,Technical Degree,No,1,3,1274,1,0,25-34,0-1 years
+1449,No,R&D,Laboratory Technician,Male,40,Master's Degree,Other,No,8,3,3975,1,0,35-44,6-10 years
+1771,No,R&D,Research Scientist,Male,33,Bachelor's Degree,Technical Degree,No,9,2,3055,1,0,25-34,6-10 years
+1994,No,R&D,Laboratory Technician,Male,33,Associates Degree,Medical,No,1,3,2008,1,0,25-34,0-1 years
+1934,No,R&D,Research Scientist,Male,47,Master's Degree,Technical Degree,No,8,2,5467,1,0,45-54,6-10 years
+1574,No,R&D,Research Scientist,Male,32,Master's Degree,Technical Degree,No,6,1,4087,1,0,25-34,6-10 years
+1813,No,R&D,Research Scientist,Male,43,Bachelor's Degree,Life Sciences,No,3,3,2438,1,0,35-44,2-5 years
+2057,No,R&D,Manufacturing Director,Male,31,Bachelor's Degree,Medical,No,9,1,9936,1,0,25-34,6-10 years
+1764,No,R&D,Research Scientist,Male,32,Master's Degree,Technical Degree,No,7,2,2718,1,0,25-34,6-10 years
+1471,No,R&D,Laboratory Technician,Male,44,Bachelor's Degree,Life Sciences,No,5,3,3162,1,0,35-44,2-5 years
+1947,No,R&D,Research Scientist,Male,28,Bachelor's Degree,Medical,No,5,3,2144,1,0,25-34,2-5 years
+1440,No,R&D,Laboratory Technician,Male,37,Associates Degree,Technical Degree,No,6,3,3500,1,0,35-44,6-10 years
+1976,No,R&D,Research Scientist,Male,42,Associates Degree,Life Sciences,No,20,3,4332,1,0,35-44,11+ years
+2022,No,R&D,Manager,Male,39,Bachelor's Degree,Life Sciences,No,6,4,19431,1,0,35-44,6-10 years
+2019,No,Sales,Sales Representative,Male,52,Master's Degree,Life Sciences,No,9,4,3482,1,0,45-54,6-10 years
+1612,No,Sales,Sales Executive,Male,45,Bachelor's Degree,Marketing,No,10,1,4385,1,0,45-54,6-10 years
+1731,No,Sales,Sales Executive,Male,47,Master's Degree,Marketing,No,1,2,4978,1,0,45-54,0-1 years
+1801,No,Sales,Sales Executive,Male,46,Associates Degree,Life Sciences,No,2,2,7991,1,0,45-54,2-5 years
+1563,No,HR,Human Resources,Male,38,Master's Degree,Human Resources,No,6,3,6077,1,0,35-44,6-10 years
+1746,No,HR,Human Resources,Male,24,Bachelor's Degree,Medical,No,2,4,2145,1,0,Under 25,2-5 years
+1590,No,R&D,Healthcare Representative,Male,29,High School,Life Sciences,No,6,4,8853,1,0,25-34,6-10 years
+1615,No,R&D,Manufacturing Director,Male,34,Master's Degree,Life Sciences,No,9,4,4724,1,0,25-34,6-10 years
+1485,No,R&D,Research Director,Male,34,Bachelor's Degree,Medical,No,14,1,17007,1,0,25-34,11+ years
+1431,No,R&D,Research Scientist,Male,34,Master's Degree,Other,No,4,1,2996,1,0,25-34,2-5 years
+1653,No,R&D,Manufacturing Director,Male,25,High School,Life Sciences,No,7,3,5206,1,0,25-34,6-10 years
+1941,No,R&D,Research Director,Male,49,High School,Life Sciences,No,5,4,19161,1,0,45-54,2-5 years
+1852,No,R&D,Laboratory Technician,Male,29,High School,Medical,No,11,4,3812,1,0,25-34,11+ years
+1997,No,R&D,Manufacturing Director,Male,38,Master's Degree,Life Sciences,No,8,3,5321,1,0,35-44,6-10 years
+1720,No,R&D,Research Scientist,Male,32,Bachelor's Degree,Life Sciences,No,5,3,3433,1,0,25-34,2-5 years
+1918,No,R&D,Laboratory Technician,Male,26,Bachelor's Degree,Other,No,7,4,2544,1,0,25-34,6-10 years
+2061,No,R&D,Laboratory Technician,Male,36,Associates Degree,Medical,No,5,4,2571,1,0,35-44,2-5 years
+1597,No,R&D,Healthcare Representative,Male,34,Master's Degree,Technical Degree,No,8,3,5063,1,0,25-34,6-10 years
+1668,No,R&D,Research Scientist,Male,38,Bachelor's Degree,Life Sciences,No,13,4,4735,1,0,35-44,11+ years
+1922,No,R&D,Healthcare Representative,Male,45,Master's Degree,Medical,No,4,3,5399,1,0,45-54,2-5 years
+1412,No,R&D,Manufacturing Director,Male,35,Associates Degree,Life Sciences,No,2,4,9362,1,0,35-44,2-5 years
+1648,No,R&D,Research Scientist,Male,27,Bachelor's Degree,Medical,No,4,4,2580,1,0,25-34,2-5 years
+1812,No,Sales,Sales Executive,Male,39,Bachelor's Degree,Life Sciences,No,2,4,4127,1,0,35-44,2-5 years
+1700,No,Sales,Sales Executive,Male,37,Master's Degree,Medical,No,6,4,9525,1,0,35-44,6-10 years
+2065,No,Sales,Sales Executive,Male,49,Bachelor's Degree,Medical,No,9,2,5390,1,0,45-54,6-10 years
+1477,No,Sales,Sales Executive,Male,33,Bachelor's Degree,Medical,No,4,1,4373,1,0,25-34,2-5 years
+1507,No,Sales,Sales Executive,Male,28,Bachelor's Degree,Life Sciences,No,4,1,4898,1,0,25-34,2-5 years
+1613,No,Sales,Sales Executive,Male,31,Master's Degree,Other,No,5,1,5332,1,0,25-34,2-5 years
+1853,No,Sales,Sales Executive,Male,32,Master's Degree,Marketing,No,0,4,4648,1,0,25-34,0-1 years
+1794,No,HR,Human Resources,Male,37,Associates Degree,Other,No,10,2,4071,1,0,35-44,6-10 years
+1865,No,HR,Human Resources,Male,29,High School,Medical,No,1,2,2804,1,0,25-34,0-1 years
+1419,No,HR,Human Resources,Male,29,Bachelor's Degree,Other,No,10,1,7988,1,0,25-34,6-10 years
+1778,No,HR,Human Resources,Male,43,Bachelor's Degree,Life Sciences,No,9,4,3539,1,0,35-44,6-10 years
+1694,No,R&D,Research Scientist,Male,55,Bachelor's Degree,Technical Degree,No,4,2,3537,1,0,55+,2-5 years
+1506,No,R&D,Research Scientist,Male,28,Bachelor's Degree,Life Sciences,No,1,3,1563,1,0,25-34,0-1 years
+1892,No,R&D,Manager,Male,40,Master's Degree,Life Sciences,No,19,1,16823,1,0,35-44,11+ years
+1881,No,R&D,Laboratory Technician,Male,31,Bachelor's Degree,Life Sciences,No,10,3,4197,1,0,25-34,6-10 years
+1627,No,R&D,Laboratory Technician,Male,39,Associates Degree,Medical,No,10,3,3069,1,0,35-44,6-10 years
+1474,No,R&D,Research Scientist,Male,40,Bachelor's Degree,Medical,No,3,3,2345,1,0,35-44,2-5 years
+1857,No,R&D,Manufacturing Director,Male,46,Associates Degree,Life Sciences,No,9,4,8578,1,0,45-54,6-10 years
+1599,No,R&D,Laboratory Technician,Male,43,Bachelor's Degree,Technical Degree,No,6,2,4876,1,0,35-44,6-10 years
+1940,No,R&D,Research Scientist,Male,38,Associates Degree,Life Sciences,No,5,4,4771,1,0,35-44,2-5 years
+1424,No,R&D,Research Director,Male,55,Master's Degree,Medical,No,7,4,14732,1,0,55+,6-10 years
+1484,No,R&D,Healthcare Representative,Male,49,Master's Degree,Life Sciences,No,8,2,10466,1,0,45-54,6-10 years
+1859,No,R&D,Healthcare Representative,Male,29,High School,Life Sciences,No,7,3,6384,1,0,25-34,6-10 years
+1619,No,R&D,Laboratory Technician,Male,27,Bachelor's Degree,Other,No,7,1,4066,1,0,25-34,6-10 years
+1671,No,R&D,Research Scientist,Male,32,Bachelor's Degree,Medical,No,9,2,5470,1,0,25-34,6-10 years
+1553,No,R&D,Healthcare Representative,Male,45,Master's Degree,Technical Degree,No,10,2,7441,1,0,45-54,6-10 years
+1725,No,R&D,Laboratory Technician,Male,24,High School,Medical,No,6,1,3907,1,0,Under 25,6-10 years
+1551,No,R&D,Laboratory Technician,Male,24,Associates Degree,Technical Degree,No,1,1,2296,1,0,Under 25,0-1 years
+1871,No,R&D,Research Scientist,Male,39,Master's Degree,Other,No,2,4,3902,1,0,35-44,2-5 years
+2031,No,R&D,Manager,Male,42,Bachelor's Degree,Life Sciences,No,22,3,18880,1,0,35-44,11+ years
+1543,No,R&D,Research Scientist,Male,37,Bachelor's Degree,Medical,No,10,4,4285,1,0,35-44,6-10 years
+1434,No,R&D,Laboratory Technician,Male,27,High School,Life Sciences,No,5,1,2099,1,0,25-34,2-5 years
+1621,No,R&D,Research Scientist,Male,35,Doctoral Degree,Life Sciences,No,16,1,5208,1,0,35-44,11+ years
+2068,No,R&D,Laboratory Technician,Male,34,Bachelor's Degree,Medical,No,4,3,4404,1,0,25-34,2-5 years
+1689,No,R&D,Healthcare Representative,Male,53,Master's Degree,Medical,No,4,4,7005,1,0,45-54,2-5 years
+1867,No,R&D,Research Director,Male,48,Bachelor's Degree,Life Sciences,No,22,2,19665,1,0,45-54,11+ years
+1989,No,R&D,Laboratory Technician,Male,30,Associates Degree,Medical,No,12,2,3748,1,0,25-34,11+ years
+1954,No,R&D,Healthcare Representative,Male,29,Bachelor's Degree,Life Sciences,No,5,1,5373,1,0,25-34,2-5 years
+1473,No,R&D,Healthcare Representative,Male,49,Master's Degree,Technical Degree,No,3,3,6651,1,0,45-54,2-5 years
+1971,No,R&D,Healthcare Representative,Male,43,Bachelor's Degree,Life Sciences,No,10,3,7510,1,0,35-44,6-10 years
+1415,No,R&D,Laboratory Technician,Male,25,Bachelor's Degree,Technical Degree,No,3,4,3229,1,0,25-34,2-5 years
+1438,No,R&D,Research Scientist,Male,47,Bachelor's Degree,Technical Degree,No,6,4,3420,1,0,45-54,6-10 years
+1826,No,R&D,Laboratory Technician,Male,35,Master's Degree,Medical,No,5,3,2705,1,0,35-44,2-5 years
+1609,No,R&D,Research Scientist,Male,30,Bachelor's Degree,Medical,No,6,2,2141,1,0,25-34,6-10 years
+1696,No,R&D,Laboratory Technician,Male,34,Associates Degree,Medical,No,15,4,3986,1,0,25-34,11+ years
+1931,No,R&D,Research Scientist,Male,27,Master's Degree,Technical Degree,No,5,2,2226,1,0,25-34,2-5 years
+1721,No,R&D,Laboratory Technician,Male,31,Master's Degree,Life Sciences,No,5,3,3477,1,0,25-34,2-5 years
+1729,No,R&D,Research Scientist,Male,30,High School,Life Sciences,No,10,4,2862,1,0,25-34,6-10 years
+1580,No,R&D,Research Scientist,Male,34,Master's Degree,Life Sciences,No,2,4,5484,1,0,25-34,2-5 years
+1903,No,R&D,Healthcare Representative,Male,44,Master's Degree,Life Sciences,No,2,1,5033,1,0,35-44,2-5 years
+1542,No,R&D,Laboratory Technician,Male,42,Bachelor's Degree,Medical,No,1,2,4841,1,0,35-44,0-1 years
+1601,No,R&D,Laboratory Technician,Male,35,Associates Degree,Life Sciences,No,1,4,2690,1,0,35-44,0-1 years
+1911,No,R&D,Research Director,Male,42,Bachelor's Degree,Medical,No,13,1,13348,1,0,35-44,11+ years
+1799,No,R&D,Research Scientist,Male,28,Bachelor's Degree,Life Sciences,No,5,4,2044,1,0,25-34,2-5 years
+1763,No,R&D,Healthcare Representative,Male,30,Bachelor's Degree,Life Sciences,No,7,3,5294,1,0,25-34,6-10 years
+1707,No,R&D,Research Scientist,Male,24,Bachelor's Degree,Medical,No,5,3,4401,1,0,Under 25,2-5 years
+2062,No,R&D,Healthcare Representative,Male,39,High School,Medical,No,7,1,9991,1,0,35-44,6-10 years
+1523,No,R&D,Research Director,Male,44,Bachelor's Degree,Life Sciences,No,20,1,16328,1,0,35-44,11+ years
+1728,No,R&D,Manufacturing Director,Male,35,Master's Degree,Life Sciences,No,7,3,6883,1,0,35-44,6-10 years
+1798,No,R&D,Research Scientist,Male,33,Master's Degree,Life Sciences,No,10,1,3143,1,0,25-34,6-10 years
+1592,No,R&D,Research Scientist,Male,23,Bachelor's Degree,Technical Degree,No,2,3,2073,1,0,Under 25,2-5 years
+1682,No,R&D,Healthcare Representative,Male,36,Master's Degree,Life Sciences,No,3,3,5347,1,0,35-44,2-5 years
+2012,No,R&D,Laboratory Technician,Male,40,Master's Degree,Life Sciences,No,1,4,2406,1,0,35-44,0-1 years
+1803,No,R&D,Healthcare Representative,Male,42,Bachelor's Degree,Medical,No,0,1,5538,1,0,35-44,0-1 years
+1596,No,R&D,Laboratory Technician,Male,35,Bachelor's Degree,Life Sciences,No,10,3,3407,1,0,35-44,6-10 years
+1514,No,R&D,Manufacturing Director,Male,28,High School,Life Sciences,No,8,2,6549,1,0,25-34,6-10 years
+1558,No,R&D,Research Scientist,Male,29,Bachelor's Degree,Life Sciences,No,1,3,2451,1,0,25-34,0-1 years
+1618,No,R&D,Manufacturing Director,Male,39,Doctoral Degree,Medical,No,7,1,5377,1,0,35-44,6-10 years
+1698,No,R&D,Laboratory Technician,Male,33,Bachelor's Degree,Medical,No,14,2,2028,1,0,25-34,11+ years
+1770,No,R&D,Research Director,Male,55,Bachelor's Degree,Medical,No,1,1,19038,1,0,55+,0-1 years
+1631,No,R&D,Manufacturing Director,Male,37,Bachelor's Degree,Life Sciences,No,4,3,5768,1,0,35-44,2-5 years
+1718,No,R&D,Laboratory Technician,Male,26,Master's Degree,Medical,No,3,3,2305,1,0,25-34,2-5 years
+1435,No,R&D,Laboratory Technician,Male,36,Master's Degree,Life Sciences,No,10,4,5810,1,0,35-44,6-10 years
+1659,No,R&D,Laboratory Technician,Male,36,Bachelor's Degree,Life Sciences,No,4,2,2013,1,0,35-44,2-5 years
+1533,No,R&D,Laboratory Technician,Male,23,High School,Life Sciences,No,4,3,2272,1,0,Under 25,2-5 years
+1577,No,R&D,Research Scientist,Male,34,Master's Degree,Medical,No,1,4,2972,1,0,25-34,0-1 years
+2014,No,R&D,Research Scientist,Male,39,High School,Life Sciences,No,7,4,4108,1,0,35-44,6-10 years
+1981,No,R&D,Healthcare Representative,Male,24,Associates Degree,Life Sciences,No,4,3,4617,1,0,Under 25,2-5 years
+2008,No,R&D,Research Scientist,Male,35,Master's Degree,Medical,No,10,3,5098,1,0,35-44,6-10 years
+1814,No,R&D,Healthcare Representative,Male,41,Bachelor's Degree,Life Sciences,No,3,2,6870,1,0,35-44,2-5 years
+2048,No,R&D,Research Scientist,Male,40,Master's Degree,Life Sciences,No,2,3,2809,1,0,35-44,2-5 years
+1952,No,R&D,Laboratory Technician,Male,26,Bachelor's Degree,Medical,No,7,1,2867,1,0,25-34,6-10 years
+1727,No,R&D,Healthcare Representative,Male,46,Master's Degree,Life Sciences,No,10,2,5562,1,0,45-54,6-10 years
+1677,No,R&D,Manager,Male,49,Bachelor's Degree,Life Sciences,No,8,3,15379,1,0,45-54,6-10 years
+1623,No,R&D,Research Scientist,Male,21,High School,Medical,No,2,4,3117,1,0,Under 25,2-5 years
+1417,No,R&D,Laboratory Technician,Male,26,Bachelor's Degree,Other,No,7,1,3578,1,0,25-34,6-10 years
+1564,No,R&D,Laboratory Technician,Male,35,Bachelor's Degree,Medical,No,3,1,2450,1,0,35-44,2-5 years
+1545,No,R&D,Manufacturing Director,Male,33,Bachelor's Degree,Life Sciences,No,5,2,4320,1,0,25-34,2-5 years
+1883,No,R&D,Laboratory Technician,Male,29,Bachelor's Degree,Life Sciences,No,3,1,2062,1,0,25-34,2-5 years
+2038,No,R&D,Research Scientist,Male,32,Bachelor's Degree,Technical Degree,No,4,1,2439,1,0,25-34,2-5 years
+1475,No,R&D,Research Scientist,Male,44,Bachelor's Degree,Life Sciences,No,5,2,3420,1,0,35-44,2-5 years
+1860,No,R&D,Laboratory Technician,Male,42,Bachelor's Degree,Life Sciences,No,0,3,3968,1,0,35-44,0-1 years
+2007,No,R&D,Research Scientist,Male,22,Associates Degree,Life Sciences,No,3,3,3375,1,0,Under 25,2-5 years
+1982,No,R&D,Laboratory Technician,Male,23,Associates Degree,Other,No,5,4,2647,1,0,Under 25,2-5 years
+1472,No,R&D,Research Director,Male,53,Bachelor's Degree,Medical,No,9,2,16598,1,0,45-54,6-10 years
+1453,No,Sales,Sales Executive,Male,31,Associates Degree,Life Sciences,No,13,4,10793,1,0,25-34,11+ years
+1754,No,Sales,Sales Executive,Male,30,Associates Degree,Marketing,No,7,1,7140,1,0,25-34,6-10 years
+2037,No,Sales,Sales Executive,Male,41,Bachelor's Degree,Life Sciences,No,5,2,8938,1,0,35-44,2-5 years
+1951,No,Sales,Sales Executive,Male,34,Master's Degree,Medical,No,8,3,8628,1,0,25-34,6-10 years
+1497,No,Sales,Sales Executive,Male,29,Bachelor's Degree,Life Sciences,No,10,3,8620,1,0,25-34,6-10 years
+1670,No,Sales,Sales Executive,Male,33,Master's Degree,Medical,No,6,4,5505,1,0,25-34,6-10 years
+1466,No,Sales,Sales Executive,Male,48,Bachelor's Degree,Marketing,No,2,1,5486,1,0,45-54,2-5 years
+1548,No,Sales,Sales Executive,Male,40,Associates Degree,Medical,No,8,1,5473,1,0,35-44,6-10 years
+1560,No,Sales,Sales Executive,Male,33,Master's Degree,Life Sciences,No,2,1,6392,1,0,25-34,2-5 years
+1996,No,Sales,Sales Representative,Male,31,Associates Degree,Life Sciences,No,2,3,3067,1,0,25-34,2-5 years
+1749,No,Sales,Sales Executive,Male,31,Bachelor's Degree,Technical Degree,No,5,3,8346,1,0,25-34,2-5 years
+2013,No,Sales,Sales Representative,Male,32,Master's Degree,Medical,No,2,2,2269,1,0,25-34,2-5 years
+1945,No,Sales,Sales Executive,Male,35,Master's Degree,Medical,No,5,1,5561,1,0,35-44,2-5 years
+1568,No,Sales,Sales Executive,Male,30,Master's Degree,Technical Degree,No,4,2,9250,1,0,25-34,2-5 years
+1582,No,Sales,Sales Executive,Male,38,Bachelor's Degree,Life Sciences,No,9,2,9924,1,0,35-44,6-10 years
+1739,No,Sales,Sales Executive,Male,32,Bachelor's Degree,Life Sciences,No,4,3,9610,1,0,25-34,2-5 years
+1492,No,Sales,Sales Representative,Male,35,High School,Life Sciences,No,1,3,2404,1,0,35-44,0-1 years
+1446,No,Sales,Sales Executive,Male,32,Doctoral Degree,Marketing,No,4,4,9204,1,0,25-34,2-5 years
+1588,No,Sales,Sales Executive,Male,39,Bachelor's Degree,Medical,No,7,3,8237,1,0,35-44,6-10 years
+1787,No,Sales,Sales Executive,Male,37,Associates Degree,Marketing,No,5,2,4189,1,0,35-44,2-5 years
+1908,No,Sales,Sales Executive,Male,36,Associates Degree,Marketing,No,4,2,5507,1,0,35-44,2-5 years
+1995,No,Sales,Sales Executive,Male,38,Master's Degree,Life Sciences,No,15,2,4440,1,0,35-44,11+ years
+1479,No,Sales,Sales Executive,Male,30,High School,Life Sciences,No,2,3,5301,1,0,25-34,2-5 years
+1961,No,Sales,Sales Representative,Male,38,Bachelor's Degree,Life Sciences,No,1,1,2858,1,0,35-44,0-1 years
+1975,No,Sales,Sales Executive,Male,39,Master's Degree,Marketing,No,20,1,13341,1,0,35-44,11+ years
+1740,No,Sales,Manager,Male,40,Master's Degree,Medical,No,21,2,19833,1,0,35-44,11+ years
+1924,No,Sales,Sales Executive,Male,33,Master's Degree,Marketing,No,10,3,5487,1,0,25-34,6-10 years
+1650,No,Sales,Sales Executive,Male,29,Bachelor's Degree,Medical,No,5,3,5869,1,0,25-34,2-5 years
+1836,No,Sales,Sales Executive,Male,26,Bachelor's Degree,Medical,No,5,4,4684,1,0,25-34,2-5 years
+1478,No,Sales,Sales Executive,Male,34,Bachelor's Degree,Other,No,13,1,4759,1,0,25-34,11+ years
+1680,No,Sales,Sales Representative,Male,20,High School,Life Sciences,No,2,1,2728,1,0,Under 25,2-5 years
+1469,No,Sales,Sales Executive,Male,28,Bachelor's Degree,Medical,No,5,1,8463,1,0,25-34,2-5 years
+1708,No,Sales,Sales Executive,Male,41,Bachelor's Degree,Marketing,No,10,3,9241,1,0,35-44,6-10 years
+1965,No,Sales,Sales Executive,Male,27,Bachelor's Degree,Marketing,No,7,4,4105,1,0,25-34,6-10 years
+1602,No,Sales,Manager,Male,46,Master's Degree,Life Sciences,No,26,1,17567,1,0,45-54,11+ years
+1605,No,R&D,Research Scientist,Female,22,Associates Degree,Other,Yes,4,3,2814,1,0,Under 25,2-5 years
+1937,No,R&D,Research Scientist,Female,38,Bachelor's Degree,Medical,Yes,20,2,2133,1,0,35-44,11+ years
+1646,No,R&D,Research Scientist,Female,24,High School,Technical Degree,Yes,6,4,3760,1,0,Under 25,6-10 years
+1850,No,R&D,Laboratory Technician,Female,27,Associates Degree,Life Sciences,Yes,5,4,2379,1,0,25-34,2-5 years
+1683,No,HR,Human Resources,Female,44,Bachelor's Degree,Life Sciences,Yes,2,4,3195,1,0,35-44,2-5 years
+2040,No,HR,Human Resources,Female,35,Master's Degree,Life Sciences,Yes,9,4,8837,1,0,35-44,6-10 years
+1608,No,R&D,Research Director,Female,44,Bachelor's Degree,Medical,Yes,22,4,19049,1,0,35-44,11+ years
+1827,No,R&D,Manufacturing Director,Female,47,Bachelor's Degree,Life Sciences,Yes,22,2,10333,1,0,45-54,11+ years
+1674,No,R&D,Laboratory Technician,Female,49,Bachelor's Degree,Medical,Yes,2,1,2587,1,0,45-54,2-5 years
+1974,No,R&D,Laboratory Technician,Female,31,High School,Medical,Yes,1,4,1129,1,0,25-34,0-1 years
+1886,No,R&D,Manufacturing Director,Female,35,Associates Degree,Other,Yes,3,2,4788,1,0,35-44,2-5 years
+1893,No,R&D,Research Scientist,Female,26,Associates Degree,Life Sciences,Yes,1,3,2933,1,0,25-34,0-1 years
+1724,No,R&D,Manufacturing Director,Female,40,Associates Degree,Life Sciences,Yes,1,1,6516,1,0,35-44,0-1 years
+2009,No,R&D,Healthcare Representative,Female,33,Associates Degree,Medical,Yes,9,4,4878,1,0,25-34,6-10 years
+1661,No,R&D,Healthcare Representative,Female,49,High School,Life Sciences,Yes,15,3,13966,1,0,45-54,11+ years
+1703,No,R&D,Healthcare Representative,Female,44,Bachelor's Degree,Life Sciences,Yes,8,4,7879,1,0,35-44,6-10 years
+1638,No,R&D,Manufacturing Director,Female,38,Associates Degree,Medical,Yes,5,3,7756,1,0,35-44,2-5 years
+1614,No,R&D,Manufacturing Director,Female,36,Master's Degree,Life Sciences,Yes,3,3,4663,1,0,35-44,2-5 years
+1587,No,R&D,Healthcare Representative,Female,35,Master's Degree,Medical,Yes,5,3,6142,1,0,35-44,2-5 years
+1611,No,R&D,Laboratory Technician,Female,45,Doctoral Degree,Medical,Yes,10,1,5769,1,0,45-54,6-10 years
+1980,No,R&D,Manufacturing Director,Female,54,Bachelor's Degree,Medical,Yes,5,1,4440,1,0,45-54,2-5 years
+1641,No,R&D,Manufacturing Director,Female,40,Bachelor's Degree,Life Sciences,Yes,4,4,7945,1,0,35-44,2-5 years
+1815,No,Sales,Sales Executive,Female,41,High School,Marketing,Yes,22,3,10447,1,0,35-44,11+ years
+1912,No,Sales,Sales Executive,Female,31,Associates Degree,Medical,Yes,5,4,6583,1,0,25-34,2-5 years
+1962,No,Sales,Sales Executive,Female,35,Master's Degree,Life Sciences,Yes,10,4,5204,1,0,35-44,6-10 years
+1915,No,Sales,Sales Executive,Female,34,High School,Medical,Yes,4,4,8103,1,0,25-34,2-5 years
+1880,No,Sales,Sales Executive,Female,36,Master's Degree,Technical Degree,Yes,10,3,5673,1,0,35-44,6-10 years
+1503,No,Sales,Sales Executive,Female,47,Bachelor's Degree,Medical,Yes,5,3,4591,1,0,45-54,2-5 years
+1938,No,Sales,Manager,Female,58,Bachelor's Degree,Life Sciences,Yes,1,4,17875,1,0,55+,0-1 years
+1445,No,Sales,Sales Executive,Female,24,High School,Medical,Yes,5,3,4162,1,0,Under 25,2-5 years
+1425,No,Sales,Sales Executive,Female,36,Master's Degree,Marketing,Yes,5,2,9278,1,0,35-44,2-5 years
+1552,No,R&D,Healthcare Representative,Male,40,Associates Degree,Life Sciences,Yes,2,4,4069,1,0,35-44,2-5 years
+1948,No,R&D,Research Scientist,Male,31,Associates Degree,Medical,Yes,4,1,3065,1,0,25-34,2-5 years
+1737,No,R&D,Laboratory Technician,Male,39,Bachelor's Degree,Life Sciences,Yes,9,4,6472,1,0,35-44,6-10 years
+1774,No,Sales,Sales Executive,Male,34,Bachelor's Degree,Life Sciences,Yes,15,3,4001,1,0,25-34,11+ years
+1642,No,HR,Human Resources,Male,44,Doctoral Degree,Human Resources,Yes,10,4,5743,1,0,35-44,6-10 years
+1972,No,HR,Human Resources,Male,38,Master's Degree,Other,Yes,6,2,2991,1,0,35-44,6-10 years
+1837,No,R&D,Research Director,Male,58,Master's Degree,Life Sciences,Yes,2,3,15787,1,0,55+,2-5 years
+1932,No,R&D,Research Scientist,Male,34,Master's Degree,Other,Yes,15,4,5747,1,0,25-34,11+ years
+1594,No,R&D,Laboratory Technician,Male,36,Master's Degree,Life Sciences,Yes,3,1,5562,1,0,35-44,2-5 years
+1606,No,R&D,Healthcare Representative,Male,50,Doctoral Degree,Medical,Yes,30,3,11245,1,0,45-54,11+ years
+1547,No,R&D,Healthcare Representative,Male,42,Bachelor's Degree,Life Sciences,Yes,20,4,10124,1,0,35-44,11+ years
+2049,No,R&D,Healthcare Representative,Male,35,Master's Degree,Life Sciences,Yes,10,3,5689,1,0,35-44,6-10 years
+1704,No,R&D,Research Scientist,Male,35,Master's Degree,Medical,Yes,5,4,4930,1,0,35-44,2-5 years
+1496,No,R&D,Manufacturing Director,Male,44,High School,Medical,Yes,2,3,10209,1,0,35-44,2-5 years
+1539,No,R&D,Research Director,Male,50,Doctoral Degree,Medical,Yes,32,4,14411,1,0,45-54,11+ years
+1753,No,R&D,Healthcare Representative,Male,29,Bachelor's Degree,Life Sciences,Yes,3,3,6294,1,0,25-34,2-5 years
+1927,No,Sales,Sales Executive,Male,28,Associates Degree,Life Sciences,Yes,7,4,6834,1,0,25-34,6-10 years
+1973,No,HR,Manager,Male,55,Master's Degree,Human Resources,Yes,10,2,19636,1,0,55+,6-10 years
+1460,No,R&D,Healthcare Representative,Male,45,Bachelor's Degree,Medical,Yes,7,1,10851,1,0,45-54,6-10 years
+1789,No,R&D,Research Director,Male,46,Master's Degree,Medical,Yes,2,4,19328,1,0,45-54,2-5 years
+1998,No,R&D,Research Scientist,Male,42,Master's Degree,Life Sciences,Yes,4,1,5410,1,0,35-44,2-5 years
+1992,No,R&D,Laboratory Technician,Male,25,High School,Other,Yes,2,3,3977,1,0,25-34,2-5 years
+1448,No,R&D,Research Scientist,Male,41,Doctoral Degree,Medical,Yes,4,3,2127,1,0,35-44,2-5 years
+1501,No,R&D,Healthcare Representative,Male,55,Master's Degree,Life Sciences,Yes,3,3,4035,1,0,55+,2-5 years
+1766,No,R&D,Healthcare Representative,Male,38,Bachelor's Degree,Medical,Yes,1,4,5811,1,0,35-44,0-1 years
+1549,No,R&D,Laboratory Technician,Male,33,Master's Degree,Life Sciences,Yes,15,3,5207,1,0,25-34,11+ years
+2053,No,R&D,Laboratory Technician,Male,29,Associates Degree,Other,Yes,4,2,4025,1,0,25-34,2-5 years
+1790,No,R&D,Healthcare Representative,Male,36,Bachelor's Degree,Life Sciences,Yes,12,1,8321,1,0,35-44,11+ years
+2003,No,R&D,Laboratory Technician,Male,35,Master's Degree,Medical,Yes,2,3,2660,1,0,35-44,2-5 years
+1465,No,R&D,Manufacturing Director,Male,45,Bachelor's Degree,Technical Degree,Yes,3,4,9380,1,0,45-54,2-5 years
+1755,No,R&D,Research Scientist,Male,34,Master's Degree,Medical,Yes,5,4,2932,1,0,25-34,2-5 years
+1586,No,R&D,Laboratory Technician,Male,29,High School,Medical,Yes,10,1,4723,1,0,25-34,6-10 years
+2020,No,R&D,Research Scientist,Male,44,Bachelor's Degree,Medical,Yes,4,4,2436,1,0,35-44,2-5 years
+1515,No,R&D,Healthcare Representative,Male,33,Doctoral Degree,Life Sciences,Yes,0,3,6388,1,0,25-34,0-1 years
+1669,No,Sales,Sales Executive,Male,29,Bachelor's Degree,Medical,Yes,10,2,4187,1,0,25-34,6-10 years
+1732,No,Sales,Sales Executive,Male,46,Bachelor's Degree,Life Sciences,Yes,10,4,10368,1,0,45-54,6-10 years
+1943,No,Sales,Sales Executive,Male,42,Master's Degree,Marketing,Yes,0,4,5087,1,0,35-44,0-1 years
+1535,No,Sales,Sales Executive,Male,34,Bachelor's Degree,Technical Degree,Yes,10,3,7083,1,0,25-34,6-10 years
+1591,No,Sales,Manager,Male,50,Bachelor's Degree,Marketing,Yes,1,3,19331,1,0,45-54,0-1 years
+1706,No,Sales,Sales Executive,Male,43,Bachelor's Degree,Medical,Yes,10,4,7847,1,0,35-44,6-10 years
+1882,No,Sales,Sales Executive,Male,34,Bachelor's Degree,Life Sciences,Yes,5,4,9713,1,0,25-34,2-5 years
+2021,No,Sales,Sales Representative,Male,21,High School,Medical,Yes,2,1,2380,1,0,Under 25,2-5 years
+1678,No,Sales,Sales Executive,Male,41,Associates Degree,Life Sciences,Yes,2,3,7082,1,0,35-44,2-5 years
+1979,No,R&D,Research Director,Female,31,Bachelor's Degree,Medical,No,11,3,11031,1,0,25-34,11+ years
+1845,No,Sales,Sales Executive,Female,45,Master's Degree,Life Sciences,No,8,3,5154,1,0,45-54,6-10 years
+1520,No,R&D,Manager,Female,54,Master's Degree,Medical,No,14,4,16032,1,0,45-54,11+ years
+1675,No,R&D,Laboratory Technician,Female,38,Bachelor's Degree,Medical,No,4,2,2440,1,0,35-44,2-5 years
+1736,No,R&D,Manufacturing Director,Female,31,High School,Technical Degree,No,5,4,5238,1,0,25-34,2-5 years
+1744,No,HR,Human Resources,Female,45,Bachelor's Degree,Life Sciences,No,5,3,9756,1,0,45-54,2-5 years
+1622,No,R&D,Manufacturing Director,Female,28,Bachelor's Degree,Medical,No,5,1,4877,1,0,25-34,2-5 years
+1581,No,R&D,Research Scientist,Female,26,Bachelor's Degree,Life Sciences,No,1,4,2061,1,0,25-34,0-1 years
+2034,No,R&D,Manufacturing Director,Female,41,Master's Degree,Life Sciences,No,20,2,13570,1,0,35-44,11+ years
+1441,No,R&D,Research Scientist,Female,56,Associates Degree,Life Sciences,No,3,1,2066,1,0,55+,2-5 years
+1665,No,R&D,Manager,Female,54,Doctoral Degree,Medical,No,10,3,17426,1,0,45-54,6-10 years
+1509,No,R&D,Laboratory Technician,Female,49,Associates Degree,Medical,No,3,1,4789,1,0,45-54,2-5 years
+1834,No,R&D,Research Scientist,Female,28,Bachelor's Degree,Medical,No,3,1,3591,1,0,25-34,2-5 years
+1864,No,Sales,Sales Representative,Female,27,High School,Medical,No,9,3,3540,1,0,25-34,6-10 years
+1909,No,Sales,Sales Executive,Female,41,Bachelor's Degree,Marketing,No,5,2,4393,1,0,35-44,2-5 years
+1554,No,Sales,Sales Representative,Female,35,Master's Degree,Life Sciences,No,5,3,2430,1,0,35-44,2-5 years
+2035,No,Sales,Sales Executive,Female,34,Bachelor's Degree,Marketing,No,8,3,6712,1,0,25-34,6-10 years
+2026,No,R&D,Healthcare Representative,Male,56,Master's Degree,Life Sciences,No,13,3,6306,1,0,55+,11+ years
+1949,No,R&D,Laboratory Technician,Male,36,Master's Degree,Life Sciences,No,5,2,2810,1,0,35-44,2-5 years
+1712,No,R&D,Healthcare Representative,Male,45,High School,Life Sciences,No,23,3,10748,1,0,45-54,11+ years
+1854,No,R&D,Research Scientist,Male,42,Master's Degree,Technical Degree,No,6,3,2936,1,0,35-44,6-10 years
+1693,No,R&D,Laboratory Technician,Male,26,Bachelor's Degree,Medical,No,7,4,2570,1,0,25-34,6-10 years
+1824,No,Sales,Manager,Male,58,Bachelor's Degree,Medical,No,16,2,16291,1,0,55+,11+ years
+2036,No,Sales,Sales Executive,Male,36,Master's Degree,Marketing,No,15,4,5406,1,0,35-44,11+ years
+1890,No,HR,Human Resources,Male,36,High School,Human Resources,No,10,4,3886,1,0,35-44,6-10 years
+1970,No,R&D,Healthcare Representative,Male,33,Associates Degree,Life Sciences,No,9,3,5968,1,0,25-34,6-10 years
+1956,No,R&D,Research Scientist,Male,31,Bachelor's Degree,Life Sciences,No,10,1,5003,1,0,25-34,6-10 years
+1644,No,R&D,Manager,Male,48,Doctoral Degree,Medical,No,2,4,15202,1,0,45-54,2-5 years
+1849,No,Sales,Sales Executive,Male,43,Master's Degree,Life Sciences,No,7,4,5675,1,0,35-44,6-10 years
+1499,No,HR,Human Resources,Male,30,Bachelor's Degree,Life Sciences,No,5,3,2064,1,0,25-34,2-5 years
+1697,No,R&D,Healthcare Representative,Male,60,Master's Degree,Medical,No,1,4,10883,1,0,55+,0-1 years
+1664,No,R&D,Healthcare Representative,Male,36,Associates Degree,Life Sciences,No,5,1,6842,1,0,35-44,2-5 years
+1772,No,R&D,Laboratory Technician,Male,41,Master's Degree,Life Sciences,No,5,1,2289,1,0,35-44,2-5 years
+1768,No,R&D,Laboratory Technician,Male,42,Bachelor's Degree,Medical,No,5,2,2766,1,0,35-44,2-5 years
+1654,No,R&D,Manufacturing Director,Male,39,Bachelor's Degree,Medical,No,5,2,5295,1,0,35-44,2-5 years
+1936,No,R&D,Manufacturing Director,Male,39,Associates Degree,Medical,No,10,1,5151,1,0,35-44,6-10 years
+1873,No,R&D,Research Scientist,Male,55,Master's Degree,Technical Degree,No,5,4,2662,1,0,55+,2-5 years
+1483,No,R&D,Research Scientist,Male,57,Associates Degree,Life Sciences,No,12,3,4900,1,0,55+,11+ years
+1666,No,R&D,Research Director,Male,43,Associates Degree,Life Sciences,No,14,3,17603,1,0,35-44,11+ years
+1999,No,R&D,Research Scientist,Male,41,Bachelor's Degree,Life Sciences,No,5,4,2782,1,0,35-44,2-5 years
+1546,No,R&D,Research Scientist,Male,45,Bachelor's Degree,Technical Degree,No,5,4,2132,1,0,45-54,2-5 years
+1993,No,R&D,Healthcare Representative,Male,47,Bachelor's Degree,Medical,No,17,3,8633,1,0,45-54,11+ years
+1800,No,R&D,Research Director,Male,39,High School,Medical,No,4,3,13464,1,0,35-44,2-5 years
+1516,No,R&D,Manager,Male,32,Bachelor's Degree,Medical,No,5,4,11244,1,0,25-34,2-5 years
+1966,No,R&D,Manufacturing Director,Male,32,Master's Degree,Life Sciences,No,1,4,9679,1,0,25-34,0-1 years
+1595,No,R&D,Manager,Male,42,Associates Degree,Other,No,1,4,19613,1,0,35-44,0-1 years
+1578,No,Sales,Manager,Male,55,Doctoral Degree,Marketing,No,36,4,19586,1,0,55+,11+ years
+1823,No,Sales,Sales Executive,Male,34,Associates Degree,Technical Degree,No,10,3,6799,1,0,25-34,6-10 years
+1950,No,Sales,Sales Executive,Male,34,Bachelor's Degree,Marketing,No,14,4,9888,1,0,25-34,11+ years
+1775,No,R&D,Manufacturing Director,Female,53,Master's Degree,Medical,Yes,3,3,12965,1,0,45-54,2-5 years
+1681,No,Sales,Sales Executive,Female,33,Bachelor's Degree,Life Sciences,Yes,6,4,5368,1,0,25-34,6-10 years
+2017,No,R&D,Research Director,Female,37,Bachelor's Degree,Life Sciences,Yes,16,4,13744,1,0,35-44,11+ years
+1423,No,R&D,Research Director,Female,58,Bachelor's Degree,Medical,Yes,9,1,19701,1,0,55+,6-10 years
+1847,No,R&D,Research Scientist,Female,36,Master's Degree,Other,Yes,1,2,6962,1,0,35-44,0-1 years
+2018,No,Sales,Sales Executive,Female,25,Associates Degree,Other,Yes,5,3,4907,1,0,25-34,2-5 years
+1835,No,Sales,Sales Representative,Female,38,Master's Degree,Marketing,Yes,4,4,5405,1,0,35-44,2-5 years
+1550,No,HR,Manager,Male,40,Associates Degree,Medical,Yes,21,4,16437,1,0,35-44,11+ years
+2064,No,R&D,Manufacturing Director,Male,27,Bachelor's Degree,Life Sciences,Yes,6,2,6142,1,0,25-34,6-10 years
+1885,No,R&D,Research Scientist,Male,37,Master's Degree,Medical,Yes,5,1,4284,1,0,35-44,2-5 years
+1541,No,Sales,Sales Representative,Male,34,Associates Degree,Technical Degree,Yes,11,3,2308,1,0,25-34,11+ years
+1556,No,Sales,Sales Representative,Male,36,Master's Degree,Life Sciences,Yes,3,4,2644,1,0,35-44,2-5 years
+1747,Yes,HR,Human Resources,Female,30,Bachelor's Degree,Human Resources,No,4,4,2180,1,1,25-34,2-5 years
+1944,Yes,HR,Human Resources,Female,27,Bachelor's Degree,Human Resources,No,1,2,2863,1,1,25-34,0-1 years
+1459,Yes,R&D,Manufacturing Director,Female,31,Doctoral Degree,Life Sciences,No,10,2,7446,1,1,25-34,6-10 years
+1537,Yes,R&D,Research Scientist,Female,31,Bachelor's Degree,Life Sciences,No,7,3,4084,1,1,25-34,6-10 years
+1487,Yes,Sales,Sales Executive,Female,29,Bachelor's Degree,Technical Degree,No,5,2,5765,1,1,25-34,2-5 years
+1427,Yes,Sales,Sales Representative,Female,31,Master's Degree,Life Sciences,No,1,3,1359,1,1,25-34,0-1 years
+1467,Yes,HR,Human Resources,Female,34,Master's Degree,Technical Degree,No,2,3,2742,1,1,25-34,2-5 years
+1572,Yes,R&D,Manufacturing Director,Female,53,Doctoral Degree,Technical Degree,No,33,4,10169,1,1,45-54,11+ years
+1433,Yes,R&D,Research Scientist,Female,31,Bachelor's Degree,Life Sciences,No,1,2,1261,1,1,25-34,0-1 years
+1752,Yes,Sales,Sales Representative,Female,29,Bachelor's Degree,Marketing,No,2,2,2760,1,1,25-34,2-5 years
+1807,Yes,R&D,Laboratory Technician,Male,34,Master's Degree,Life Sciences,No,7,1,5346,1,1,25-34,6-10 years
+1504,Yes,R&D,Laboratory Technician,Male,28,Associates Degree,Medical,No,0,1,2561,1,1,25-34,0-1 years
+2044,Yes,Sales,Sales Executive,Male,50,Master's Degree,Life Sciences,No,6,3,6728,1,1,45-54,6-10 years
+1716,Yes,Sales,Sales Executive,Male,47,Bachelor's Degree,Life Sciences,No,23,3,12936,1,1,45-54,11+ years
+1486,Yes,Sales,Sales Representative,Male,28,Bachelor's Degree,Technical Degree,No,3,3,2909,1,1,25-34,2-5 years
+2023,Yes,Sales,Sales Representative,Male,23,Bachelor's Degree,Marketing,No,1,1,1790,1,1,Under 25,0-1 years
+1928,Yes,Sales,Sales Representative,Male,29,Bachelor's Degree,Technical Degree,No,1,1,1091,1,1,25-34,0-1 years
+1842,Yes,HR,Human Resources,Male,31,Doctoral Degree,Human Resources,No,1,1,2956,1,1,25-34,0-1 years
+1714,Yes,HR,Human Resources,Male,24,High School,Human Resources,No,1,3,1555,1,1,Under 25,0-1 years
+1960,Yes,R&D,Laboratory Technician,Male,28,Bachelor's Degree,Technical Degree,No,4,4,2367,1,1,25-34,2-5 years
+2032,Yes,R&D,Laboratory Technician,Male,56,Associates Degree,Technical Degree,No,10,3,2339,1,1,55+,6-10 years
+1573,Yes,R&D,Manufacturing Director,Male,38,Bachelor's Degree,Medical,No,5,2,4855,1,1,35-44,2-5 years
+1522,Yes,R&D,Research Scientist,Male,29,Master's Degree,Technical Degree,No,9,1,2362,1,1,25-34,6-10 years
+1907,Yes,R&D,Laboratory Technician,Male,56,Associates Degree,Life Sciences,No,4,4,2587,1,1,55+,2-5 years
+1534,Yes,R&D,Laboratory Technician,Male,40,Master's Degree,Life Sciences,No,5,1,2018,1,1,35-44,2-5 years
+1809,Yes,R&D,Manufacturing Director,Male,37,Master's Degree,Medical,No,10,1,4213,1,1,35-44,6-10 years
+1692,Yes,R&D,Laboratory Technician,Male,32,Master's Degree,Life Sciences,No,1,2,1393,1,1,25-34,0-1 years
+1457,Yes,Sales,Sales Executive,Male,46,Bachelor's Degree,Marketing,No,7,4,10096,1,1,45-54,6-10 years
+1439,Yes,Sales,Sales Representative,Male,25,Associates Degree,Life Sciences,No,3,1,4400,1,1,25-34,2-5 years
+1639,Yes,Sales,Sales Executive,Male,35,Bachelor's Degree,Medical,No,13,1,10306,1,1,35-44,11+ years
+1562,Yes,Sales,Sales Executive,Male,30,Bachelor's Degree,Life Sciences,No,10,1,9714,1,1,25-34,6-10 years
+1761,Yes,Sales,Sales Executive,Male,31,Master's Degree,Marketing,No,1,3,8161,1,1,25-34,0-1 years
+1734,Yes,Sales,Sales Executive,Male,32,Associates Degree,Life Sciences,No,0,2,6735,1,1,25-34,0-1 years
+1780,Yes,Sales,Sales Representative,Male,21,High School,Marketing,No,1,2,2679,1,1,Under 25,0-1 years
+1876,Yes,Sales,Sales Representative,Male,30,Bachelor's Degree,Medical,No,1,4,1081,1,1,25-34,0-1 years
+1939,Yes,R&D,Research Scientist,Female,32,Associates Degree,Life Sciences,Yes,4,3,2432,1,1,25-34,2-5 years
+1421,Yes,R&D,Healthcare Representative,Female,29,High School,Other,Yes,8,4,7553,1,1,25-34,6-10 years
+1691,Yes,Sales,Sales Representative,Female,48,Associates Degree,Medical,Yes,9,3,2655,1,1,45-54,6-10 years
+1624,Yes,Sales,Sales Representative,Female,18,Associates Degree,Medical,Yes,0,4,1569,1,1,Under 25,0-1 years
+1818,Yes,HR,Human Resources,Female,26,Associates Degree,Medical,Yes,5,2,2148,1,1,25-34,2-5 years
+1569,Yes,R&D,Laboratory Technician,Female,35,Bachelor's Degree,Life Sciences,Yes,1,1,2074,1,1,35-44,0-1 years
+1783,Yes,R&D,Laboratory Technician,Female,22,High School,Medical,Yes,1,1,2398,1,1,Under 25,0-1 years
+1933,Yes,Sales,Sales Executive,Female,28,Associates Degree,Marketing,Yes,2,3,9854,1,1,25-34,2-5 years
+1792,Yes,R&D,Research Scientist,Male,44,Associates Degree,Medical,Yes,5,2,2342,1,1,35-44,2-5 years
+1464,Yes,R&D,Laboratory Technician,Male,31,Bachelor's Degree,Life Sciences,Yes,2,4,3722,1,1,25-34,2-5 years
+1767,Yes,R&D,Research Scientist,Male,43,Bachelor's Degree,Technical Degree,Yes,1,3,2437,1,1,35-44,0-1 years
+1494,Yes,R&D,Laboratory Technician,Male,24,Bachelor's Degree,Medical,Yes,0,1,3172,1,1,Under 25,0-1 years
+1967,Yes,Sales,Sales Executive,Male,31,Master's Degree,Marketing,Yes,10,4,5617,1,1,25-34,6-10 years
+1844,Yes,HR,Human Resources,Male,29,Bachelor's Degree,Human Resources,Yes,2,1,2335,1,1,25-34,2-5 years
+2027,Yes,R&D,Research Scientist,Male,29,Master's Degree,Medical,Yes,2,4,4787,1,1,25-34,2-5 years
+1604,Yes,R&D,Laboratory Technician,Male,28,Bachelor's Degree,Medical,Yes,1,2,2408,1,1,25-34,0-1 years
+1649,Yes,R&D,Laboratory Technician,Male,40,Bachelor's Degree,Life Sciences,Yes,4,1,2166,1,1,35-44,2-5 years
+1684,Yes,R&D,Laboratory Technician,Male,23,High School,Medical,Yes,5,3,3989,1,1,Under 25,2-5 years
+2055,Yes,Sales,Sales Executive,Male,50,Bachelor's Degree,Marketing,Yes,3,1,10854,1,1,45-54,2-5 years
+1645,Yes,Sales,Sales Executive,Male,35,Associates Degree,Medical,Yes,2,4,5440,1,1,35-44,2-5 years
+1733,Yes,Sales,Sales Executive,Male,36,Doctoral Degree,Marketing,Yes,2,1,6134,1,1,35-44,2-5 years
+1968,Yes,Sales,Sales Executive,Male,53,Master's Degree,Life Sciences,Yes,2,1,10448,1,1,45-54,2-5 years
+1862,Yes,Sales,Sales Executive,Male,32,Master's Degree,Marketing,Yes,2,2,9907,1,1,25-34,2-5 years
+1797,Yes,Sales,Sales Executive,Male,35,Bachelor's Degree,Life Sciences,Yes,10,4,5813,1,1,35-44,6-10 years
+1821,Yes,R&D,Healthcare Representative,Female,46,Associates Degree,Medical,No,9,2,8926,1,1,45-54,6-10 years
+1869,Yes,Sales,Sales Executive,Female,46,Bachelor's Degree,Life Sciences,No,8,2,7314,1,1,45-54,6-10 years
+1420,Yes,R&D,Laboratory Technician,Male,49,Associates Degree,Life Sciences,No,4,1,4284,1,1,45-54,2-5 years
+1458,Yes,R&D,Laboratory Technician,Female,39,Bachelor's Degree,Life Sciences,Yes,1,1,3646,1,1,35-44,0-1 years
+1489,Yes,Sales,Sales Executive,Female,34,Master's Degree,Medical,Yes,15,2,4599,1,1,25-34,11+ years
+1758,Yes,Sales,Sales Executive,Female,33,Bachelor's Degree,Life Sciences,Yes,0,1,8564,1,1,25-34,0-1 years
+1905,Yes,R&D,Research Scientist,Male,34,Master's Degree,Technical Degree,Yes,5,1,2307,1,1,25-34,2-5 years
+1868,Yes,R&D,Research Scientist,Male,29,Associates Degree,Life Sciences,Yes,1,4,2439,1,1,25-34,0-1 years
+1667,Yes,Sales,Sales Executive,Male,35,Master's Degree,Other,Yes,11,4,4581,1,1,35-44,11+ years
+1878,Yes,R&D,Research Scientist,Male,22,High School,Life Sciences,Yes,1,2,2472,1,1,Under 25,0-1 years
+1702,Yes,Sales,Sales Representative,Male,23,Bachelor's Degree,Life Sciences,Yes,3,4,2275,1,1,Under 25,2-5 years

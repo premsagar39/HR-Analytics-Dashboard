@@ -1,0 +1,35 @@
+{
+  "native_worksheets": 7,
+  "dashboards": 1,
+  "shared_filters": 3,
+  "filter_actions": 1,
+  "extract_preserved": true,
+  "original_extract_sha256": {
+    "Data/TableauTemp/#TableauTemp_1ytyz6q0jbtq3r1b1h0h21uyfvxl.hyper": "adc5cd56e433f05d508edc0ced52b0450eb6dc0aaf138f561a3d26595bd17cfc"
+  },
+  "source_packaged": true,
+  "native_desktop_verification": "Passed: final workbook opened and saved in Tableau Desktop 2026.2 without load errors or field-removal warnings.",
+  "worksheet_references_checked": true,
+  "filter_dependencies_checked": true,
+  "packaged_refresh_source_matches": true,
+  "device_layout_has_required_child": true,
+  "device_zone_references_checked": true,
+  "worksheet_filter_order_checked": true,
+  "invalid_mark_size_absent": true,
+  "native_runtime_checks": {
+    "overall_employees": 1470,
+    "overall_attrition": 237,
+    "overall_attrition_rate_display": "16.12%",
+    "gender_female_employees": 588,
+    "gender_female_attrition": 87,
+    "sales_action_employees": 446,
+    "sales_action_attrition": 92,
+    "sales_action_active": 354,
+    "sales_action_rate_display": "20.6%",
+    "clear_selection_restored_all": true,
+    "department_tooltip_counts_checked": true,
+    "seven_worksheets_rendered": true,
+    "native_dashboard_png_exported": true
+  },
+  "workbook_sha256": "a75c790f1c6f9bef2dd39ee9a5250b5380b84de2b52f252fbe4924a1aecbd03c"
+}

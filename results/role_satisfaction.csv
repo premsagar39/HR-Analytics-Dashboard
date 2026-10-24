@@ -1,0 +1,37 @@
+job_role,job_satisfaction,employees,attrition_count,attrition_rate_pct
+Healthcare Representative,1,26,2,7.69
+Healthcare Representative,2,19,2,10.53
+Healthcare Representative,3,43,1,2.33
+Healthcare Representative,4,43,4,9.3
+Human Resources,1,10,5,50.0
+Human Resources,2,16,2,12.5
+Human Resources,3,13,3,23.08
+Human Resources,4,13,2,15.38
+Laboratory Technician,1,56,20,35.71
+Laboratory Technician,2,48,8,16.67
+Laboratory Technician,3,75,21,28.0
+Laboratory Technician,4,80,13,16.25
+Manager,1,21,1,4.76
+Manager,2,21,2,9.52
+Manager,3,27,1,3.7
+Manager,4,33,1,3.03
+Manufacturing Director,1,26,2,7.69
+Manufacturing Director,2,32,2,6.25
+Manufacturing Director,3,49,4,8.16
+Manufacturing Director,4,38,2,5.26
+Research Director,1,15,0,0.0
+Research Director,2,16,1,6.25
+Research Director,3,27,1,3.7
+Research Director,4,22,0,0.0
+Research Scientist,1,54,13,24.07
+Research Scientist,2,53,10,18.87
+Research Scientist,3,90,15,16.67
+Research Scientist,4,95,9,9.47
+Sales Executive,1,69,16,23.19
+Sales Executive,2,54,9,16.67
+Sales Executive,3,91,18,19.78
+Sales Executive,4,112,14,12.5
+Sales Representative,1,12,7,58.33
+Sales Representative,2,21,10,47.62
+Sales Representative,3,27,9,33.33
+Sales Representative,4,23,7,30.43

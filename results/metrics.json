@@ -1,0 +1,498 @@
+{
+  "overview": [
+    {
+      "employees": 1470,
+      "attrition_count": 237,
+      "active_employees": 1233,
+      "attrition_rate_pct": 16.12,
+      "average_age": 36.92
+    }
+  ],
+  "department": [
+    {
+      "department": "Sales",
+      "employees": 446,
+      "attrition_count": 92,
+      "attrition_rate_pct": 20.63
+    },
+    {
+      "department": "HR",
+      "employees": 63,
+      "attrition_count": 12,
+      "attrition_rate_pct": 19.05
+    },
+    {
+      "department": "R&D",
+      "employees": 961,
+      "attrition_count": 133,
+      "attrition_rate_pct": 13.84
+    }
+  ],
+  "job_role": [
+    {
+      "job_role": "Sales Representative",
+      "employees": 83,
+      "attrition_count": 33,
+      "attrition_rate_pct": 39.76,
+      "rate_rank": 1
+    },
+    {
+      "job_role": "Laboratory Technician",
+      "employees": 259,
+      "attrition_count": 62,
+      "attrition_rate_pct": 23.94,
+      "rate_rank": 2
+    },
+    {
+      "job_role": "Human Resources",
+      "employees": 52,
+      "attrition_count": 12,
+      "attrition_rate_pct": 23.08,
+      "rate_rank": 3
+    },
+    {
+      "job_role": "Sales Executive",
+      "employees": 326,
+      "attrition_count": 57,
+      "attrition_rate_pct": 17.48,
+      "rate_rank": 4
+    },
+    {
+      "job_role": "Research Scientist",
+      "employees": 292,
+      "attrition_count": 47,
+      "attrition_rate_pct": 16.1,
+      "rate_rank": 5
+    },
+    {
+      "job_role": "Manufacturing Director",
+      "employees": 145,
+      "attrition_count": 10,
+      "attrition_rate_pct": 6.9,
+      "rate_rank": 6
+    },
+    {
+      "job_role": "Healthcare Representative",
+      "employees": 131,
+      "attrition_count": 9,
+      "attrition_rate_pct": 6.87,
+      "rate_rank": 7
+    },
+    {
+      "job_role": "Manager",
+      "employees": 102,
+      "attrition_count": 5,
+      "attrition_rate_pct": 4.9,
+      "rate_rank": 8
+    },
+    {
+      "job_role": "Research Director",
+      "employees": 80,
+      "attrition_count": 2,
+      "attrition_rate_pct": 2.5,
+      "rate_rank": 9
+    }
+  ],
+  "overtime": [
+    {
+      "overtime": "Yes",
+      "employees": 416,
+      "attrition_count": 127,
+      "attrition_rate_pct": 30.53
+    },
+    {
+      "overtime": "No",
+      "employees": 1054,
+      "attrition_count": 110,
+      "attrition_rate_pct": 10.44
+    }
+  ],
+  "overtime_gap": [
+    {
+      "percentage_point_gap": 20.09,
+      "rate_ratio": 2.93
+    }
+  ],
+  "age_band": [
+    {
+      "age_band": "Under 25",
+      "employees": 97,
+      "attrition_count": 38,
+      "attrition_rate_pct": 39.18
+    },
+    {
+      "age_band": "25-34",
+      "employees": 554,
+      "attrition_count": 112,
+      "attrition_rate_pct": 20.22
+    },
+    {
+      "age_band": "35-44",
+      "employees": 505,
+      "attrition_count": 51,
+      "attrition_rate_pct": 10.1
+    },
+    {
+      "age_band": "45-54",
+      "employees": 245,
+      "attrition_count": 25,
+      "attrition_rate_pct": 10.2
+    },
+    {
+      "age_band": "55+",
+      "employees": 69,
+      "attrition_count": 11,
+      "attrition_rate_pct": 15.94
+    }
+  ],
+  "tenure_band": [
+    {
+      "tenure_band": "0-1 years",
+      "employees": 215,
+      "attrition_count": 75,
+      "attrition_rate_pct": 34.88
+    },
+    {
+      "tenure_band": "2-5 years",
+      "employees": 561,
+      "attrition_count": 87,
+      "attrition_rate_pct": 15.51
+    },
+    {
+      "tenure_band": "6-10 years",
+      "employees": 448,
+      "attrition_count": 55,
+      "attrition_rate_pct": 12.28
+    },
+    {
+      "tenure_band": "11+ years",
+      "employees": 246,
+      "attrition_count": 20,
+      "attrition_rate_pct": 8.13
+    }
+  ],
+  "job_satisfaction": [
+    {
+      "job_satisfaction": 1,
+      "employees": 289,
+      "attrition_count": 66,
+      "attrition_rate_pct": 22.84
+    },
+    {
+      "job_satisfaction": 2,
+      "employees": 280,
+      "attrition_count": 46,
+      "attrition_rate_pct": 16.43
+    },
+    {
+      "job_satisfaction": 3,
+      "employees": 442,
+      "attrition_count": 73,
+      "attrition_rate_pct": 16.52
+    },
+    {
+      "job_satisfaction": 4,
+      "employees": 459,
+      "attrition_count": 52,
+      "attrition_rate_pct": 11.33
+    }
+  ],
+  "role_satisfaction": [
+    {
+      "job_role": "Healthcare Representative",
+      "job_satisfaction": 1,
+      "employees": 26,
+      "attrition_count": 2,
+      "attrition_rate_pct": 7.69
+    },
+    {
+      "job_role": "Healthcare Representative",
+      "job_satisfaction": 2,
+      "employees": 19,
+      "attrition_count": 2,
+      "attrition_rate_pct": 10.53
+    },
+    {
+      "job_role": "Healthcare Representative",
+      "job_satisfaction": 3,
+      "employees": 43,
+      "attrition_count": 1,
+      "attrition_rate_pct": 2.33
+    },
+    {
+      "job_role": "Healthcare Representative",
+      "job_satisfaction": 4,
+      "employees": 43,
+      "attrition_count": 4,
+      "attrition_rate_pct": 9.3
+    },
+    {
+      "job_role": "Human Resources",
+      "job_satisfaction": 1,
+      "employees": 10,
+      "attrition_count": 5,
+      "attrition_rate_pct": 50.0
+    },
+    {
+      "job_role": "Human Resources",
+      "job_satisfaction": 2,
+      "employees": 16,
+      "attrition_count": 2,
+      "attrition_rate_pct": 12.5
+    },
+    {
+      "job_role": "Human Resources",
+      "job_satisfaction": 3,
+      "employees": 13,
+      "attrition_count": 3,
+      "attrition_rate_pct": 23.08
+    },
+    {
+      "job_role": "Human Resources",
+      "job_satisfaction": 4,
+      "employees": 13,
+      "attrition_count": 2,
+      "attrition_rate_pct": 15.38
+    },
+    {
+      "job_role": "Laboratory Technician",
+      "job_satisfaction": 1,
+      "employees": 56,
+      "attrition_count": 20,
+      "attrition_rate_pct": 35.71
+    },
+    {
+      "job_role": "Laboratory Technician",
+      "job_satisfaction": 2,
+      "employees": 48,
+      "attrition_count": 8,
+      "attrition_rate_pct": 16.67
+    },
+    {
+      "job_role": "Laboratory Technician",
+      "job_satisfaction": 3,
+      "employees": 75,
+      "attrition_count": 21,
+      "attrition_rate_pct": 28.0
+    },
+    {
+      "job_role": "Laboratory Technician",
+      "job_satisfaction": 4,
+      "employees": 80,
+      "attrition_count": 13,
+      "attrition_rate_pct": 16.25
+    },
+    {
+      "job_role": "Manager",
+      "job_satisfaction": 1,
+      "employees": 21,
+      "attrition_count": 1,
+      "attrition_rate_pct": 4.76
+    },
+    {
+      "job_role": "Manager",
+      "job_satisfaction": 2,
+      "employees": 21,
+      "attrition_count": 2,
+      "attrition_rate_pct": 9.52
+    },
+    {
+      "job_role": "Manager",
+      "job_satisfaction": 3,
+      "employees": 27,
+      "attrition_count": 1,
+      "attrition_rate_pct": 3.7
+    },
+    {
+      "job_role": "Manager",
+      "job_satisfaction": 4,
+      "employees": 33,
+      "attrition_count": 1,
+      "attrition_rate_pct": 3.03
+    },
+    {
+      "job_role": "Manufacturing Director",
+      "job_satisfaction": 1,
+      "employees": 26,
+      "attrition_count": 2,
+      "attrition_rate_pct": 7.69
+    },
+    {
+      "job_role": "Manufacturing Director",
+      "job_satisfaction": 2,
+      "employees": 32,
+      "attrition_count": 2,
+      "attrition_rate_pct": 6.25
+    },
+    {
+      "job_role": "Manufacturing Director",
+      "job_satisfaction": 3,
+      "employees": 49,
+      "attrition_count": 4,
+      "attrition_rate_pct": 8.16
+    },
+    {
+      "job_role": "Manufacturing Director",
+      "job_satisfaction": 4,
+      "employees": 38,
+      "attrition_count": 2,
+      "attrition_rate_pct": 5.26
+    },
+    {
+      "job_role": "Research Director",
+      "job_satisfaction": 1,
+      "employees": 15,
+      "attrition_count": 0,
+      "attrition_rate_pct": 0.0
+    },
+    {
+      "job_role": "Research Director",
+      "job_satisfaction": 2,
+      "employees": 16,
+      "attrition_count": 1,
+      "attrition_rate_pct": 6.25
+    },
+    {
+      "job_role": "Research Director",
+      "job_satisfaction": 3,
+      "employees": 27,
+      "attrition_count": 1,
+      "attrition_rate_pct": 3.7
+    },
+    {
+      "job_role": "Research Director",
+      "job_satisfaction": 4,
+      "employees": 22,
+      "attrition_count": 0,
+      "attrition_rate_pct": 0.0
+    },
+    {
+      "job_role": "Research Scientist",
+      "job_satisfaction": 1,
+      "employees": 54,
+      "attrition_count": 13,
+      "attrition_rate_pct": 24.07
+    },
+    {
+      "job_role": "Research Scientist",
+      "job_satisfaction": 2,
+      "employees": 53,
+      "attrition_count": 10,
+      "attrition_rate_pct": 18.87
+    },
+    {
+      "job_role": "Research Scientist",
+      "job_satisfaction": 3,
+      "employees": 90,
+      "attrition_count": 15,
+      "attrition_rate_pct": 16.67
+    },
+    {
+      "job_role": "Research Scientist",
+      "job_satisfaction": 4,
+      "employees": 95,
+      "attrition_count": 9,
+      "attrition_rate_pct": 9.47
+    },
+    {
+      "job_role": "Sales Executive",
+      "job_satisfaction": 1,
+      "employees": 69,
+      "attrition_count": 16,
+      "attrition_rate_pct": 23.19
+    },
+    {
+      "job_role": "Sales Executive",
+      "job_satisfaction": 2,
+      "employees": 54,
+      "attrition_count": 9,
+      "attrition_rate_pct": 16.67
+    },
+    {
+      "job_role": "Sales Executive",
+      "job_satisfaction": 3,
+      "employees": 91,
+      "attrition_count": 18,
+      "attrition_rate_pct": 19.78
+    },
+    {
+      "job_role": "Sales Executive",
+      "job_satisfaction": 4,
+      "employees": 112,
+      "attrition_count": 14,
+      "attrition_rate_pct": 12.5
+    },
+    {
+      "job_role": "Sales Representative",
+      "job_satisfaction": 1,
+      "employees": 12,
+      "attrition_count": 7,
+      "attrition_rate_pct": 58.33
+    },
+    {
+      "job_role": "Sales Representative",
+      "job_satisfaction": 2,
+      "employees": 21,
+      "attrition_count": 10,
+      "attrition_rate_pct": 47.62
+    },
+    {
+      "job_role": "Sales Representative",
+      "job_satisfaction": 3,
+      "employees": 27,
+      "attrition_count": 9,
+      "attrition_rate_pct": 33.33
+    },
+    {
+      "job_role": "Sales Representative",
+      "job_satisfaction": 4,
+      "employees": 23,
+      "attrition_count": 7,
+      "attrition_rate_pct": 30.43
+    }
+  ],
+  "department_overtime": [
+    {
+      "department": "HR",
+      "overtime": "Yes",
+      "employees": 17,
+      "attrition_count": 5,
+      "attrition_rate_pct": 29.41
+    },
+    {
+      "department": "HR",
+      "overtime": "No",
+      "employees": 46,
+      "attrition_count": 7,
+      "attrition_rate_pct": 15.22
+    },
+    {
+      "department": "R&D",
+      "overtime": "Yes",
+      "employees": 271,
+      "attrition_count": 74,
+      "attrition_rate_pct": 27.31
+    },
+    {
+      "department": "R&D",
+      "overtime": "No",
+      "employees": 690,
+      "attrition_count": 59,
+      "attrition_rate_pct": 8.55
+    },
+    {
+      "department": "Sales",
+      "overtime": "Yes",
+      "employees": 128,
+      "attrition_count": 48,
+      "attrition_rate_pct": 37.5
+    },
+    {
+      "department": "Sales",
+      "overtime": "No",
+      "employees": 318,
+      "attrition_count": 44,
+      "attrition_rate_pct": 13.84
+    }
+  ]
+}

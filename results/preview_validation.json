@@ -1,0 +1,6 @@
+{
+  "filter_cases": 6,
+  "checks_passed": 105,
+  "checks_failed": 0,
+  "verification": "Preview calculation and SVG generation checks; native Tableau verification is separate."
+}

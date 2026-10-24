@@ -1,62 +1,61 @@
+# HR Analytics
 
-# 📊 HR Analytics Dashboard (Tableau)
+Analysis of 1,470 employee records using Tableau, Python and SQL. The project compares attrition rates across departments, job roles, overtime status, age, tenure and job satisfaction.
 
-## 📌 Project + Internship Overview
+![HR Analytics dashboard](assets/tableau-dashboard.png)
 
-This project was developed during my Data Analyst Internship at SmartBridge Educational Services. It focuses on analyzing HR data to understand employee attrition, workforce trends, and key performance metrics.
+The image is exported from the verified Tableau dashboard. [Open the interactive preview](HR_Analytics_Preview.html) locally for department, gender and education filters, cohort counts on hover, and department selection.
 
----
+[Download the Tableau workbook](hr%20analytics%20dashboard.twbx)
 
-## 💼 Internship Details
+## Findings
 
-* **Role:** Data Analyst Intern
-* **Duration:** Oct 2025 – Mar 2026
-* **Certification:** APSCHE Certified
+| Comparison | Attrition records / employees | Attrition rate |
+|---|---:|---:|
+| Overall | 237 / 1,470 | 16.12% |
+| Sales | 92 / 446 | 20.63% |
+| R&D | 133 / 961 | 13.84% |
+| Overtime: Yes | 127 / 416 | 30.53% |
+| Overtime: No | 110 / 1,054 | 10.44% |
+| Tenure: 0–1 years | 75 / 215 | 34.88% |
+| Sales Representative | 33 / 83 | 39.76% |
 
----
+R&D has the largest number of attrition records, while Sales has the higher department rate. Overtime groups differ by 20.09 percentage points. Early-tenure and Sales Representative cohorts are useful starting points for reviewing onboarding, workloads and exit feedback. These are associations within the supplied snapshot; the analysis does not establish causes.
 
-## 🎯 Objectives
+## Dashboard
 
-* Analyze employee attrition and workforce behavior
-* Identify key factors affecting employee retention
-* Build dashboards for HR decision-making
+The redesigned native workbook contains seven worksheets: workforce KPIs, department rates, ranked job-role rates, overtime comparisons, age bands, tenure bands and a job-role/satisfaction heatmap.
 
----
+Department, gender and education dropdowns share one source. Selecting a department filters the other views. Tooltips include employee counts and attrition records alongside the rate. Calculated fields use conditional expressions and aggregate ratios. The packaged workbook retains the original extract and includes its Excel refresh source.
 
-## 🛠 Tools & Technologies
+[Calculated fields](tableau/calculated_fields.md)
 
-* Tableau
-* Microsoft Excel
-* Data Cleaning & Transformation
-* Exploratory Data Analysis (EDA)
+## Data and definitions
 
----
+The input is **HR Data.xlsx** from this repository, matching the fields and headline totals in the supplied Tableau package. Each row represents one employee. Employee Number is unique, Employee Count equals one, and the source contains no missing required fields or duplicate employee IDs.
 
-## 📊 Dashboard Features
+Attrition rate is the number of records with Attrition = Yes divided by all employee records in the selected cohort. Active employees means Attrition = No. This is an undated snapshot, so the result is not an annual turnover rate. Monthly income has no documented currency and is not used for a currency comparison.
 
-* Attrition rate and employee KPI tracking
-* Department-wise attrition analysis
-* Age group and gender-based insights
-* Job satisfaction analysis
-* Interactive filters and visuals
+Age bands are derived directly from Age. Tenure bands are derived from Years At Company. Originals are retained without dropping records. The preparation script trims text, normalizes Yes/No values, checks types and categories, and rejects unexpected duplicate IDs or missing required values.
 
----
+## Reproduce the analysis
 
-## 📈 Key Insights
+~~~bash
+python -m pip install -r requirements.txt
+python src/prepare_hr.py
+~~~
 
-* Higher attrition observed in specific departments and roles
-* Salary, job satisfaction, and work environment are key drivers
-* Young employees (25–34 age group) showed higher attrition trends
+The script prepares `data/hr_analytics.csv`, loads a local SQLite database and executes the ten analysis queries in `sql/hr_analysis.sql`. SQL uses CASE, aggregation, CTEs, NULLIF and DENSE_RANK. It is executed with SQLite 3; this project does not claim a live MySQL connection.
 
----
+The results folder contains cohort summaries, metrics and validation checks. The database is generated locally and excluded from version control.
 
-## 🚀 Impact
+## Verification
 
-* Automated Excel reporting, reducing manual effort by ~40%
-* Provided actionable insights to improve retention strategies
-* Enabled better HR decision-making through interactive dashboards
+- 62 data and SQL reconciliation checks passed.
+- Cohort populations and attrition counts reconcile to the overall totals.
+- The interactive preview is checked against SQL for individual, combined and empty filter selections.
+- Native package structure, worksheet references and retained extract bytes are checked.
+- Opened and saved in Tableau Desktop 2026.2 without load errors or field-removal warnings.
+- Verified the gender filter, department selection, clearing a selection, and department tooltips against the SQL totals.
 
-
-
-
-
+The source extract and the raw Excel file remain unchanged.
